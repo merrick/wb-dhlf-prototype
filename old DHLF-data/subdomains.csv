@@ -1,0 +1,46 @@
+subdomain_id,domain_id,subdomain_code,subdomain_name,subdomain_title,sort_order
+ac51b358-c851-4dd0-8532-778e8448fb6b,a3a485c0-c49e-45e3-be24-29d4201aac37,1.1,Critical Ethical Thinking,1.1 Critical Ethical Thinking,1
+672e7ba4-388c-4d39-9bf2-b9e59edb3fb1,a3a485c0-c49e-45e3-be24-29d4201aac37,1.2,Governance (ethical dimensions),1.2 Governance (ethical dimensions),2
+24881292-5557-4b94-b9da-e94e92382642,a3a485c0-c49e-45e3-be24-29d4201aac37,1.3,Equity,1.3 Equity,3
+e91f1cde-e8f1-41f8-a1f7-2fb075bb4207,a3a485c0-c49e-45e3-be24-29d4201aac37,1.4,"Privacy, Security, Confidentiality","1.4 Privacy, Security, Confidentiality",4
+bd3c7fbb-a259-4dad-bde9-333a6f49314e,a3a485c0-c49e-45e3-be24-29d4201aac37,1.5,Personal Conduct (adapted from WHO-UHC),1.5 Personal Conduct (adapted from WHO-UHC),5
+7324edd7-4830-4b26-aca3-a0711b4cb845,a3a485c0-c49e-45e3-be24-29d4201aac37,1.6,Sustainability,1.6 Sustainability,6
+0839e081-78ba-4843-8682-913e443df0e3,97dc47f9-475f-4012-bb64-f6e7824c7419,2.1,Communication,2.1 Communication,7
+c034064f-af94-4461-96bd-a763df38aa72,97dc47f9-475f-4012-bb64-f6e7824c7419,2.2,Collaboration,2.2 Collaboration,8
+1c9b6fa5-2f7e-4ee7-ab0f-dd3dd46b522d,97dc47f9-475f-4012-bb64-f6e7824c7419,2.3,Decision-Making,2.3 Decision-Making,9
+3d606fa4-0d72-4418-9688-3983de8d600c,97dc47f9-475f-4012-bb64-f6e7824c7419,2.4,Professional Practice,2.4 Professional Practice,10
+60c710fe-ba7c-430b-8221-a8eef5590fc9,af6c3644-043e-40a3-a1d1-ec1b3cf7cfa9,3.1,"Policies, Regulation and Governance","3.1 Policies, Regulation and Governance",11
+f175efd2-1b4b-408b-b77e-4d01a4ff53be,af6c3644-043e-40a3-a1d1-ec1b3cf7cfa9,3.2,Strategy,3.2 Strategy,12
+8f82abd4-37d3-423f-8b58-2454717837a4,af6c3644-043e-40a3-a1d1-ec1b3cf7cfa9,3.3,Leadership and Empowerment,3.3 Leadership and Empowerment,13
+c17078de-7cb3-40b3-9392-5ef0699251fe,af6c3644-043e-40a3-a1d1-ec1b3cf7cfa9,3.4,Management,3.4 Management,14
+a221294c-d39d-4d56-b8c8-ffa51e15290c,af6c3644-043e-40a3-a1d1-ec1b3cf7cfa9,3.5,Digital Health Impact,3.5 Digital Health Impact,15
+96349630-f1ef-407a-b80f-8c4f3d5f4a3b,af6c3644-043e-40a3-a1d1-ec1b3cf7cfa9,3.6,Digital Health Financing,3.6 Digital Health Financing,16
+70a449db-26d4-402d-9c25-390d51af7441,3b08ed38-7653-4534-9b67-c722696bcdb9,4.1,Digital Health Services/Applications,4.1 Digital Health Services/Applications,17
+77c452ad-b533-4f4a-b8dd-e71a366a189a,3b08ed38-7653-4534-9b67-c722696bcdb9,4.2,Digital Health Systems Lifecycle,4.2 Digital Health Systems Lifecycle,18
+8938d10e-0a67-4770-8935-6d57619c6284,3b08ed38-7653-4534-9b67-c722696bcdb9,4.3,Digital Health Architecture and Integration,4.3 Digital Health Architecture and Integration,19
+20e3a2fa-b0da-4e74-8e19-b3cddca09cdd,3b08ed38-7653-4534-9b67-c722696bcdb9,4.4,Health systems implementation (shared from Research),4.4 Health systems implementation (shared from Research),20
+1f8fde2d-52b4-4eab-bbe6-93641aa9459f,cd850f24-4592-430a-a852-665ed588581f,5.1,Digital Health for Persons,5.1 Digital Health for Persons,21
+6112724a-8879-4794-86f2-169e7d3d33e5,cd850f24-4592-430a-a852-665ed588581f,5.2,Digital Health for Healthcare Providers,5.2 Digital Health for Healthcare Providers,22
+1317939f-c2ac-4930-ac98-87e622fe53ff,cd850f24-4592-430a-a852-665ed588581f,5.3,Digital Health for Health Management and Support Personnel,5.3 Digital Health for Health Management and Support Personnel,23
+52332134-d2c8-4628-b682-da8090eaa201,cd850f24-4592-430a-a852-665ed588581f,5.4,Digital Health for Data Services,5.4 Digital Health for Data Services,24
+7f5f1fbe-38f4-47c3-bd26-55ae97a38eaa,7ab09474-3c6c-4bdb-ab35-568b6837878f,6.1,Data Governance and Standards,6.1 Data Governance and Standards,25
+4bfcdec9-66bd-43ae-a0e9-f5a501f21aa5,7ab09474-3c6c-4bdb-ab35-568b6837878f,6.2,Data Management,6.2 Data Management,26
+7954ad09-9fef-4b07-a7da-d09075a6f530,7ab09474-3c6c-4bdb-ab35-568b6837878f,6.3,Data Communication (Interpretation of the data; Reports; Documentation),6.3 Data Communication (Interpretation of the data; Reports; Documentation),27
+66254495-0d75-4754-a3c3-cf7b1c870b37,7ab09474-3c6c-4bdb-ab35-568b6837878f,6.4,Data Use (Information-Enabled Approaches),6.4 Data Use (Information-Enabled Approaches),28
+0d774347-6cdc-46da-9dff-6a70afb4752c,dfafec2f-4633-47fb-af15-eab5131556b6,7.1,Digital/Technical Proficiency,7.1 Digital/Technical Proficiency,29
+48992d4e-c5f8-4acf-b626-09a7bfe0df33,dfafec2f-4633-47fb-af15-eab5131556b6,7.2,"Privacy, Safety, Security","7.2 Privacy, Safety, Security",30
+939cd4c4-21b3-45a9-a1f0-62010c1b1105,dfafec2f-4633-47fb-af15-eab5131556b6,7.3,Digital Communication and Collaboration,7.3 Digital Communication and Collaboration,31
+cf54cbef-7539-42fb-9990-0f2bc5a1404a,dfafec2f-4633-47fb-af15-eab5131556b6,7.4,Information and Data Literacy,7.4 Information and Data Literacy,32
+86cdab77-3d2e-4ef6-a601-63c95a652ffb,dfafec2f-4633-47fb-af15-eab5131556b6,7.5,Digital Content Creation,7.5 Digital Content Creation,33
+82d056f6-413f-4c93-95ff-23e8e5f93ca5,dfafec2f-4633-47fb-af15-eab5131556b6,7.6,"Maintaining wellbeing, worklife balance, avoiding digital overload and burnout","7.6 Maintaining wellbeing, worklife balance, avoiding digital overload and burnout",34
+165c91c1-ca4b-4402-ae4b-2a734bfbc046,070783b1-34c7-45a1-916e-ca73b6cb8ae5,8.1,Workforce Development Strategy,8.1 Workforce Development Strategy,35
+51861fa6-d2e5-443b-85dc-00524737d7ee,070783b1-34c7-45a1-916e-ca73b6cb8ae5,8.2,Learning Design and Delivery,8.2 Learning Design and Delivery,36
+c0ebd9f4-782d-4566-b8ce-9592c9b0901e,070783b1-34c7-45a1-916e-ca73b6cb8ae5,8.3,Accreditation and recognition,8.3 Accreditation and recognition,37
+ba21149d-db75-4ae6-9798-bdef9aed7e1c,070783b1-34c7-45a1-916e-ca73b6cb8ae5,8.4,Personal growth and development (Lifelong Learning),8.4 Personal growth and development (Lifelong Learning),38
+d5b8e641-d3ab-44e6-ae46-544f4eac9af9,070783b1-34c7-45a1-916e-ca73b6cb8ae5,8.5,Digital Education (use technology for teaching/learning),8.5 Digital Education (use technology for teaching/learning),39
+5b606eb0-7d63-4dfc-99e3-98eff254f78c,0d828f62-b74a-412c-a58c-5d8a4a47a985,9.1,Research strategy / conceptualization,9.1 Research strategy / conceptualization,40
+c32859be-f302-443d-aa4b-bf8490244598,0d828f62-b74a-412c-a58c-5d8a4a47a985,9.2,Data Science,9.2 Data Science,41
+2f7f8d6c-5e81-4d92-af0a-fdd30272440e,0d828f62-b74a-412c-a58c-5d8a4a47a985,9.3,Research Evaluation & Validation,9.3 Research Evaluation & Validation,42
+578a150a-d845-4a03-b636-f8ab6a35a444,0d828f62-b74a-412c-a58c-5d8a4a47a985,9.4,Digital health implementation research,9.4 Digital health implementation research,43
+cf49ba3d-4791-4608-b1f5-8fd8459b07fa,0d828f62-b74a-412c-a58c-5d8a4a47a985,9.5,Evidence synthesis,9.5 Evidence synthesis,44
+274bb364-82e7-49cd-b7e1-c06da144e98d,0d828f62-b74a-412c-a58c-5d8a4a47a985,9.6,Research Communication and Dissemination,9.6 Research Communication and Dissemination,45

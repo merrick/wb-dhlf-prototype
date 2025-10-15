@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+*.db-journal
+dist/
+build/
+.DS_Store
+*.log
+.vscode/
+.idea/
+*.db.backup

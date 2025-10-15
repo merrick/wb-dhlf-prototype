@@ -1,0 +1,825 @@
+criteria_id,competency_id,criteria_text,sort_order
+ec3ead37-12cd-41c2-8c64-d92cb1a50ad7,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,"Clarifies the communication goals (conveying or receiving information, persuading, building trust or providing support) for an interaction (1)",1
+2674afaf-2eaf-478f-99f1-18da6074449d,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,"Facilitates communication among individuals, groups, and organizations (4)",2
+8f173af5-bbeb-4126-8af4-c2a88e5a9e93,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,"Identifies when and how to initiate, conduct and close an interaction (1)",3
+60e54516-5fe7-434a-83cd-caa277b8af83,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,"Manages communication barriers (due to cognitive, physical or sensory impairment, culture, developmental stage, geography or language) (1)",4
+f11a1ece-12e8-4571-9ce0-80c8e1dd38de,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,Supports others to communicate for themselves (1),5
+9e27930d-47b5-4611-b987-ee8310e4b343,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,"Manages the physical environment (physical environment: consider the impact of comfort, privacy, noise, space and temperature) for interactions considering the impact of comfort, privacy, noise, space and temperature (1)",6
+1b050b0f-033e-4b54-9dae-bbb737b0121a,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,"Communicate in an open, honest, clear and timely manner. (3)",7
+9a983fac-e300-4f40-b2ac-f01de3781ba3,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,"Work with patient advocates, cultural brokers or interpreters when indicated. (3)",8
+48a2b220-ae55-4cb0-ad3e-e6595d8b0b91,9d83370e-cee8-47d2-bca8-bbd70fb72bf6,"Identifies and delivers key messages clearly, while keeping nerves under control. (2)",9
+bf68e5af-d6fa-43a5-9484-692c90367098,f1f830de-31de-4e4b-a86d-404ed208b51d,"Communicates in writing and orally with linguistic and cultural proficiency (e.g., using age-appropriate materials, incorporating images)4",1
+dc26635e-cf52-4748-be23-7c2189297892,f1f830de-31de-4e4b-a86d-404ed208b51d,Exercise cultural sensitivity in internal and external communication5,2
+42ebb6c3-8496-4ac4-a97a-9ef6c76d131a,f1f830de-31de-4e4b-a86d-404ed208b51d,"Adapts the style, language and method of communication to the interaction1",3
+8b92e10d-8aea-44f3-b2b9-f3314ab0dfba,f1f830de-31de-4e4b-a86d-404ed208b51d,"Maintains an approach to communication that is characterized by calmness, compassion, empathy, respect, sensitivity and tact1",4
+e2be333c-caae-4b4d-aa80-060b1b8d1196,f1f830de-31de-4e4b-a86d-404ed208b51d,"Seeks to mitigate the impact of own beliefs, biases, emotional responses, opinions and values on verbal and non-verbal communication1",5
+4b594b69-d67b-4bff-afa1-8c55c4f38f3b,f1f830de-31de-4e4b-a86d-404ed208b51d,"Uses relevant abbreviations, language and terminology, translating complex and clinical content into lay terms as necessary1",6
+bdbf3d31-a213-4990-a0cf-343a5f3e9666,f1f830de-31de-4e4b-a86d-404ed208b51d,"Ensures that the literacy of populations served (e.g., ability to obtain, interpret, and use health and other information; social media literacy) is reflected in the organization’s policies, programs, and services4",7
+93f96f65-ee93-42d6-a027-7dc3d6f3d66d,f1f830de-31de-4e4b-a86d-404ed208b51d,"Uses a range of verbal, non-verbal, visual, written and digital communication tools and techniques1",8
+3c03350a-e30b-4b7a-be3e-2dd1873ec2eb,f1f830de-31de-4e4b-a86d-404ed208b51d,"Knows how to write and tailor messages for different audiences e and has a basic understanding of the most effective style to use depending on ones' audience, media format and channel of communication.2",9
+fba5ea67-00b6-455d-8891-2f2f772b628d,f1f830de-31de-4e4b-a86d-404ed208b51d,Pays attention to the implications that language and culture have on what is communicated.2,10
+62720edd-d71e-4008-b6af-c449d5cbb433,f1f830de-31de-4e4b-a86d-404ed208b51d,Can construct meaning from visual images.2,11
+956d3931-cf33-4f3d-82cf-fb9732495c11,b1fc209e-5343-4d6d-ac07-5ae5da866f62,Demonstrate strong listening and communication skills5,1
+3b0fb85f-9130-44b6-8d63-85f0361e65e7,b1fc209e-5343-4d6d-ac07-5ae5da866f62,Uses a range of non-verbal cues and verbal affirmations1,2
+839d13a8-d84c-4e3b-8987-9aec2bca941d,b1fc209e-5343-4d6d-ac07-5ae5da866f62,"Supports others to ask questions and openly express experiences, feelings, ideas and opinions1",3
+83ff3586-2409-48bf-9d1a-df060943c37f,b1fc209e-5343-4d6d-ac07-5ae5da866f62,Responds sensitively to what others express1,4
+8bc0a55d-fad4-4755-b4c9-fa4df12c465f,b1fc209e-5343-4d6d-ac07-5ae5da866f62,"Show empathy and genuine concern,e.g. by maintaining focus on the speaker, offering supportive comments, deferring judgement.3",5
+4945106b-d523-4df6-a4af-dccfa0df333d,b1fc209e-5343-4d6d-ac07-5ae5da866f62,"Show understanding with nonverbal cues (e.g. nodding, eye contact, leaning forward) and verbal affirmations.3",6
+ac1b17d6-af57-4599-9e9f-d808ccbc8efb,b1fc209e-5343-4d6d-ac07-5ae5da866f62,Ask open-ended questions.3,7
+9b3ef3dd-5147-45fc-92cd-84e68b47c19f,b1fc209e-5343-4d6d-ac07-5ae5da866f62,Paraphrase to show understanding.3,8
+905b6006-3220-40d2-989c-32fc19faf11a,b1fc209e-5343-4d6d-ac07-5ae5da866f62,Ask for clarification if necessary.3,9
+0eed7508-e52d-4302-8a81-158b69093eb6,b1fc209e-5343-4d6d-ac07-5ae5da866f62,Is aware of online user behaviour and its implications for written content.2,10
+7c086b75-6674-4ccc-94b1-4930cd0f6e36,8639dd57-42d0-4780-854f-4db55b614dda,"Provides relevant, accurate and complete information1",1
+f163a6e8-87ad-41c4-9fce-6e0f4a3863d5,8639dd57-42d0-4780-854f-4db55b614dda,"Presents information clearly, coherently, concisely and organized logically1",2
+ca79ca44-f670-4aba-8326-33d5eb9dd044,8639dd57-42d0-4780-854f-4db55b614dda,"Differentiates between information as facts, context-specific evidence, opinion and misinformation1",3
+3ad69e04-29a9-4986-8b2d-e1b348237156,8639dd57-42d0-4780-854f-4db55b614dda,"Expresses own opinions and perspectives with clarity, confidence and respect1",4
+5fe65ad7-1be8-49f7-a165-80ef69479fcd,8639dd57-42d0-4780-854f-4db55b614dda,Adopts strategies that encourage a common understanding of information and decisions1,5
+32425694-5f46-42f8-9b54-07dee3fc6ecf,8639dd57-42d0-4780-854f-4db55b614dda,"Express your own opinions and perspectives with clarity, confidence and in a respectful manner (characterized by calmness, compassion, empathy, sensitivity and tact) that shows understanding for diversity (mitigating the impact of one’s own beliefs, biases, emotional responses, opinions and values as expressed through verbal and nonverbal communication)3",6
+f40796c4-5151-4869-b4db-271cb61db244,8639dd57-42d0-4780-854f-4db55b614dda,"Use relevant language (avoid abbreviations and complex/technical terminology/jargon, translate complex and clinical content into lay terms as necessary, consider the educational level of the person being spoken to) that is appropriate to different perspectives, situations, audiences and contexts.3",7
+421d1ec5-446f-4fef-a397-9ddff5dd8cb6,8639dd57-42d0-4780-854f-4db55b614dda,"Evaluate the effectiveness (e.g. by repeating information back to the individual, by asking questions) of communication approaches and adapt accordingly.3",8
+1b47c766-34d0-4562-8f7a-eacd85c724f7,8639dd57-42d0-4780-854f-4db55b614dda,"Anticipate, plan for, and deal with ambiguous and confusing situations.3",9
+6a6845ff-89de-4639-88b3-2a91c1d73ed4,8639dd57-42d0-4780-854f-4db55b614dda,"Promote mutual understanding through appropriate use of communication approaches (verbal, nonverbal, visual, written, digital communication tools and techniques – depending on the audience and circumstances.).3",10
+0c37c26b-6b45-40f7-8502-c9c40bd9ce5d,8639dd57-42d0-4780-854f-4db55b614dda,Listens with attention and speaks with intention.2,11
+19478c45-090b-4a3e-886f-69b6f31a0d36,423b3aae-2792-4125-86d4-9e259d760dec,"Uses a range of health-related information management tools, including individual health records1",1
+b437d1ee-f9e6-4d1c-8d55-ed7e5492cad0,423b3aae-2792-4125-86d4-9e259d760dec,Keeps people informed about health risks and relevant aspects of their health care1 Shares information with relevant others in a timely manner1,2
+d29d833d-35e0-4e1f-9c5f-228456e393d2,423b3aae-2792-4125-86d4-9e259d760dec,"Complies with ethical and legal requirements for obtaining, recording, sharing, retaining and destroying information acquired in an occupational capacity1",3
+37ac2171-faa2-4190-8c49-46d0c1fabb91,423b3aae-2792-4125-86d4-9e259d760dec,"Share information consistent with informed consent, privacy and as required by protocol.3",4
+59db3618-746e-426b-8831-4045339768e1,423b3aae-2792-4125-86d4-9e259d760dec,Use a range of health-related information management tools (including individual health records).3,5
+dcb9b33d-ccef-4fd9-ac96-b2e938568f1b,423b3aae-2792-4125-86d4-9e259d760dec,Prepare comprehensive and accurate health records3,6
+b7991ec6-c244-42e8-af97-dacfbd35af0d,442eca5a-02de-4487-8fc2-90f52cc58c92,"Engages with others across cultural, geographical, organizational and sectoral boundaries, and with individuals, caregivers, families and communities, as partners1",1
+9f41d843-2fc6-4b5f-aa07-d4c06db565f2,442eca5a-02de-4487-8fc2-90f52cc58c92,Jointly negotiates roles and responsibilities to maximize strengths within a team1,2
+ab5e3b9e-7317-47fe-bee2-8a840c4a7ce6,442eca5a-02de-4487-8fc2-90f52cc58c92,Fulfils agreed ways of working within the health team1,3
+6f4982b3-8b13-4a09-b701-f83b67f72669,442eca5a-02de-4487-8fc2-90f52cc58c92,Enables others to make their contribution to a team1,4
+ae0e1136-29cd-45e7-960a-8e6157a950e7,442eca5a-02de-4487-8fc2-90f52cc58c92,"Celebrates shared outcomes, goals and values1",5
+593df5e9-7f8b-4413-a144-ba3609275804,442eca5a-02de-4487-8fc2-90f52cc58c92,"Collaborate with support networks, with the consent of the individual.3",6
+047e59b6-5bef-489e-89c1-cb153bda7ef2,442eca5a-02de-4487-8fc2-90f52cc58c92,Assist individuals in accessing community resources.3,7
+ec063e44-cc0a-41c2-8841-359fb250bcdb,442eca5a-02de-4487-8fc2-90f52cc58c92,Work together to address individuals’ needs.3,8
+c3bf9894-8dae-4a2b-9af8-b5cdd31ad012,d317792c-e78b-4f87-98d2-6b00778d6b1f,"Maintains constructive and collaborative working relationships with others, whether or not a formal team exists1",1
+b9c8e5ea-8f9c-47f7-8fd9-a3fc10700e22,d317792c-e78b-4f87-98d2-6b00778d6b1f,"Strives to develop a positive rapport with others characterized by respect, support and trust1",2
+f70de27a-77ef-486e-93cd-a1e9a63192ba,d317792c-e78b-4f87-98d2-6b00778d6b1f,Maintains ethical boundaries with other members of the health team1,3
+07a1c916-4f04-492b-80a0-b39ef4048a1c,d317792c-e78b-4f87-98d2-6b00778d6b1f,Minimizes the impact of hierarchical differences on health outcome1,4
+c32eaad0-4b0c-456f-a35a-5b1330df1668,d317792c-e78b-4f87-98d2-6b00778d6b1f,"Develop working relationships based on mutual trust, integrity and respect.3",5
+ae1d0584-6056-4dc8-9aac-b1e7423d7ae0,d317792c-e78b-4f87-98d2-6b00778d6b1f,Promote teamwork and partnerships.3,6
+df4feab4-8103-4835-a048-c9d5d866e226,d317792c-e78b-4f87-98d2-6b00778d6b1f,Work with different personalities across a variety of situations.3,7
+e959bf94-24f3-49a0-8bac-bab38801ab5e,d317792c-e78b-4f87-98d2-6b00778d6b1f,Understand others’ viewpoints.3,8
+3ec1fcc4-97cb-4528-b355-9a25cb37f919,d317792c-e78b-4f87-98d2-6b00778d6b1f,"Consider diverse, intercultural perspectives and working styles3",9
+4430b052-1485-4598-83e4-90d2a47697da,d317792c-e78b-4f87-98d2-6b00778d6b1f,Build equitable relationships.3,10
+24d20bc7-28fb-4141-939e-953396531fba,d317792c-e78b-4f87-98d2-6b00778d6b1f,Recognize personal efforts and the efforts of others3,11
+e3fc2d50-4540-4bfd-8082-4a97a269a213,d317792c-e78b-4f87-98d2-6b00778d6b1f,Seeks to communicate in an inclusive and transparent manner.2,12
+fe1ee0f0-38f0-4ffa-96a0-4c3bd5429e18,5bc08910-b11c-4dcb-9c4e-14c102306dd9,"Demonstrates willingness to learn from others’ experiences of the health system, health conditions and lived environment1",1
+3fd3e955-f2d1-4212-9922-6e44875bf5f3,5bc08910-b11c-4dcb-9c4e-14c102306dd9,"Seeks constructive, sensitive and timely feedback, support and advice1",2
+99f91881-efa8-4f7f-b9cf-08a205acabcc,5bc08910-b11c-4dcb-9c4e-14c102306dd9,"Provides constructive, sensitive and timely feedback, support and advice1",3
+d45f5f5a-4a1f-4fbf-bdfc-2c9d25cd4806,5bc08910-b11c-4dcb-9c4e-14c102306dd9,Learns from interactions with others and feedback processes1,4
+80d3fe06-e1d1-4e13-b0ed-911b768fc8ca,5bc08910-b11c-4dcb-9c4e-14c102306dd9,Engages in opportunities to improve collaboration within and between teams1,5
+e1f6e84f-3932-4693-9ba4-2723625768e2,5bc08910-b11c-4dcb-9c4e-14c102306dd9,Work within the dynamics of a group.3,6
+b3b31d95-5545-4bd6-8fbd-4df18674afda,5bc08910-b11c-4dcb-9c4e-14c102306dd9,Show commitment to the team’s purpose and goals3,7
+f33e12ff-d6f9-4277-9745-7c662e795886,5bc08910-b11c-4dcb-9c4e-14c102306dd9,Consult with and/or refer to others as appropriate.3,8
+855fa215-e695-4b6d-97e9-cd8018e21e2b,5bc08910-b11c-4dcb-9c4e-14c102306dd9,"Engage in joint decision-making3 Displays behaviour and attitude that can be described as open-minded, empathic, curious, and appreciative of diverging perspectives and evidence.2",9
+59833579-d988-4aec-84e7-963fbdf82111,8cf5863a-56e9-4693-9f9a-99667dc86f36,"Anticipates, identifies, acts upon and learns from tensions or potential areas of conflict1",1
+3568a040-edfb-4627-ac7c-0366ec65621f,8cf5863a-56e9-4693-9f9a-99667dc86f36,Focuses on the sources of tensions rather than arising conflicts1,2
+2a94d8c7-4a1c-47ec-bd2d-35f29c6f950f,8cf5863a-56e9-4693-9f9a-99667dc86f36,Supports a blame-free environment in which one is safe to question and seek support and guidance1,3
+961695ba-4183-46c7-9671-827cc5afc226,8cf5863a-56e9-4693-9f9a-99667dc86f36,"Considers different perspectives when seeking compromise, consensus or a decision1",4
+55ffe31c-7ee8-471c-ae27-5c56efea36d4,8cf5863a-56e9-4693-9f9a-99667dc86f36,Acknowledge diverse opinions.3,5
+c614c1f4-c9ae-4ec7-96ff-614e9af0392a,8cf5863a-56e9-4693-9f9a-99667dc86f36,Accept differences.3,6
+6af7f182-4ad4-40f3-87a7-f45d42d5dac6,8cf5863a-56e9-4693-9f9a-99667dc86f36,"Shows willingness to deal with interpersonal conflicts in a constructive, trustworthy way.2",7
+0f5b5e8c-a577-4b1e-b1d8-a6951597b5a1,a105dd93-aa68-4a10-b7e2-fab4f341dce6,"Provides the best possible health care that supports an approach to health services that is effective, equitable, efficient, inclusive, integrated, people centred, safe and timely1",1
+2d84ca4b-f75c-4d5b-b6a5-82cb9b003e88,a105dd93-aa68-4a10-b7e2-fab4f341dce6,"Adapts practice to the individual, family and community, including their physical, cognitive, cultural, emotional, linguistic, health literacy and sensory needs and other influences on their engagement with health services1",2
+56004770-6d0a-4657-865e-3806a3c485dc,8d633781-4c5e-4107-a051-ee42b64fde73,Promotes collaborative decision-making1,1
+acbb6ca5-6820-4efc-a2b5-59ea39747afc,8d633781-4c5e-4107-a051-ee42b64fde73,Seeks information and evidence from a range of sources when approaching decision-making1,2
+335aec59-fd1e-4dfa-926a-c3e61a35317c,8d633781-4c5e-4107-a051-ee42b64fde73,Approaches decisions analytically and methodically1,3
+21ad14dd-1c74-4039-b5f8-890ce724fe33,8d633781-4c5e-4107-a051-ee42b64fde73,"Adapts the approach to decision-making that reflects the complexity, urgency and consequences of decisions1",4
+81a9b707-78eb-4b0f-a427-5224f940c042,8d633781-4c5e-4107-a051-ee42b64fde73,"Demonstrates critical thinking to reach decisions that are well reasoned, ethical, evidence informed, feasible, timely and based on the best available information1",5
+53695ce9-e999-4d9b-88f3-2baa0902d9bd,ea632190-0c41-42d2-ac03-4be11bd2142e,"Uses physical, human and financial resources efficiently1,3",1
+237c4f8e-e5a8-4246-b639-e8125c1b42e3,ea632190-0c41-42d2-ac03-4be11bd2142e,"Avoids the overuse or misuse of resources1,3",2
+73bbdc0d-3436-47f2-974e-08f8094b0123,ea632190-0c41-42d2-ac03-4be11bd2142e,"Organizes own time and workload effectively1,3",3
+bdc39f8c-7cc0-4dcb-8280-40e9c28d5ce9,ea632190-0c41-42d2-ac03-4be11bd2142e,"Takes responsibility for own decisions and their consequences1,3",4
+1f35c3ec-c13f-44f5-91f8-4145b98a4704,ea632190-0c41-42d2-ac03-4be11bd2142e,"Can differentiate categories of systems, e.g. natural, technological, and human.2",5
+2fbcdfc4-a1a3-4077-9ac1-5ae7b5371af8,5f65b263-36f8-4907-879f-c55ea345916b,Takes initiative to mitigate anticipated problems1,1
+ccbab499-b9af-4e58-b4e2-e9720afbab08,5f65b263-36f8-4907-879f-c55ea345916b,"Focuses on solutions, end goals and results1",2
+71b6a5cc-59e7-415c-81f5-73087ec8875b,5f65b263-36f8-4907-879f-c55ea345916b,Creates pragmatic solutions to identified problems1,3
+7fe40402-683a-4d1c-9514-f3860e76eb19,5f65b263-36f8-4907-879f-c55ea345916b,Conform to strategic aims and policies of the organization3,4
+4e482fa8-1d70-49c1-9a6e-a51fc9bbb353,5f65b263-36f8-4907-879f-c55ea345916b,"Has a curious mindset, listens openly with a 'tell me more' attitude and contributes with ""what if..."" approaches.2",5
+bab413b2-8cd2-4bbb-aa14-d916f342e5a9,5f65b263-36f8-4907-879f-c55ea345916b,Can identify innovative ideas and creative solutions.2,6
+40f34534-0f9a-44e7-acd6-84be628fe8e2,5f65b263-36f8-4907-879f-c55ea345916b,Can transfer ideas from one context into another.2,7
+8c072837-ba58-4d8a-aa1a-06a6f16be127,5f65b263-36f8-4907-879f-c55ea345916b,Understands the difference between an idea and a solution.2,8
+2ecfe325-b743-406c-868b-d32a8a2ef7ea,9f22a676-7123-426e-b4ab-695716eeb557,Adjusts priorities to respond to changing situations and demands1,1
+e051ecfc-22f2-41f4-a7ea-457fa16b7328,9f22a676-7123-426e-b4ab-695716eeb557,Demonstrates a calm demeanour under pressure1,2
+e276b16d-1854-4098-9634-8583f5578972,9f22a676-7123-426e-b4ab-695716eeb557,Uses different styles of inquiry when one is stuck in one's thinking and needs to broaden one's perspective.2,3
+def82b4d-3854-4fe4-be4c-107e078bfb8b,9f22a676-7123-426e-b4ab-695716eeb557,Demonstrates proactiveness and anticipation in shaping change and can adapt one's actions to changing circumstances and emerging evidence.2,4
+22c5a249-11f3-43a6-a0c8-9738289820d9,2c17ea2e-943d-49d2-8269-768599fa24eb,"Maintains awareness of own competence and scope of practice,1 defined as scope of individual, organizational and professional practice as provided by legal and professional regulations.3",1
+a29adcd9-b350-4f8a-b8ce-839a856e6296,2c17ea2e-943d-49d2-8269-768599fa24eb,"Adheres to the duties, obligations and codes of conduct defined by occupational standards, legal regulations and organizational procedures1",2
+312338d4-2df4-4f9d-b260-7d85be9eb131,2c17ea2e-943d-49d2-8269-768599fa24eb,Seeks guidance when encountering situations beyond competence or scope of practice1,3
+96441bb6-f56c-4adb-8b97-e2c49b477b0a,2c17ea2e-943d-49d2-8269-768599fa24eb,Provide referral to another colleague with appropriate competence and scope of practice.3,4
+02c2fe52-08f7-46dc-bdd1-4a5567c341b4,2c17ea2e-943d-49d2-8269-768599fa24eb,Knows when limits of a health technology have been reached and further external assessment or referral is required.,5
+22d6270d-4f0c-4b04-98ab-e612dd400c2c,6865ccf1-1cf4-4fc2-8fcb-779c5ef0a33a,"Monitors own mental, physical and social health and well-being1",1
+ccfef9e8-177c-4c00-8d5c-84d5cf1b7700,6865ccf1-1cf4-4fc2-8fcb-779c5ef0a33a,"Uses a range of strategies to manage fatigue, ill-health, stress and the impact of exposure to distressing and emergency situations1",2
+7f062b29-834f-4348-be1f-70aad024fb19,6865ccf1-1cf4-4fc2-8fcb-779c5ef0a33a,Seeks help or support where needed for own health and well-being1,3
+672aba35-2d88-4746-801e-1f11a6bd93c1,6865ccf1-1cf4-4fc2-8fcb-779c5ef0a33a,"Engages in self-care practices that promote emotional resilience, health and well-being1",4
+f1a4f240-83e1-4d84-8af3-60f6ca7aebe6,6865ccf1-1cf4-4fc2-8fcb-779c5ef0a33a,Manage time and priorities effectively.3,5
+bb0a6228-43a4-4abd-87df-8ba6761fa5d6,6865ccf1-1cf4-4fc2-8fcb-779c5ef0a33a,Able to disconnect from digital technology as needed,6
+f2f19593-fd8f-40ed-83f1-48f5b0087b46,08db9144-63c0-4210-af92-4fe3139994d5,"Describe the four ethical pillars for health: Beneficence, Nonmaleficence, Autonomy, and Justice, with Autonomy cited as the basis for informed consent, truth-telling, and confidentiality (e.g. see Varkey B. Principles of Clinical Ethics and Their Application to Practice. Med Princ Pract. 2021;30(1):17-28. doi: 10.1159/000509119. Epub 2020 Jun 4. PMID: 32498071; PMCID: PMC7923912.)",1
+54a3a1d4-2bb6-4df1-bd17-c83b6788f16e,08db9144-63c0-4210-af92-4fe3139994d5,"Describe ethical principles for digital health, particularly algorithms and decision-making in digital health and AI, that help ensure the safe, ethical and equitable provision of health care, such as (not exhaustive list): * fairness * accountability * transparency * explainability * human oversight / human-in-the-loop",2
+9d4f975f-d523-4d6f-ac54-2bca9c93589c,ab9eb021-6f1d-4e10-b6bf-d791d49b9ed4,Ask critical questions to identify ethical values at stake and potential ethical challenges or problems,1
+bc0d0eae-549e-4adf-bb01-24565e43ca31,ab9eb021-6f1d-4e10-b6bf-d791d49b9ed4,Identify ethical values at stake by thinking out of the box with a critical attitude,2
+e7679428-3c50-4187-a150-fa9b78fcfea9,ab9eb021-6f1d-4e10-b6bf-d791d49b9ed4,Explain relevant concepts and learn how to formulate logically sound arguments,3
+69082d49-8ae6-43b4-af20-7b3650110e4c,ab9eb021-6f1d-4e10-b6bf-d791d49b9ed4,"Analyze ethical frameworks and values from the local culture for implications for the design, implementation and sustainability of digital health systems (e.g. African and Asian cultures' greater emphasis on community and relationships vs Western focus on individualism)",4
+176126bb-2e82-4b86-8a80-b2540a22a162,ab9eb021-6f1d-4e10-b6bf-d791d49b9ed4,Recognise that multiple values might potentially be conflicting with one another,5
+e2e07e6e-1282-4b2d-97a1-8d3033c3a983,ab9eb021-6f1d-4e10-b6bf-d791d49b9ed4,Establish a process to deconstruct the complexity of ethical dilemmas,6
+dfa11a5e-478c-40a1-bdbc-d2b5d4fb8504,ab9eb021-6f1d-4e10-b6bf-d791d49b9ed4,Consider that more than one valid point of view could exist,7
+0bced247-a7a2-4b9e-8cfc-6cf6fb4621f3,ab9eb021-6f1d-4e10-b6bf-d791d49b9ed4,Gather all the necessary facts and the details about the situation/case,8
+392449a5-1f5e-4128-888e-1ce56f302d0d,cacd0f3f-7ffa-446d-9af8-48887305e37f,Establish processes and allocated dedicated time for a reiterative thinking process,1
+c0765231-6539-439c-8088-a27b65cff994,cacd0f3f-7ffa-446d-9af8-48887305e37f,Support an open environment where asking questions and being reflective is encouraged,2
+52f5cced-97c9-4260-bf92-f6fd59d7b810,cacd0f3f-7ffa-446d-9af8-48887305e37f,"Provide tools and resources that facilitate resolution of ethical dilemmas (e.g., existing ethical frameworks)",3
+c0c0b69b-724c-4c11-9bfd-44fffca21ac6,cacd0f3f-7ffa-446d-9af8-48887305e37f,Ensure continuous training and expanding digital knowledge activities,4
+3acff44f-5359-4935-9dfd-51acd540ba4e,cacd0f3f-7ffa-446d-9af8-48887305e37f,"Monitor decision making processes, allowing for adaptation and corrections",5
+fe069b36-a14d-45cd-840e-e0aa1700fce1,cacd0f3f-7ffa-446d-9af8-48887305e37f,Apply ethical principles while engaging in critical thinking,6
+db7b2742-ae2a-4cbb-8aee-24754ecca6d9,cacd0f3f-7ffa-446d-9af8-48887305e37f,Provide sound recommendations using critical thinking skills and based on evidence and/or best practices,7
+f2cdb150-2f45-405b-bdcc-34afc1ee4c20,e3008674-18d4-4bb6-a2bf-1545a798fea1,"Identify each stakeholder, including those who may be directly or indirectly impacted such as patients and populations and the health providers, and those who are directly or indirectly responsible for the digital health implementation",1
+4577ef0a-e050-48ca-8c7f-5ffbdd17c5d4,e3008674-18d4-4bb6-a2bf-1545a798fea1,"Describe, per each stakeholder perspective, intentions, motivations and principles underneath it, as well as short/long term consequences",2
+696ccb95-3e78-4603-9c00-6caa58c21074,e3008674-18d4-4bb6-a2bf-1545a798fea1,Identify the priorities of each stakeholder,3
+6d4f7ee2-c0b2-4a6b-9291-7d936c703774,e3008674-18d4-4bb6-a2bf-1545a798fea1,"Distinguish one’s own perspectives, values, interests and motivations from those of other stakeholders",4
+8ff346e6-5fef-4fe2-a824-fbc02a50f65d,e3008674-18d4-4bb6-a2bf-1545a798fea1,Report on potential conflict of interests on stakeholders’ perspectives,5
+62585230-486a-4ba1-915f-e00d02311a7d,14472f26-e63f-43a6-9711-a2e0b361c11b,"Describe the recent local, national, regional and/or international frameworks, guidelines, policies, principles, and strategies that cover ethics of digital health, including AI, for your given context/organization, such as:",1
+e95df0ae-41cf-4e64-89e1-f146664b3c23,14472f26-e63f-43a6-9711-a2e0b361c11b,- Principles of Digital Development - DPI Safeguards Framework - WHO guidance on ethics and governance of AI for health (several documents) - African Union Continental Strategy on AI - UNESCO Recommendation on the Ethics of AI - OECD AI Principles - G20 AI Principles - NIST AI Risk Management Framework,2
+03ef4452-529a-4d3a-b1b7-afc9c30f568d,14472f26-e63f-43a6-9711-a2e0b361c11b,(For the following: Keep here or put in Gov & Leadership? Have a list that both domains refer to?),3
+0a2d1c05-0329-4466-9572-b7d6b0ee21ed,14472f26-e63f-43a6-9711-a2e0b361c11b,"Describe the recent local, national and/or international regulations and laws that address ethics of digital health, usually data protection and AI regulation, for your given context/organization, such as:",4
+2c77deea-655b-49e5-affe-e08007aa1d87,14472f26-e63f-43a6-9711-a2e0b361c11b,- GDPR - EU AI Act - EU Digital Services Act - US HIPAA (Health Insurance Portability and Accountability Act) - South Africa POPIA (Protection of Personal Information Act),5
+5a4b547a-d653-4554-a972-a234e8f3b21e,2016b80c-682e-4fe2-9e09-17d0b658d450,"Set up an adverse event / incident management and reporting reporting system and processes that include the policies and requirements for reporting, notification, mitigation measures, and tracking to resolution",1
+18bcdb7d-1b9a-4031-91ff-509feb9219b4,2016b80c-682e-4fe2-9e09-17d0b658d450,"Create review or advisory boards and update IRB processes for the ethical and equitable development and governance of the digital health intervention for the given context (e.g. local, national) or organization",2
+39fe6ae6-813f-4105-be58-7b32922668a3,2016b80c-682e-4fe2-9e09-17d0b658d450,"Define methods for redress for the harm, such as: - Establish or update ombudsman or other focal point and accompanying processes for anyone (public, staff, etc) to report potential ethical harm or inequity arising from the digital health system",3
+3cc57eb9-6f47-4bb5-bfa3-4bd507d88d9c,56550b3d-45d1-4099-8b90-810fddda427f,Identify instances where multiple interests conflict with the completion of the project as intended.,1
+ff862137-585d-4d00-b959-9c41f2040c45,56550b3d-45d1-4099-8b90-810fddda427f,Identify instances where multiple relationships might occur between participants in a digital health project that could create or give the impression of a conflict of interest,2
+ac18d731-7050-4796-b697-7d7e222fc4ca,56550b3d-45d1-4099-8b90-810fddda427f,"Establish a structure, processes and policies to fairly address conflicts of interest at the outset of digital health projects.",3
+bfec66e6-cdc3-4966-b991-e6bb715c2a55,56550b3d-45d1-4099-8b90-810fddda427f,Implement processes to identify conflicts of interest at the outset of digital health projects.,4
+5dcdcbd0-cb05-4370-954d-4f8762ccd610,56550b3d-45d1-4099-8b90-810fddda427f,"Monitor digital health projects to ensure conflicts of interest do not arise, or if necessary, do not interfere with the course of a project.",5
+3a084379-36db-4994-bdbc-e20cff14c1c1,56550b3d-45d1-4099-8b90-810fddda427f,Report and/or disclose any potential or actual conflicts of interest as required,6
+a7f83060-a32a-417e-9698-8c96616f23d9,56550b3d-45d1-4099-8b90-810fddda427f,Respond to conflicts of interest as required and according to processes and policies in place,7
+cc24341f-f7c1-494a-a32b-7a1b290e44d0,1af55253-0287-4067-8feb-9d2f3d377208,Identify parties to whom participants in a digital health system or initiative are accountable.,1
+04380544-b269-45f0-bdcc-18def38bd4fb,1af55253-0287-4067-8feb-9d2f3d377208,Identify specific activities and outcomes for which participants in a digital health system or initiative are accountable.,2
+6c558473-52d1-4b35-9b25-6eff630478de,1af55253-0287-4067-8feb-9d2f3d377208,Identify consequences for breaches of accountability.,3
+3ed7f825-cf88-4118-987f-9d2a65692c28,1af55253-0287-4067-8feb-9d2f3d377208,Report or disclose any breaches of accountability as required,4
+c2bd54ec-70c3-4f6c-b02f-65b302ddeff8,1af55253-0287-4067-8feb-9d2f3d377208,"Establish processes for identifying and addressing issues for which parties are to be held accountable, such as a digital health independent review board (IRB) (not the IRB for research)",5
+8ce5ab1b-4712-496c-b026-4a4226a8e96a,1af55253-0287-4067-8feb-9d2f3d377208,Respond to breaches of accountability according to the process and mechanisms in place,6
+c42b037b-0e21-41af-8bec-04f038903dfe,1af55253-0287-4067-8feb-9d2f3d377208,Support accountability mechanisms throughout the digital health system life cycle when under pressure,7
+d1e543c0-9195-4cdc-b540-7ba1ab4c36f8,bf723ed7-edee-4237-87fd-fd7679d2eed6,"Describe health equity, health inequality, and the social determinants of health cited by WHO and other health institutions",1
+b113c8bf-ffb5-4e7a-9f39-d709a41718aa,bf723ed7-edee-4237-87fd-fd7679d2eed6,"Describe the human right to health and gender equality, disability inclusion and other categories of bias based on identity including sexuality, age, class, race, caste, religion, language",2
+2eec7017-4561-46ca-9a39-bd4d8dcf6126,bf723ed7-edee-4237-87fd-fd7679d2eed6,Describe the impacts of multiple and intersecting forms of discrimination on health and the ethical implications of developing and deploying digital solutions without considering equity,3
+950e4be1-316c-4146-ad42-d20fa7b6d555,bf723ed7-edee-4237-87fd-fd7679d2eed6,"Summarize the digital divide: its history, why it exists, and types of divides such as: * Availability - lack of internet, power, computers, phones, etc * Affordability * Quality of service * Relevance (cultural / local relevance) * Digital literacy and education at all ages * Gender (e.g. technology viewed as a male field; male head of household controls the mobile phone)",4
+d6a75633-1ba0-4612-bf8d-59ca742580f0,bf723ed7-edee-4237-87fd-fd7679d2eed6,Apply the Principles for Digital Development to ensure digital health solution is sustainable and inclusive,5
+713db486-e8bd-4fbb-9c9b-dde34bb59e22,bf723ed7-edee-4237-87fd-fd7679d2eed6,"Explain how technology is not neutral: it can have political effects and reinforce social hierarchies and biases, societal or political power structures, intentionally or not; it can create or exacerbate inequalities and power asymmetries, all of which affects who benefits from digital health-enabled services (e.g. EMRs implemented only in higher resource areas where there is reliable power and internet (digital redlining); those who can afford smartphones vs those who do not)",6
+2d0c9298-6350-45e2-97bd-b478fecaf077,bf723ed7-edee-4237-87fd-fd7679d2eed6,"Recognize that the dominance of a few Global North companies in business tech software such as email, office software and cloud services creates dependencies and therefore vulnerabilities",7
+0084a664-1c48-49b3-900d-c82b64f088ce,bf723ed7-edee-4237-87fd-fd7679d2eed6,"Describe the concept of digital colonialism, digital and data sovereignty, which includes data exploitation (e.g. WorldCoin), extractive data collection and data labeling in low-wage countries to train AI, to the transfer of mineral wealth from the Global South to produce electronics",8
+0da76e21-63fa-4b52-bac2-145144cbcb37,2fecd3e8-8165-4da9-a8fb-08b3951d58f4,"Describe the historic and contemporary socio-cultural context, practices and beliefs that can bias decisions and evidence.",1
+889ea562-e2bc-489b-9365-5575c4ba4b52,2fecd3e8-8165-4da9-a8fb-08b3951d58f4,"Articulate the mechanisms of how historical and contemporary socio-cultural bias may be embedded explicitly or implicitly in primary and secondary data sources and algorithms being used in digital health (e.g., variable definitions, variables included or excluded, rationale or evidence used to justify inclusion/exclusion of variables, data gathering processes, and data use) and lead to harms and exclusions by sociocultural biased decisions of digital health algorithms.",2
+c3142cc3-58fe-48ca-8b4a-940aeed965b5,2fecd3e8-8165-4da9-a8fb-08b3951d58f4,"Identify how digital health and AI solutions, models and algorithms designed for and/or based on data from the Global North may not give relevant or correct results for the LMIC context",3
+79afeaf4-9021-45ba-ac6a-7e70763675ae,9d4b46a7-0e8c-4e48-b062-bde8f1148b06,"Recognize risks and harms to individuals, groups and systems from socio-cultural bias and discrimination embedded or encoded in digital health (including AI) design, testing, training, and implementation which can impact clinical decision-making, patient care (clinician understanding of patients’ needs, clinician-patient interactions, and quality of care provided to patients), service delivery, resource allocation, patient outcomes for populations that experience sociocultural bias, and overall society when there is uneven burden of disease across populations",1
+3b9a7038-b787-47e0-b9e7-926b14b2a27e,9d4b46a7-0e8c-4e48-b062-bde8f1148b06,"Identify determinants of access to a given digital health offering among members of the public (e.g. rural vs urban, socioeconomic status).",2
+a082f333-2e52-48e6-a58b-436baec2ce4f,9d4b46a7-0e8c-4e48-b062-bde8f1148b06,Identify design and performance requirements to ensure it is accessible to the end users using methods that engage the intended end users,3
+cd98d67b-424c-4706-96c3-7dfe444a8476,9d4b46a7-0e8c-4e48-b062-bde8f1148b06,"Identify technological supports and institutional and structural factors (e.g., internet/mobile network availability, device charge locations) and non-technological supports (e.g., cost, health and digital literacy training) necessary for the public to access and use a digital health solution and devices and which can facilitate or create barriers to these determinant of access and use of digital health",4
+fc34249a-4798-404a-91c2-aba5f94a15f6,3d9b1815-54ad-4537-9f90-40b981dd526f,"Employ socio-cultural approaches for designing and building equitable digital health systems and minimizing the possible risks and harms, thereby creating socio-cultural awareness, such as:",1
+c7eaac78-baa4-43a4-8862-3942d4eef325,3d9b1815-54ad-4537-9f90-40b981dd526f,"- consult diverse stakeholders throughout the life cycle, from concept to maintenance and monitoring; - leverage intermediaries who have a closer relationship to the beneficiary, client or patient to act as explainers and liaisons like CHWs, midwives, village leaders - adopt participatory, human-centered design, e.g. design with and by community members, not for them",2
+d8d7d020-bb2a-49aa-a0f2-654085f1e9c3,3d9b1815-54ad-4537-9f90-40b981dd526f,"Use an intersectoral approach to mitigate against the impact of multiple and intersecting factors of vulnerability (gender, disability, age, ethnicity and other factors of discrimination) on the use of digital health and whether it impacts health equity and outcomes",3
+9e8d7d12-c7bd-487b-a0b4-986c156d810c,3d9b1815-54ad-4537-9f90-40b981dd526f,"Apply the basic ethical principles in the Belmont Report to identify the ethical implications of not using digital health in a way that supports care in an equitable manner (e.g., the “do no harm” component of beneficence, the unequal treatment component of justice)",4
+c90b282b-184f-479c-8420-ef452f122a78,3d9b1815-54ad-4537-9f90-40b981dd526f,"Incorporate ethical evaluation into the entire development lifecycle, using specific technical approaches commonly cited for AI (only a subset is suggested as this is an evolving field): - model cards - RLHF - reinforcement learning with human feedback - red teaming - algorithmic audits - federated learning - edge AI",5
+5b171fb2-258e-4adb-9189-90f879bee6aa,3d9b1815-54ad-4537-9f90-40b981dd526f,"Use frameworks, tools, and platforms for testing responsible AI (subset provided as this is an evolving field): - NIST AI Risk Management Framework - Singapore AI Verify - private companies that offer responsible AI validation platforms",6
+677af1ad-8bd8-400c-81d8-e3aa568a248e,3d9b1815-54ad-4537-9f90-40b981dd526f,Investigate newer technologies and approaches such as data trusts and blockchain as methods for ensuring data integrity and transparency for the appropriate use case,7
+0f15c16d-59f0-45d3-a0f0-db2e073ea10f,3d9b1815-54ad-4537-9f90-40b981dd526f,"Acquire funds to address digital inequity which will exacerbate health inequities, such as: - invest in resilient local digital infrastructure (connectivity, power, redundancy) - invest in local digital health and AI staff skills building and companies",8
+d1be33d3-86f4-46b3-80f3-1aac03a76bb5,3d9b1815-54ad-4537-9f90-40b981dd526f,"Apply inclusive/universal design: design for all people, all abilities, flexible and adaptible",9
+05ebb109-3804-4238-bd35-e8e23861beaa,bc70bf5b-ae75-4584-af33-dead72520f3c,"Identify privacy and surveillance risks from biometric identification tools such as facial recognition, fingerprint ID, GPS tracking",1
+9680a68c-df55-4166-82c5-926a2059894b,d2e63996-b8dc-4ed1-a570-999fe7a001ce,Conduct process for obtaining informed consent,1
+9d9b8e4f-68a8-41fe-adca-37d98d7eb782,4bbb0816-2515-4957-99d1-b99595dec2a4,"Maintain administrative, technical, and physical safeguards for authorization",1
+59026e65-0621-4fb9-bb2b-ebd8f05a99c4,1ad79480-15bd-4089-8ed7-bde8a8801d9f,Establish security audit process,1
+80b56993-2558-4098-a663-18aa193996a5,a3e93211-cf9f-41b4-88e8-75c8a1878e90,"Navigate the balance the privacy and security of health information and data with improved healthcare delivery, health technology development, health system management, and resource utilization",1
+f0ebf5d7-e908-4e97-b57e-bf95c8c1ac20,f5d4c0a8-9bc2-4c8e-a624-388728f05210,Assess blind spots for harm prevention,1
+f4a468c5-7275-41d2-aa29-d6ab875acae0,f5d4c0a8-9bc2-4c8e-a624-388728f05210,Adhere to ethical principles in implementation and development of digital health tools,2
+27a0a81c-a8a2-4e2c-bc69-98d2c30219a6,6f36b3b6-0324-4560-891d-7106aa7ad08b,"Acts with honesty, integrity and transparency",1
+1da6f1fa-9b0f-4280-82d3-f510ccd3c77f,6f36b3b6-0324-4560-891d-7106aa7ad08b,"Upholds legal and ethical principles, including capacity, confidentiality, consent, conflict of interest, duty of care, dignity, privacy and safeguarding",2
+8cbcb18b-f601-4dce-a5f1-552f23e15f37,6f36b3b6-0324-4560-891d-7106aa7ad08b,Consults with others in situations with ethical implications,3
+95df3efc-f97e-4612-89a8-302850cf7c44,6f36b3b6-0324-4560-891d-7106aa7ad08b,Refuses individual gifts or other forms of influence intended to coerce or invite personal favour,4
+38d575cf-027c-401e-bd34-193b17eaad8a,40f08005-5151-4731-bff9-21f933104bec,Supports people to develop their health literacy,1
+b83d85ea-3897-4d62-bf93-1ae4200c428f,40f08005-5151-4731-bff9-21f933104bec,"Demonstrates respect for the autonomy, goals, perspectives, preferences, priorities and rights of individuals, caregivers, families and communities",2
+9f32ab32-9e5d-4bec-a01e-218741a04b60,40f08005-5151-4731-bff9-21f933104bec,Supports people to develop strategies or access tools to manage their own health and well-being,3
+52494ca5-d3d0-4779-8182-a3889b32ecaf,ac8be170-854a-4a92-b99a-9f325b2b2449,"Demonstrates compassion, empathy and respect for all people",1
+d45505e8-9c07-4905-abe7-684193337681,ac8be170-854a-4a92-b99a-9f325b2b2449,"Adopts an approach to practice that is non-blaming, non-discriminatory, non-judgemental and non-stigmatizing",2
+fb830341-9253-4eb7-968d-4f6f33ff045b,ac8be170-854a-4a92-b99a-9f325b2b2449,"Maintains self-awareness around own beliefs, biases, emotional responses and values",3
+1141cd3f-848d-4aff-af99-71bb47ab50eb,ac8be170-854a-4a92-b99a-9f325b2b2449,Demonstrates cultural sensitivity,4
+c87dc172-c88f-4e4e-96ba-212b720ffd3e,ac8be170-854a-4a92-b99a-9f325b2b2449,Embraces individual differences and cultural diversity,5
+b59002f1-c504-40f6-8eef-8e6e8b85ec00,ac8be170-854a-4a92-b99a-9f325b2b2449,"Challenges the causes and consequences of discrimination, exclusion, prejudice, stigma and other barriers to accessing and utilizing health services",6
+b54f65cf-f2a0-48d5-9aa3-8126ff485e51,ea5deab2-4b75-4a41-bc0b-59d40c537c00,"Supports people to challenge or address their economic, environmental, political and social determinants of health",1
+8c19270b-9b91-40df-ac34-190b7b5da0d1,ea5deab2-4b75-4a41-bc0b-59d40c537c00,Supports people to manage their health within health system constraints and their determinants of health,2
+b5193583-de77-4044-bf64-cceb8d063abf,ea5deab2-4b75-4a41-bc0b-59d40c537c00,"Incorporates health promotion and disability, disease and injury prevention into interactions",3
+033ed341-9737-4b45-ba13-cc74b1e7555a,ea5deab2-4b75-4a41-bc0b-59d40c537c00,"Supports individuals, caregivers, families and communities to adopt healthy behaviours",4
+4e7ef4ca-f549-4ef9-b779-b7b63ed63438,ea5deab2-4b75-4a41-bc0b-59d40c537c00,Contributes to protecting vulnerable populations,5
+7c824297-4325-4a82-a0c2-355b151e6a10,8db63e88-2a47-4844-9199-e3d4994993ad,"Adheres to safety protocols that avoid adverse events, health care errors, and incidents of harm and unsafe practice",1
+285c3a2e-0767-46cb-85f6-679be61b998b,8db63e88-2a47-4844-9199-e3d4994993ad,Learns from what works and what has not gone well,2
+f8d68aed-10eb-4003-b22f-4a2bfde7f5cd,8db63e88-2a47-4844-9199-e3d4994993ad,Offers suggestions for improvement to address identified problems,3
+0cd7431f-d022-44b4-96bb-eb0a66bc946e,8db63e88-2a47-4844-9199-e3d4994993ad,Participates in quality measurement and continuous quality improvement processes,4
+c8280215-ed4d-4268-b632-015bf594bed2,acd530ff-1609-4c1d-87f0-f574b7db73a6,"Understand historical and contemporary examples of health IT interventions and programs that have been sustainable and sustainable, intervention/program management factors that contributed to (un)sustainability, and the ethical and equity factors that contributed to program sustainability success or failure, especially within developing countries and communities that are systematically underserved and marginalized",1
+ed2d6daf-bf4d-4b94-85fb-fcb804a8424f,acd530ff-1609-4c1d-87f0-f574b7db73a6,"Identify relevant health IT, digital equity, and/or program sustainability frameworks and strategies to identify factors that are key contributors to sustainability and that can be used to develop new inverventions/programs or evaluate and improve existing interventions/programs, especaially from an ethical and equity perspective",2
+f52c3244-7309-4b3b-bc45-1487b252c4e0,b968df58-268a-4d80-8a1e-098785b5f80e,"Identify mechanisms in which health information technologies contribute to climate change and enviornmental disasters, such as the intensive resources needed to power digital and AI infrastructure; and the digital value chain from the extraction of critical minerals to the dumping of e-waste",1
+36eb3d3d-ec95-43bf-851f-4e118e0fbe6d,b968df58-268a-4d80-8a1e-098785b5f80e,"Identify how climate and enviornmental hazzards can negatively impact access to and functioning of health IT, especially for satety net/public healthcare organizations and populations that are disproportionately impacted by climate change and enviornmental disasters",2
+498a4133-0caf-476c-8145-d07266122416,b968df58-268a-4d80-8a1e-098785b5f80e,Identify strategies to support health IT resilliance to climate change and enironmental disasters,3
+820a6659-1e64-4152-bf85-33e351054621,8a4a66b6-9198-4df9-9c33-fc5d5968d466,Identify mechanisms in which health information technologies can mitigate climate change,1
+8f36fd03-abca-4149-bdbe-09b714ff5c08,8a4a66b6-9198-4df9-9c33-fc5d5968d466,Identify strategies for using health IT to support disaster preparadness and disaster responses that are equitable especially among populatons disproportionatley impacted by climate change and enviornmental disasters,2
+6eb94cec-9a27-4042-8c0b-ef1b5d120018,7474a25e-7929-4074-8a5a-873e7779e79a,Conduct horizon/foresight scanning of events,1
+8c09f4d2-db54-4b59-ad8d-46d3f1a33bfc,7474a25e-7929-4074-8a5a-873e7779e79a,Identify emerging issues for digital health,2
+63ef5145-b45a-4119-8a8a-1d171fb407a8,7474a25e-7929-4074-8a5a-873e7779e79a,"Clearly define the problem, objective/goal and scope of the proposed policy, regulation or governance",3
+9827c65b-70ea-4518-8d2f-cdf1eee765b2,7474a25e-7929-4074-8a5a-873e7779e79a,Produce an analysis of evidence needs and gaps to inform further action,4
+ecdf7da7-aa09-4bd0-89df-45db3bd25000,7474a25e-7929-4074-8a5a-873e7779e79a,Gather evidence to frame the issue or fill knowlege gaps,5
+803e09ce-7149-43b7-8d97-208feb829ddd,7474a25e-7929-4074-8a5a-873e7779e79a,"Analyze the regulatory or policy impact for digital health within the given context/institution of new action plans, agendas, agreements, blueprints, master plans, mechanisms, roadmaps and strategies such as WHO Global Strategy on Digital Health, Global Financing Facility (GFF), International Health Regulations, Africa Health Strategy 2016–2030 (African Union), Asia Pacific Health Security Action Framework (APHSAF), etc.",6
+dd7d6400-3220-406b-83a9-2fe9c2d34468,7474a25e-7929-4074-8a5a-873e7779e79a,"Analyze implications for digital health of existing, new or revised policies, regulations or governance such as those for AI, data privacy and protection; digital and data sovereignty; product and service liability; information transparency; human rights, IP/copyright law, cybersecurity.",7
+30f3bdf8-12c7-41fa-b93b-351df51a5d74,7474a25e-7929-4074-8a5a-873e7779e79a,"Prepare briefings and speeches related to digital health using plain language, analogies, storytelling and other techniques to explain technical concepts in a clear, relatable and succinct way (should last part go in Comms & Collab?)",8
+068f3ed4-c545-4771-97d2-a9ba3f591ee1,36b482bd-e906-4f1d-a68e-bd06e971968b,"Study multiple strategies to identify the optimum policy, regulation or governance approach",1
+549a3842-f24e-45d0-acfd-18977d1cbd0b,36b482bd-e906-4f1d-a68e-bd06e971968b,"Advise or design options or interventions fit to sustainably address a policy, regulatory or governance issue, applying best available evidence and data as well as latest design methods.",2
+501a349e-ce11-4295-aa5f-d7dcc5b5d331,36b482bd-e906-4f1d-a68e-bd06e971968b,"Plan, design, and execute an evaluation of a policy, regulatory or governance intervention",3
+bd9cb025-7343-4dd0-835d-06d21a2b6233,36b482bd-e906-4f1d-a68e-bd06e971968b,"Use a regulatory sandbox to test regulations during their drafting or development, providing a safe space for experimentation with digital health solutions and regulatory learning before regulations are finalized or broadly implemented",4
+2c5aea9d-3de9-4a5f-a7a1-5160f27b1930,36b482bd-e906-4f1d-a68e-bd06e971968b,"Articulate the digital health implications of the options, including evidence, trade-offs, spill-over effects, limitations and uncertainties, comprehensively and accurately.",5
+68bed611-ef9f-4a27-81a7-79fd2b53c304,36b482bd-e906-4f1d-a68e-bd06e971968b,"Align with digital health strategy at the organization, local, or national level and/or international level such as WHO Digital Health Strategy",6
+93186433-9107-4f0c-bf67-36d98628a2d5,36b482bd-e906-4f1d-a68e-bd06e971968b,"Integrate lessons, best practices and exemplars in digital health into draft policies, regulations, or governance mechanisms",7
+e3214b02-54e4-4e4f-abbf-9cc3ff32dc72,36b482bd-e906-4f1d-a68e-bd06e971968b,"Consult diverse stakeholder and expert groups, such as other digital and data governance bodies, health informatics associations, digital health communities of practice, NGO implementers, the private sector, ICT and telecom sector and others (e.g. legal, finance and education sectors) as relevant to gather input, feedback and gain buy-in.",8
+a1f00a8b-53a5-45d3-9d08-f3522b2d0c22,af5cf126-e854-4bc9-9aae-6984814ff5cc,"Obtain resources for implementation (human, financial, physical)",1
+6d3513b6-f848-441f-8709-87aacb27b33d,af5cf126-e854-4bc9-9aae-6984814ff5cc,"Procure necessary digital technologies, systems and service contracts to support the new policy, regulation or governance mechanism",2
+89becf72-0aee-4f05-a62b-4bfa1baa21c4,af5cf126-e854-4bc9-9aae-6984814ff5cc,"Establish separate governance and oversight body, governing structure and processes (may be external)",3
+9ce38cab-23a9-4795-8afb-1cbf5548db9d,af5cf126-e854-4bc9-9aae-6984814ff5cc,"Disseminate, inform and educate on policy, regulation or governance mechanisms especially with stakeholders such as the health and digital health leaders in the health system, private sector, other digital and data governance bodies, health informatics associations, NGO implementers, digital health communities of practice, etc.",4
+5dbbc396-e82a-4ba2-a65d-aa68a1ba9241,af5cf126-e854-4bc9-9aae-6984814ff5cc,Monitor to ensure correct and complete implementation,5
+cc9b8ac9-ad12-46a5-89ec-e922f0affefb,a7c1040c-f650-479a-9c7f-9c78f8fe9da3,Applies change management methodologies to facilitate adoption,1
+928c75cf-d284-4458-8510-72040e546246,a7c1040c-f650-479a-9c7f-9c78f8fe9da3,"Sets accountability standards and performance expectations to ensure consistent adherence to policies, regulations and governance mechanisms",2
+16e0dc96-e69a-4dd9-84a2-c91fa33f75df,a7c1040c-f650-479a-9c7f-9c78f8fe9da3,"Address politically sensitive areas that affect the adoption of the policy, regulation or governance area, such as data sovereignty, data ownership, privacy concerns, etc.",3
+961d2bea-7518-402a-9235-fabd20b6eef7,554b6965-c95a-489e-86e4-dbf860e70cb3,"Assess the effectiveness and success of the policy, regulation or governance mechanism.",1
+17bfc7f4-a423-470f-8e08-af111ccb4ec5,554b6965-c95a-489e-86e4-dbf860e70cb3,"Monitor to determine if the policy, regulation or governance mechanism can continue as is or should be updated or terminated if deemed redundant, accomplished, or ineffective, based on evidence and data (e.g. Section 230 in the US which gives companies immunity from liability for their users' online content)",2
+b0141baa-9811-49e6-a79f-1ab6fa8c4f72,9eb15af3-b842-44e2-9edb-c204b468029c,Develop KPIs and reporting mechanisms,1
+abfa166b-c01d-47ad-b40d-bc7942ff87aa,9eb15af3-b842-44e2-9edb-c204b468029c,Produce KPI reports,2
+6657a80d-7b6a-4c0a-8f5b-263651c43425,9eb15af3-b842-44e2-9edb-c204b468029c,Develop the monitoring and compliance mechanisms,3
+4045b310-6550-47b6-a5a3-90727bd51887,9eb15af3-b842-44e2-9edb-c204b468029c,Monitor compliance,4
+86ff7a22-d493-4201-b665-e36508197cc2,9eb15af3-b842-44e2-9edb-c204b468029c,Support and answer questions,5
+f4e3663d-0246-42b0-91ba-e0e82facdfc4,fc52ee13-80a1-466c-b58c-deba59a68054,Review processes that apply to ones' job,1
+26ce4886-e337-4af2-9bd0-b950cb993108,fc52ee13-80a1-466c-b58c-deba59a68054,"Comply with any governance requirements, policies, regulations",2
+b989425a-3ffb-4874-b30d-3492c1dc7408,fc52ee13-80a1-466c-b58c-deba59a68054,"Complete required training and documentation per the policies, regulations, KPis, etc.",3
+6854bfbc-1576-4890-8b97-fe8ccc8dfaf4,94c69870-97e3-4999-9b3d-3f331d693c8e,Establish strategic objectives to guide long-term goals and priorities for use of digital solutions,1
+d4828d55-3e31-4a2c-aee5-8e0dd28048a1,94c69870-97e3-4999-9b3d-3f331d693c8e,Conduct landscape review of digital health implementations within the given context/institution,2
+ccc4cc0f-088a-4da6-a7cc-cf60f7d05325,94c69870-97e3-4999-9b3d-3f331d693c8e,Integrate technology with organizational strategies.,3
+d7e18d71-8599-4364-b889-4959c98237c7,94c69870-97e3-4999-9b3d-3f331d693c8e,Develop roll out plans.,4
+21c1f9ad-4431-4e11-898c-47ec059a69fc,94c69870-97e3-4999-9b3d-3f331d693c8e,Establish and Practice strategic thinking process to effectively lead the team to achieve the vision.,5
+37fc0b27-b79c-49d7-aa3d-8e76cd184cd0,94c69870-97e3-4999-9b3d-3f331d693c8e,"Align the digital health strategy within the given context/institution with new action plans, agendas, agreements, blueprints, master plans, mechanisms, roadmaps and strategies such as WHO Global Strategy on Digital Health, PAHO Regional Digital Health Strategy for the Americas, Africa CDC Digital Transformation Strategy, Regional Action Framework on Digital Health in the Western Pacific, etc.",6
+91986776-179b-4794-9e31-0515f115790c,cb8236f1-d6af-4ebb-bf52-56385977aec6,Plan implementation activities aligned with digital health strategy,1
+7dedfc45-4fc8-4a1e-9d8b-a66a728ae4c5,cb8236f1-d6af-4ebb-bf52-56385977aec6,Identify and allocate resources required for implementation activities,2
+6390a922-e14e-4ef3-8cb1-564bed108898,cb8236f1-d6af-4ebb-bf52-56385977aec6,Lead and manage digital health initatives according to implementation plan,3
+6c1992cc-a868-4362-b62a-e9308566c817,8dafc647-46f2-4cb1-9ea6-f2dbdd29c238,Sensitize the digital health strategies to the relevant stakeholders of the organization,1
+7610b39c-661f-448f-b5a7-b2e7e7b4c067,8dafc647-46f2-4cb1-9ea6-f2dbdd29c238,"(Some keywords to use, communicate, identify the stakeholders, reflect in actions and policies)",2
+8738a3e0-2ed3-4194-bafe-91dec6703b1f,8dafc647-46f2-4cb1-9ea6-f2dbdd29c238,"Adapt existing or create new health and ICT policies, frameworks, etc. in accordance with the digital health strategies.",3
+36825e59-fc05-4118-8574-3e301d277e3c,8dafc647-46f2-4cb1-9ea6-f2dbdd29c238,Facilitate the change management process necessary to implement the digital health strategies within the organization (Special note: Diffusion of the digital health strategies from one entity to another should be part of the process),4
+8abae892-6cbd-4276-b313-df5790a53003,a8e8e96e-17d9-4dbc-8cc1-273810a6fb08,Develop monitoring and evaluation lifecycle and KPIs,1
+d8af37f9-b133-41f8-a232-f203afcf88b1,a8e8e96e-17d9-4dbc-8cc1-273810a6fb08,Define the purpose and the scope of the digital health strategy M/E mechanism,2
+813c2762-524a-4711-9bf8-3502e707fcfb,a8e8e96e-17d9-4dbc-8cc1-273810a6fb08,Identify an appropriate framework to monitor and evaluate the digital health strategy,3
+725cbe71-3a16-445a-b64b-81e314e57898,a8e8e96e-17d9-4dbc-8cc1-273810a6fb08,Develop a logic model for the digital health strategy implementation,4
+64a2f563-2721-4bd9-92a4-d99f65013143,a8e8e96e-17d9-4dbc-8cc1-273810a6fb08,Determine what key performance indicators need to be monitored to evaluate the digital health strategy,5
+2747be6a-23e8-4b2c-8ea1-3e424add3d1c,a8e8e96e-17d9-4dbc-8cc1-273810a6fb08,Collect and analyze data keeping in mind the specific requirements for dissemination and reporting,6
+57da7207-6230-442b-8c7d-7aa5d85574e7,a8e8e96e-17d9-4dbc-8cc1-273810a6fb08,Leverage the data to make course corrections and refinements.,7
+1c079b22-ca8a-4d61-a25d-a7b095e6e615,5ea2971c-4aee-48fa-9f99-e194ef3bf84b,Develop and implement a negotiation strategy for a policy initiative.,1
+11b972fd-9b3e-41a8-aaca-0aed1f4c9b09,5ea2971c-4aee-48fa-9f99-e194ef3bf84b,Communicate effectively at the negotiation table and outside.,2
+c6622f50-b955-4caf-b72d-afa80f2970cd,5ea2971c-4aee-48fa-9f99-e194ef3bf84b,"Create, convey and rebut arguments.",3
+af6435dc-8ce8-4711-a662-f431c702a5eb,8218e065-6610-4a29-b085-428ba0d48e38,"Anticipate technological trends alongside global health and other trends (e.g. economic, environmental, demographic)",1
+983610b0-97a6-405a-a545-0d9e2c11b870,8218e065-6610-4a29-b085-428ba0d48e38,"Interpret the ""big picture"" to see beyond current capabilities for digital technology to improve health outcomes",2
+d5a6cc07-4980-47d1-85bc-4f35c2331dd2,8218e065-6610-4a29-b085-428ba0d48e38,"Create a clear, compelling digital vision",3
+391f6a55-63c1-4f58-b525-061cd302b9c2,8218e065-6610-4a29-b085-428ba0d48e38,Create clear roadmaps that align digital initiatives with institutional goals,4
+37376f4a-fa5e-41d6-b039-6f7ab94f491e,8218e065-6610-4a29-b085-428ba0d48e38,Determine how to balance short-term wins with long-term transformation,5
+7ab37fd0-288f-4785-9edb-7a4742d3add1,478618c9-c4ef-4ec4-8df4-2987458dfe61,"Foster an environment where calculated experimentation and risk-taking and learning from failure are encouraged and rewarded, as feasible within the health system",1
+818d7ed7-a3aa-4d93-92cf-2a62739ce2d5,478618c9-c4ef-4ec4-8df4-2987458dfe61,"Provide space for brainstorming, human-centered design and other techniques to reveal new or refine insights about the utility of digital technology and novel digital health approaches or solutions",2
+2af14ab2-efc2-4a58-a220-b9e98732f4c7,478618c9-c4ef-4ec4-8df4-2987458dfe61,"Foster continuous, evidence-based improvement and evolution",3
+c23115e4-0a74-4578-803e-46600067339d,478618c9-c4ef-4ec4-8df4-2987458dfe61,"(Attributes: agility, resilience)",4
+d26a6c96-dd0e-4cb1-9baa-da8c1b21d800,b85c2281-5731-4238-bf9c-63fa43cc356c,(Adapted from Competence Framework ‘Science for Policy’ for researchers),1
+05c50882-62f4-47dc-a2cc-7d86380a918b,b85c2281-5731-4238-bf9c-63fa43cc356c,"Map key expertise, change agents and knowledge brokers in the domains that pertain to the digital health initiative including but not limited to health and digital health stakeholders at health informatics associations, digital health communities of practice, NGO implementers, the private sector, ICT and telecom sector and others (e.g. legal, finance and education sectors)",2
+be3e2a9c-22fc-480f-b293-6984bd323654,b85c2281-5731-4238-bf9c-63fa43cc356c,Convene stakeholders and create opportunities for interdisciplinary exchange,3
+b86112a6-67d4-4031-b606-0206cb3d417b,b85c2281-5731-4238-bf9c-63fa43cc356c,Create a coalition of leadership to lead the digital transformation or strategy from ideation to implementation,4
+0da11ad6-b13d-4b20-baa6-c9d5f9380a2e,b85c2281-5731-4238-bf9c-63fa43cc356c,Cultivates an informal digital health expert network that continuously exchanges with the institution and/or relevant organizations and communities,5
+866915a2-6183-4940-b5a4-b99a5bb01954,b85c2281-5731-4238-bf9c-63fa43cc356c,"Share state of the art expertise and evidence, and examples of success and failure for mutual learning.",6
+1e36f944-e858-49f7-948a-70acbc650f95,f7fc25f0-c9c7-483b-8516-7a148d1f635e,"See SFIA ""Change and transformation"" category and subcategories Change planning, Change analysis, and Change implementation for universal skills",1
+57d20f1b-b069-48c8-8c46-2ce764d63a2b,f7fc25f0-c9c7-483b-8516-7a148d1f635e,Identify a senior level leader who understands the value of digital health and is well-respected to act as the project champion,2
+e1dae030-413c-4b14-82ff-5f825ba94423,f7fc25f0-c9c7-483b-8516-7a148d1f635e,"Conduct readiness assessments covering skills, culture/attitudes, existing systems, ongoing and planned projects, technology infrastructure, and procurement and other business processes to assess the size, nature and impact of organisational change as a result of the digital health implementation",3
+d294524f-8a4c-46dd-a4d9-8e60b7feddb7,f7fc25f0-c9c7-483b-8516-7a148d1f635e,"Advocate for and secure resources (financial, human, technology, physical) to successfully institute the organizational changes necessitated by the digital health implementation. Changes could include new job positions, revised salary structure, new department, new facilities, new technology, service contracts, etc.",4
+540df202-3c43-4933-b768-fcede155cad4,ec03cbb1-52a8-4f1e-926b-857f9c00f364,"Foster a culture of openness to change, humility, learning and sharing ideas between health and digital health staff",1
+227ad5f1-fa16-4dad-819c-d536db22b766,ec03cbb1-52a8-4f1e-926b-857f9c00f364,(more of an attribute): Exemplify a sense of comfort with ambiguity and uncertainty given the constantly evolving digital health and technology sector,2
+2da3cb2a-784e-40c3-a933-5824c59abcbe,947a1b5e-6384-4c18-9366-fff86a991d13,Reference: SFIA Lead the development of comprehensive stakeholder management strategies and plans.,1
+b066c8b2-70de-438e-a8d9-eac1219bfc1b,947a1b5e-6384-4c18-9366-fff86a991d13,"Build long-term, strategic relationships with senior stakeholders (internal and external).",2
+ca20d4f2-2a9a-4407-a1ad-be12b6140330,947a1b5e-6384-4c18-9366-fff86a991d13,Facilitate the engagement of stakeholders in support of the delivery of services and change projects.,3
+eb8bf8bb-331e-4342-9de2-639089f8eff0,947a1b5e-6384-4c18-9366-fff86a991d13,"Act as a single point of contact for senior stakeholders, facilitating relationships between them.",4
+59d239d9-4e9d-4af3-a01d-56b57943c9c5,947a1b5e-6384-4c18-9366-fff86a991d13,"Negotiate to ensure that stakeholders understand and agree on what will meet their needs, and that appropriate agreements are defined.",5
+c3629c69-ec24-4393-9551-ace1a4da6cf1,947a1b5e-6384-4c18-9366-fff86a991d13,Oversee monitoring of relationships including lessons learned and appropriate feedback.,6
+75f64e59-3a34-42c6-814c-6bf35bda3eae,947a1b5e-6384-4c18-9366-fff86a991d13,Lead actions to improve relations and open communications with and between stakeholders.,7
+7e21a2ff-51d7-4107-beb7-256f84ce27dd,947a1b5e-6384-4c18-9366-fff86a991d13,Determine the strategic approach to understanding stakeholder objectives and requirements.,8
+c3a49edc-910f-48f4-8496-794f36759b4c,947a1b5e-6384-4c18-9366-fff86a991d13,Work with all interested parties to identify stakeholders and establish effective relationships.,9
+308fc2c1-3442-4d18-8bba-388cbcd2d80c,947a1b5e-6384-4c18-9366-fff86a991d13,Establish and promote the overall vision for how stakeholder objectives are met and determines organisational roles and alignment.,10
+87dea543-f02a-42fe-9128-31f968f1c558,947a1b5e-6384-4c18-9366-fff86a991d13,"Actively manage relationships with the most senior stakeholders, and is the ultimate escalation point for issue resolution.",11
+fbba24f3-998a-43d3-a097-7d16924f177b,f92844d7-e3b9-43cd-9fe4-b95b1ee92faf,"(source: Global Curriculum for Health Professionals; CDC Public Health Informatics; National Nurses & Midwifery DH Framework) Unclear: no content copied here. May have been a note to use these resources? Also, project and program management skills are thoroughly covered elsewhere.",1
+35fd6daf-766a-47ff-b5b7-c449e99ab87a,f92844d7-e3b9-43cd-9fe4-b95b1ee92faf,"Establish a steering, oversight or governing committee for digital health",2
+701c9a0e-8597-48f1-8e86-943f6432b871,f92844d7-e3b9-43cd-9fe4-b95b1ee92faf,Steer / Oversee / Lead / Manage the digital health implementation through the entire system development life cycle (choose verb by proficiency level),3
+d02f4a60-bf9b-41f4-a673-95fc0f63a4f0,f92844d7-e3b9-43cd-9fe4-b95b1ee92faf,Supervise digital health solution and service vendors to satisfactorily provide the solution or services and ongoing support in compliance with the contract,4
+0b103d26-fce5-4b01-8ca2-5762b85d707b,c0fbcfa1-3e18-42ac-80a7-61ba2fb0fd35,Calculate/estimate the Total Cost of Ownership (TCO),1
+d13a9f67-2e77-43d8-9549-0de9e6bf9f0b,c0fbcfa1-3e18-42ac-80a7-61ba2fb0fd35,"Estimate impact on labor and the workforce, such as change in digital health jobs (increase in digital health jobs, reduction in entry level jobs, e.g. data entry clerk), growth and investment in digital health companies, etc.",2
+aeffcc79-e65f-4817-96a3-0e1a571cde70,c0fbcfa1-3e18-42ac-80a7-61ba2fb0fd35,Identify proxy data for impact estimations,3
+90f976e0-8ecf-4a3b-8cf2-2fdeec649252,31dd8e12-7b5b-4d99-ab99-e3c0285c472b,"Conduct studies, such as time and motion studies, to measure savings in time, workflow/process, and staff; reduced stockouts of medicines and supplies; productivity improvements, etc.",1
+ffaf2ae8-dfce-4232-bdd9-cd2ac1a5c77a,d7ff7ebd-7542-4c25-9919-28232b67e97d,"Measure improvements to health service delivery, such as faster diagnosis and treatment, more accurate diagnosis, faster recovery, fewer readmissions to clinic/hospital, increased survival rate, fewer adverse events",1
+3b6fa6d1-9995-47d0-81ac-bc9b4e800f80,d7ff7ebd-7542-4c25-9919-28232b67e97d,"Evaluate quality of care through qualitative methods such as surveys, spot checks",2
+7857c5d1-4d4f-46cf-ac33-3c002137a1b4,f4ef4c69-2200-486f-81fc-3eadc172e434,"Measure prevalence of disease at the population level, DALYs, QALYs, etc.",1
+1a9695e2-1e3d-4027-bb3f-d6862b85080e,f38c1cd1-5c75-414e-86b0-855aecc1ebf0,Calculate the Total Cost of Ownership (TCO),1
+1de2c185-d140-48b0-9635-16c3dc4aebe2,f38c1cd1-5c75-414e-86b0-855aecc1ebf0,Map and identify existing resources and examples of similar costed plans for digital health,2
+d2b7cda7-13b8-42ca-b33e-293239ad3dbf,f38c1cd1-5c75-414e-86b0-855aecc1ebf0,"Map the donor landscape for focus, strategy and level of investment in digital health",3
+45762f10-beca-4b7a-b4da-85d7251df051,8f379294-383f-4d7a-b2bd-970fbeb2b3e4,Build the business case,1
+a7357e90-88a5-4e4a-805a-0db05d55eb90,8f379294-383f-4d7a-b2bd-970fbeb2b3e4,Forecast funding needs for the next 5+ years,2
+85f127f5-a18f-46d6-868f-574867d6619c,8f379294-383f-4d7a-b2bd-970fbeb2b3e4,Develop the investment roadmap (define this),3
+7a6e212b-feb7-43a7-a3a4-0368b0206524,8f379294-383f-4d7a-b2bd-970fbeb2b3e4,"Convene a working group to develop the investment / funding strategy, build buy-in, and develop an advocacy strategy, including stakeholders and actors such as health and digital health leaders from the ministry of health, donors, health informatics associations, digital health communities of practice in the NGO and private sectors",4
+f5d7c5ab-852c-492e-9359-c2910aaa346d,1950db56-860a-4cf5-98c1-131f0fbc71ab,Map and Identify potential sources of funding,1
+ff60fa25-46ad-4b01-a6eb-834d5fd4fd18,1950db56-860a-4cf5-98c1-131f0fbc71ab,"Execute fundraising/funding application processes, such as preparing concept notes, proposals, work plans and budgets",2
+4c272a8b-71b3-4970-95c8-b0ccf7b23646,1950db56-860a-4cf5-98c1-131f0fbc71ab,"Validate budgets against work plans and vice versa to ensure every digital health-related cost is included for the corresponding work, e.g. for an EMR implementation, check the proposal budget for software license and technical support, hosting, staff, consultants/vendors, training, infrastructure upgrades, software customizations, etc.",3
+a1419317-8aae-4e96-96a1-70bc98d196f1,1950db56-860a-4cf5-98c1-131f0fbc71ab,Maintain donor and funder relationships,4
+5cb57489-32e9-462c-9efd-46b36ecffaf5,928b5791-82d5-4ca3-88d6-b5b6ebf01816,Implement financial oversight systems,1
+81d1d881-fb94-4b44-aec3-271992a2d33e,928b5791-82d5-4ca3-88d6-b5b6ebf01816,Develop routine processes for managing digital health budgets and expenditures,2
+34f799dc-f00d-4e35-bddb-8424b0077694,928b5791-82d5-4ca3-88d6-b5b6ebf01816,"Obtain and disburse the funds in compliance with regulatory, organizational and/or donor requirements.",3
+e3dcbcb8-8f1b-478a-af59-844a82f3d807,928b5791-82d5-4ca3-88d6-b5b6ebf01816,"Monitor expenditures to ensure that they are used appropriately and in compliance with all regulations, in particular payment against digital health product (hardware and software), service, support, and consulting contracts; related digital infrastructure services (e.g. cloud hosting, mobile network operator agreements).",4
+ba1b0356-62d1-489d-b13a-80737a55162a,928b5791-82d5-4ca3-88d6-b5b6ebf01816,Prepare and deliver grant reporting to grant funders,5
+5961008a-139c-4f2d-a6bf-7146a4359035,9c6b4e39-12fb-4749-a498-8dba779af4a0,Assess and advise using a systems approach in the identification of tools and/or functions that alleviate and address current health service challenges,1
+0a2fc9e9-acea-4104-b085-1784496359a6,9c6b4e39-12fb-4749-a498-8dba779af4a0,Work within the the complexity of clinical/non-clinical workflows within the regional and national health care systems,2
+d908bda0-4bf0-40e3-ba88-c2690172dce5,c3cfe30e-19f0-4702-a359-2f99cb0ccde3,"Design and implement collaborative partnerships/ownership agreements between tools/organizations/primary stakeholders (e.g. data sharing, data ownership, revenue generation, etc.)",1
+b03334d2-9451-4793-b87f-fcecb8c5738e,c3cfe30e-19f0-4702-a359-2f99cb0ccde3,"Apply health economic evaluation and strategy to determine cost effectiveness, ROI, health impact of tools/service within a health system",2
+fdebb249-11bd-410c-a53c-2651deced4a9,33c71dee-8a5e-48db-b052-e077d045c746,Assess the current landscape of tools available that meet requirements or criteria of a health service need/challenge,1
+f077ca3c-690b-449a-8402-c6114c6d4adc,33c71dee-8a5e-48db-b052-e077d045c746,Strategically design cost/time effective monitoring and evaluation and reporting process to determine most appropriate/impactful solution/tool,2
+7fd7b462-deb2-4c9e-992a-9fa2e813dbb2,33c71dee-8a5e-48db-b052-e077d045c746,Follows appropriate procurement processes relevant to the context.,3
+81e53940-fcc0-473f-9f75-c782405c1971,988609ae-5894-45da-a9aa-bcc12d43d86a,"Interpret and understand a context's digital culture, tooling and policies",1
+ee444353-23ed-4f41-8d20-3fc16261b822,988609ae-5894-45da-a9aa-bcc12d43d86a,Select and/or design appropriate digital solutions to meet current and future objectives,2
+5fa723e1-942b-4f06-8626-5ece0ec5e628,988609ae-5894-45da-a9aa-bcc12d43d86a,Implement appropriate digital solutions to meet current and future objectives,3
+ac90aa8a-5148-4f19-a218-9d5d2ed904e5,a51ed6c3-01f7-49b0-a955-8640fd7d2497,"Test cross-tool functionality with regard to fidelity, quality, adherence to local policy (e.g. server location, storage, and data ownership)",1
+98bc29ad-693c-4c8c-8b48-b4dd3d2260a3,a51ed6c3-01f7-49b0-a955-8640fd7d2497,"Identify best approach to co-host/use tools and/or services (work flow, data flow, data exchange, etc.)",2
+7afad1be-0237-4bcd-8a92-ee1e2b232255,bc8e6f81-cc83-4b4a-bb0e-7842fed2be01,Champion the use of feasibility studies in the planning process,1
+8d205ff8-2e98-476e-a57e-89d652b79331,bc8e6f81-cc83-4b4a-bb0e-7842fed2be01,Apply best practices for requirements gathering,2
+70cc41b3-97d1-4670-b3c4-c524c5f9f653,bc8e6f81-cc83-4b4a-bb0e-7842fed2be01,Implement feasibility studies to assess project viability,3
+e7e0b161-03fe-45a7-91e0-7be5237b660c,bc8e6f81-cc83-4b4a-bb0e-7842fed2be01,"Review results of feasibility studies from a technical, operational, legal, and organizational standpoint.",4
+5f2fa325-5134-4ed7-b2fc-49481525f0f4,a84266e4-4e57-40e9-b1ba-ba3f4854fcc7,Champion the usage of human centered design to inform the design of products and services,1
+5122b9df-ed68-4f87-9e4e-d551b952d1b6,a84266e4-4e57-40e9-b1ba-ba3f4854fcc7,Apply UI and UX design principles,2
+244be688-92c7-4b97-8047-4e5612dd4ba3,a84266e4-4e57-40e9-b1ba-ba3f4854fcc7,Incorporate feedback from users into design revisions,3
+9f178b0d-2bd7-4f1e-91c4-1732055030df,e8ba1888-8025-43e5-b9cf-dcd593d3fca3,"Utilize and implement principles of the software development lifecycle to create, deploy, implement, and manage products and solutions.",1
+8ede750d-1fa0-443f-b0c1-3c7239939966,e8ba1888-8025-43e5-b9cf-dcd593d3fca3,Implement agile design principles and processes into product development,2
+8485a753-c134-4071-8d02-adea6dc0cf78,51bfb15d-f6cb-42b2-8a8e-9072bc30b738,Engage in best practices of user training,1
+db488470-0605-451e-a864-ae230aa22574,51bfb15d-f6cb-42b2-8a8e-9072bc30b738,Incorporate solution into users' workflows and contexts,2
+d2e93f54-f933-4b09-8c70-6ad0b628c8ea,51bfb15d-f6cb-42b2-8a8e-9072bc30b738,Provide user support …,3
+e55097aa-2c9f-407e-b2cc-4091bddc973e,1e7ed9ef-3e37-4fc7-8bc8-0e59c7f3784e,Gather data required for software evaluation according to defined metrics and KPIs,1
+46fa8ba6-31ba-43ac-a2bd-720b7aedbab2,1e7ed9ef-3e37-4fc7-8bc8-0e59c7f3784e,Utilize performance metrics for software evaluation,2
+de42f432-6366-4565-a5bd-f6e860c0c782,1e7ed9ef-3e37-4fc7-8bc8-0e59c7f3784e,Document results of software evaluation and communicate as required,3
+f432ad9b-69c0-4e76-a657-050e4c78ea98,5c502d0b-831a-4bbd-8c0f-c4630aad7073,Conduct process to gather data and user feedback to inform evaluation of solution,1
+5013ab8d-3771-4002-8ce7-581888878069,5c502d0b-831a-4bbd-8c0f-c4630aad7073,Review data and user feedback to determine effectiveness of solution for organization/country's context and workflows,2
+91c143bd-20b4-4820-8393-2cf6d7c24ff9,5c502d0b-831a-4bbd-8c0f-c4630aad7073,Summarize and provides recommendations based on findings,3
+5d676ee1-9991-41f8-9ab5-4005065d0d3f,7c77ae2b-d3ac-4110-955a-87ef00dedf06,Assess infrastructure needs to determine capabilities and needs to enable support of the Enterprise Architecture,1
+dca0c56d-2ea2-4b31-95f3-3c762ed642ba,7c77ae2b-d3ac-4110-955a-87ef00dedf06,Identify priorities for infrastructure based on need and available resources,2
+735df97a-11da-4167-9d9d-31df6729b280,7c77ae2b-d3ac-4110-955a-87ef00dedf06,Create a roadmap for infrastructure improvements and maintenance,3
+5b128527-9b1f-4914-9169-2611127263a3,67c51ee0-9f67-4e04-8ff7-6427395e5e75,"Document Architecture principles, standards and components in the Enterprise Architecture",1
+ad8daa99-3546-4297-8f9c-fe5716f00dcb,67c51ee0-9f67-4e04-8ff7-6427395e5e75,Establish governance process to ensure individual project alignment with the Enterprise Architecture,2
+ed97ddc5-7ca4-4a10-848e-c03d8fadbf17,67c51ee0-9f67-4e04-8ff7-6427395e5e75,Communicate the enterprise architecture governance process to stakeholders,3
+eda6debd-f10f-4c11-83bd-91a1551efd84,1baaea67-f111-4752-9e89-6ef9af51053c,Design projects to be aligned with the Enterprise Architecture,1
+c185aebe-4c8e-4bfc-9637-6df90e402b07,1baaea67-f111-4752-9e89-6ef9af51053c,Review project alignment with the enterprise architecture,2
+9f32834a-a183-4243-bc8a-72311890fca0,1baaea67-f111-4752-9e89-6ef9af51053c,Provide suggestions and feedback to improve alignment early in the project start-up process,3
+3201319e-a5f8-409e-90a0-f90445b04cd9,1baaea67-f111-4752-9e89-6ef9af51053c,Follow governance process and standards to ensure alignment,4
+bff28276-bb41-4c5c-9ff9-e656e962391a,abbc66eb-963c-4c55-962f-2c9d45d61052,Champion the use of semantic and syntactic health data standards,1
+dfd36657-ac90-4bfe-b9aa-396cbddc270b,abbc66eb-963c-4c55-962f-2c9d45d61052,Design application data exchange using appropriate standards aligned with the enterprise architecture.,2
+5d742e17-f0ba-40d0-bb9b-698644f233da,abbc66eb-963c-4c55-962f-2c9d45d61052,Implement systems data exchange according to standards and enterprise architecture,3
+ec09cf03-1339-4f47-b65e-21065521a76f,9ee3c445-7a52-43f3-b43b-569f368d8c9f,Use syntactic and semantic standards to support data integration and use,1
+f95ada0a-63be-477e-b10c-dd105551659d,372cd6e0-7f8a-46de-9879-c8b7ebef6380,"Demonstrate knowledge of the financing, organization, delivery, and outcomes of health care services and their interrelationships.",1
+f506ca06-04d2-4989-a9dd-7a8e86c8e84a,372cd6e0-7f8a-46de-9879-c8b7ebef6380,"Demonstrate awareness of measurement tools related to health equity at the population, community, healthcare practitioner, and individual patient and community member levels.",2
+134280b4-db15-485f-b2ab-694b4045cf17,372cd6e0-7f8a-46de-9879-c8b7ebef6380,"Assess how existing health inequities affect population-level health, individual health, and healthcare delivery systems",3
+27bbb2db-96d7-48c2-bf98-802b848b3a0b,372cd6e0-7f8a-46de-9879-c8b7ebef6380,Use methods grounded in an awareness of the multilevel factors contributing to such inequities.,4
+1f04b470-1b40-46a7-8d08-2c8c68ab62c2,f1025092-735a-435f-94d2-8c67bb8dbe58,Develop a review scope,1
+0148deaf-7ed2-446e-8bd7-549449ec1f66,f1025092-735a-435f-94d2-8c67bb8dbe58,Analyse health services delivery systems for problems,2
+04938f08-898a-4030-b246-6e866c2469d8,f1025092-735a-435f-94d2-8c67bb8dbe58,Synthesise evidence related to solutions,3
+d83de0d3-4ffe-43a8-bad6-85c9b734b0b2,f1025092-735a-435f-94d2-8c67bb8dbe58,Apply solutions appropriate to the content,4
+58d2ba56-b1a7-412c-aa4b-c946db3c9f4b,f1025092-735a-435f-94d2-8c67bb8dbe58,Assist with key system modifications or redesigns,5
+f56bc375-33f8-4cd8-a9f5-1152e931515a,e20cad11-8353-42ea-a9ee-ea452fea1402,"Apply learning health systems knowledge and methods to translate, implement, and scale research innovations to advance equity and justice in health and healthcare delivery.",1
+5f2cf7dc-8c8b-4778-bcb0-35cb1d45077e,e20cad11-8353-42ea-a9ee-ea452fea1402,Use systems theories to understand how the interactions of the parts of health systems operate to produce value for stakeholders.,2
+d7415d94-aaca-411a-9760-567100c34c42,e20cad11-8353-42ea-a9ee-ea452fea1402,Demonstrate systems thinking in the design and conduct of research and implementation of its findings within the context of complex health systems.,3
+b6d78599-ba43-4af5-9ce1-15a444b5c901,f62e36de-89e1-489f-a7ca-e5341a8f1ee9,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+0a6d3daf-beef-4f55-b770-aca3eb9fb6c9,f62e36de-89e1-489f-a7ca-e5341a8f1ee9,"- Transmit health event alerts to specific population group(s) - Transmit targeted health information to person(s) based on health status or demographics - Transmit targeted alerts and reminders to person(s) - Transmit diagnostics result, or availability of result, to person(s)",2
+32ef25fb-3eb4-43cf-9b1a-dd3132be03db,f62e36de-89e1-489f-a7ca-e5341a8f1ee9,Know how to use the systems for this purpose:,3
+16d724e1-b831-47c6-a632-203123665cd1,f62e36de-89e1-489f-a7ca-e5341a8f1ee9,- Communication Systems (Emergency alert and notifications; Provider-to-person communication) - Community-Based Information Systems (Patient management; Community communication) - Telehealth Systems (Interactive services; Guided self help),4
+8f9e26aa-d6e4-446c-a77b-eb99635bcd98,769e2d9b-e2d7-4060-854f-a04fc092af66,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+a6ad61e3-e219-43c0-884f-662fba31690d,769e2d9b-e2d7-4060-854f-a04fc092af66,- Transmit untargeted health information to an undefined population,2
+eb3021cc-873b-4ef2-b7f8-2abea506ac16,769e2d9b-e2d7-4060-854f-a04fc092af66,- Transmit untargeted health event alerts to undefined group.,3
+14485bf4-62c1-44ad-83ea-cba3d82e04ce,769e2d9b-e2d7-4060-854f-a04fc092af66,Know how to use the systems for this purpose:,4
+b4419fee-f3ff-4c55-855e-a0b7267259f1,769e2d9b-e2d7-4060-854f-a04fc092af66,- Communication Systems (Emergency alert and notifications; Mass media; Social networks),5
+4cd3f62a-7270-46be-a9a6-937deef81dbf,fbb024c3-1a97-4200-8bb0-a92d42d8dc1e,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+966b0677-efcf-4fcf-88c7-7df0a6edeadd,fbb024c3-1a97-4200-8bb0-a92d42d8dc1e,- Peer group for individuals,2
+d2ac2617-8a4d-42ab-aa66-f3ad2949beb0,fbb024c3-1a97-4200-8bb0-a92d42d8dc1e,Know how to use the systems for this purpose:,3
+610563d9-3f4e-4c0c-ac3b-cf4a165b25f1,fbb024c3-1a97-4200-8bb0-a92d42d8dc1e,"- Communication Systems (Provider-to-person communication; mobile phone based groups (e.g. WhatsUp); Social networks,) - Community-Based Information Systems (Community communication)",4
+697bfcba-e8f0-4497-b848-a976871fbdbe,2196ab5d-94e5-4ff2-ac3b-f798e44e43b1,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+0a9a9e09-6d49-4153-ab4f-adcda9590de3,2196ab5d-94e5-4ff2-ac3b-f798e44e43b1,- Access by the individual to own medical or summary health records - Self monitoring of health or diagnostic data by the individual - Active data capture/documentation by an individual - Access by the individual to verifiable documentation of a health event or health status,2
+e8eb70b4-282f-487d-9180-99ca8098cd52,2196ab5d-94e5-4ff2-ac3b-f798e44e43b1,Know how to use the systems for this purpose:,3
+8812c9fa-3778-4c05-a2ea-cf8b334bb845,2196ab5d-94e5-4ff2-ac3b-f798e44e43b1,- Electronic medical record systems - Personal health record (portal) - Communication systems (Provider-to-person communication) - Telehealth systems Guided self help - Shared Health Record and Health Information Repository,4
+2730a71c-2093-46aa-b00f-cf37924b63ab,7e89ed37-f61d-4867-a897-95e2e7b57ab6,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+3cc68233-9482-4f34-9c4a-c00b7e560a1a,7e89ed37-f61d-4867-a897-95e2e7b57ab6,- Reporting of health system feedback by persons - Reporting of public health events by persons,2
+248a952f-14d0-4c8d-8f48-0b94011cd2e4,7e89ed37-f61d-4867-a897-95e2e7b57ab6,Know how to use the systems for this purpose:,3
+f26a2579-1336-4a5d-ad0b-c099a6b450be,7e89ed37-f61d-4867-a897-95e2e7b57ab6,"- Communication Systems (SMS, social networks) - Personal health record (portal) - Telehealth systems",4
+645e4370-24dd-41c2-8310-9f43086e8c1d,76af673d-a950-44f0-b3ce-c5b19c778629,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+bbe8b1d0-355c-471c-b891-86772dd41a6c,76af673d-a950-44f0-b3ce-c5b19c778629,- Look-up of information on health and health services by individuals - Simulated human-like conversations with individual(s),2
+7692bfb9-c758-4cd4-b0a7-db200184859d,76af673d-a950-44f0-b3ce-c5b19c778629,Know how to use the systems for this purpose:,3
+09fb43fd-19ed-40ef-9647-9e82d08d571c,76af673d-a950-44f0-b3ce-c5b19c778629,- Electronic medical record systems - Personal health record (Appointment booking and cancellations; Appointment reminders and summaries; Prescription list; Secure messaging to providers; Test results) - Telehealth systems - Product catalogues - Immunization information systems - Health program monitoring systems - Central appointment sysems (???),4
+0f40bb92-5611-4c8e-ad9e-c141728d1733,8e066e26-ee6b-49c9-95d2-d410306cf447,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+f25d8a78-6cf0-43bc-a8aa-3833543e30b9,8e066e26-ee6b-49c9-95d2-d410306cf447,- Transmit or manage out-of-pocket payments by individuals - Transmit or manage vouchers to individuals for health services - Transmit or manage incentives to individuals for health services,2
+91ef81e9-e418-4768-a158-c1b8b5dfb1be,8e066e26-ee6b-49c9-95d2-d410306cf447,Know how to use the systems for this purpose:,3
+fad9fcb2-deed-4621-8226-5decd72103a4,8e066e26-ee6b-49c9-95d2-d410306cf447,- Health finance-related information systems (Health accounts; Claims management) - Mobile payment systems,4
+3c6aa05d-101a-443c-8f1e-1fe1ba678924,39e162b4-6e07-4ff7-b62b-44bea4590562,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+b76c430c-75b8-4816-982b-f51cfd7fbfaa,39e162b4-6e07-4ff7-b62b-44bea4590562,- Manage provision and withdrawal of consent by individual(s),2
+bbad7fbf-1c7a-45f8-9153-508f5fd74eb5,39e162b4-6e07-4ff7-b62b-44bea4590562,Know how to use the systems for this purpose:,3
+83307f98-6ec5-4186-931c-9070dd774cbd,39e162b4-6e07-4ff7-b62b-44bea4590562,- Personal health record (portal) - Telehealth systems - Digital consent forms - Electronic informed consent,4
+d3e605dc-eaa3-4935-b894-512e0be2513c,6e774c4b-91fe-4c9e-9467-84202da83fc2,Understanding the value of: Designing how to: Know how to use: Build:,1
+f79822eb-19e9-4057-b53a-6906929dcb25,6e774c4b-91fe-4c9e-9467-84202da83fc2,- Verify a person’s unique identity - Enrol person(s) for health services/clinical care plan,2
+5534532a-6fb5-4a1e-bfd2-2e759c851acb,6e774c4b-91fe-4c9e-9467-84202da83fc2,"Know how to use the systems for this purpose, for example:",3
+49e7f07e-004b-4774-870f-a11e5170918f,6e774c4b-91fe-4c9e-9467-84202da83fc2,- C2: Civil registration and vital statistics (CRVS) systems - C6: Identification registries and directories - C8: Master patient index - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+e2c2a89a-c512-45a2-8d31-5e491d5af864,a609fd65-eede-45aa-9808-b48f618d86ed,Understanding the value of: Designing how to: Know how to use: Build:,1
+ad3d4728-e7a1-4790-8196-e6472e85fee7,a609fd65-eede-45aa-9808-b48f618d86ed,"- Manage person-centred structured clinical records - Use longitudinal tracking of person’s health status and services - Manage person-centred unstructured clinical records (e.g. notes, images, documents) - Use Routine health indicator data collection and management",2
+afca6b3c-cf09-4f36-b7c2-e852e2bddde8,a609fd65-eede-45aa-9808-b48f618d86ed,"Know how to use the systems for this purpose, for example:",3
+c52caaa4-f6e0-407b-b420-d120a0861ab9,a609fd65-eede-45aa-9808-b48f618d86ed,- A2: Community-based information systems - A9: Telehealth systems - B7: Patient Administration systems - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+e2f817a8-1354-413a-a458-936832dfd0d0,c8100d0c-37dc-4bac-a9de-fa712a376811,Understanding the value of: Designing how to: Know how to utilize: How to develop:,1
+762d8814-fe47-45c7-b200-e164b3762802,c8100d0c-37dc-4bac-a9de-fa712a376811,- Provide prompts and alerts based according to protocol - Provide checklist according to protocol - Screen persons by risk or other health status,2
+c510b5ba-8a57-4a97-afa0-f55ac5d783df,c8100d0c-37dc-4bac-a9de-fa712a376811,"Know how to use the systems for this purpose, for example:",3
+336b37b1-7597-4aec-acb5-c70ba72e54d2,c8100d0c-37dc-4bac-a9de-fa712a376811,- A2: Community-based information systems - A3: Decision support systems - A4: Diagnostics information systems - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+15e7e2cd-5ecf-4aa3-945b-b28cd3f2f3e4,8b4d00c3-ae69-4b91-9560-7bc7c7a4aa2b,Understanding the value of: Designing how to: Know how to use: Build:,1
+9f3e3114-057f-4f41-8163-16468250cf78,8b4d00c3-ae69-4b91-9560-7bc7c7a4aa2b,"- Consultations between remote person and healthcare provider - Remote monitoring of person's health or diagnostic data by provider - Transmission of medical data (e.g. images, notes, and videos) to healthcare provider - Consultations for case management between healthcare providers",2
+facaddf7-92fe-4e6b-83cb-41ce276b7c6d,8b4d00c3-ae69-4b91-9560-7bc7c7a4aa2b,"Know how to use the systems for this purpose, for example:",3
+5a609f01-8657-4eab-8760-0469111ef6aa,8b4d00c3-ae69-4b91-9560-7bc7c7a4aa2b,- A9: Telehealth systems - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+4194a825-d456-454a-8f5f-cae48450273a,4a3850d3-3376-4de6-ad04-acd87a78b5d7,Understanding the value of: Designing how to: Know how to use: Build:,1
+9782b027-b96b-4336-965e-0decbae9b82e,4a3850d3-3376-4de6-ad04-acd87a78b5d7,- Communication from healthcare provider to supervisor(s) - Communication and performance feedback to healthcare provider(s) - Transmit routine news and workflow notifications to healthcare provider(s) - Transmit non-routine health event alerts to healthcare provider(s) - Peer group for healthcare providers - Generative AI for tailored content creation,2
+d42bba17-42b6-4b93-9570-15a70e5eac42,4a3850d3-3376-4de6-ad04-acd87a78b5d7,"Know how to use the systems for this purpose, for example:",3
+f3405c25-cacf-445e-9c62-f9b84384fc7f,4a3850d3-3376-4de6-ad04-acd87a78b5d7,- A1: Communication systems - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+4aa53f65-bc27-4005-96d5-707c4f94b66d,39e30801-179e-439b-8548-5d3a3a97a0ad,Understanding the value of: Designing how to: Know how to use: Build:,1
+53b0ab5b-40a6-452d-bb03-d85b54f9f5ab,39e30801-179e-439b-8548-5d3a3a97a0ad,"- Coordinate emergency response and transport - Manage referrals between points of service within health sector - Manage referrals between health and other sectors (social services, police, justice, economic support schemes)",2
+7959ab6d-1fb4-4c70-bfd5-871b3e91d960,39e30801-179e-439b-8548-5d3a3a97a0ad,"Know how to use the systems for this purpose, for example:",3
+1f54729b-ded1-49cd-8197-6e17d0d0123a,39e30801-179e-439b-8548-5d3a3a97a0ad,- E1: Emergency preparedness and response systems - A1: Communication systems - A2: Community-based information systems - D2: Data interchange and interoperability - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+1febe627-fbdb-4ba4-8928-4a013e9e8ffa,f301cc5e-013c-4d6e-9b9c-d5a867c93d49,Understanding the value of: Designing how to: Know how to use: Build:,1
+e73f26e3-1c39-4f86-a125-b9f1ba4856e7,f301cc5e-013c-4d6e-9b9c-d5a867c93d49,- Identify persons in need of services - Schedule healthcare provider's activities,2
+0fc5e6f7-9778-4642-89d4-f852a9125cd6,f301cc5e-013c-4d6e-9b9c-d5a867c93d49,"Know how to use the systems for this purpose, for example:",3
+05334f6c-58e4-43ac-b50e-d85825db47a2,f301cc5e-013c-4d6e-9b9c-d5a867c93d49,- A1: Communication systems - A2: Community-based information systems - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+90a78b16-85bb-4b04-8e6f-3bfbb7519603,f17c491a-2b3d-433c-bd3e-01df81dfe25f,Understanding the value of: Designing how to: Know how to use: Build:,1
+591571f2-754d-41c0-960d-34bda26e6643,f17c491a-2b3d-433c-bd3e-01df81dfe25f,- Transmit or track prescription orders - Track individual's medication consumption - Report adverse drug effects,2
+62efcbaf-04a5-4554-b04f-5d8783c7da7e,f17c491a-2b3d-433c-bd3e-01df81dfe25f,"Know how to use the systems for this purpose, for example:",3
+f27a42c3-6de4-4406-a0e7-32b487348e63,f17c491a-2b3d-433c-bd3e-01df81dfe25f,- A8: Pharmacy information systems - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+1dec0d08-db0f-49c5-bf61-d0e8cd0b40c8,c93ad651-a4a0-40a7-b001-7f14f92db19b,Understanding the value of: Designing how to: Know how to use: Build:,1
+12290aeb-7508-4d75-ba2f-0b3abe806651,c93ad651-a4a0-40a7-b001-7f14f92db19b,- Transmit person's diagnostic result to healthcare provider - Transmit and track diagnostic orders - Capture diagnostic results from digital devices - Track biological specimens,2
+8879bb40-058a-4b5a-95e2-f68b0abc230c,c93ad651-a4a0-40a7-b001-7f14f92db19b,"Know how to use the systems for this purpose, for example:",3
+4a64f6ab-dbdd-4b0f-a92f-e0e1b77b511d,c93ad651-a4a0-40a7-b001-7f14f92db19b,- A6: Laboratory information systems - B1: Blood bank information management systems - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+0ebe9e24-3e2d-42dc-9518-9ce3fcf68b6b,a55ab941-9687-4b06-8a7a-c26ee8c08b17,Understanding the value of: Designing how to: Know how to use: Build:,1
+df8a6935-afd0-45dc-9f3c-1e8368f19b25,a55ab941-9687-4b06-8a7a-c26ee8c08b17,- Verify individual's health coverage and financing scheme membership - Receive payments from individuals,2
+9b6999b0-1bf7-4c6d-9908-9fdc8132579f,a55ab941-9687-4b06-8a7a-c26ee8c08b17,"Know how to use the systems for this purpose, for example:",3
+ab3b80ee-6f32-4781-8d0b-5efae2ea0f77,a55ab941-9687-4b06-8a7a-c26ee8c08b17,- B2: Health finance-related information systems - B7: Patient Administration systems - NEW: Mobile payment systems - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+e3785d64-4cf6-45db-854a-908cc549ff63,d6019ea1-70e3-4e5b-96b7-985d8a78df40,Understanding the value of: Designing how to: Knowing how to:,1
+cabde9d0-d51f-4c93-890d-48fc49e6c3ee,d6019ea1-70e3-4e5b-96b7-985d8a78df40,- List health workforce cadres and related identification information - Monitor performance of healthcare provider(s) - Manage registration/certification of healthcare provider(s) - Record training credentials of healthcare provider(s) - Manage health workforce activities,2
+acab2ec9-498d-4f97-adc1-0e960dcf6565,d6019ea1-70e3-4e5b-96b7-985d8a78df40,Know how to use the systems for this purpose:,3
+156c1646-2cce-47b3-9dae-be6fceb99a91,d6019ea1-70e3-4e5b-96b7-985d8a78df40,- Communication systems - Human resource information systems - Learning and training systems - Health worker registry - Health Management Information systems (HMIS),4
+71fbb5bd-c5be-4fad-83ad-2384efc15b87,b7584451-c435-47fa-8471-c466a4422d8e,Understanding the value of: Designing how to: Knowing how to:,1
+69ed2c55-e9f1-42a8-ab3e-4c0fccfb439e,b7584451-c435-47fa-8471-c466a4422d8e,- Manage inventory and distribution of health commodities - Notify stock levels of health commodities - Monitor cold-chain sensitive commodities - Register licensed drugs and health commodities - Manage procurement of commodities - Report counterfeit or substandard drugs by persons,2
+e265ebeb-62fa-432a-b1e5-6390b33da09e,b7584451-c435-47fa-8471-c466a4422d8e,Know how to use the systems for this purpose:,3
+f137d5f1-28c4-448a-802b-0888ffd6361b,b7584451-c435-47fa-8471-c466a4422d8e,- Communication systems - Community-based information systems - Laboratory information systems - Pharmacy information systems - Logistics management information systems (LMIS) - Facility management information systems - (Health) Facility registries - Product catalogues - Analytics Systems - Data interchange and interoperability - Data warehouses - Geographic information systems (GIS) - Health Management Information systems (HMIS),4
+7fb53d7f-e137-40ba-9dae-372a2b73d232,42f6e158-b879-45f5-aec2-6eb95c2b67b9,Understanding the value of: Designing how to: Knowing how to:,1
+1d1fa9f3-fed7-4433-a0c7-2f9203ddc5e6,42f6e158-b879-45f5-aec2-6eb95c2b67b9,- Notification of public health events from point of diagnosis,2
+21012e96-007e-4bef-a980-0598d775a5e0,42f6e158-b879-45f5-aec2-6eb95c2b67b9,Know how to use the systems for this purpose:,3
+a5739812-1568-4892-81c6-dd08b331fe02,42f6e158-b879-45f5-aec2-6eb95c2b67b9,- Communication systems - Diagnostics information systems - Laboratory information systems - Health program monitoring systems - Terminology and classification systems - Analytics Systems - Data interchange and interoperability - Geographic information systems (GIS) - Health Management Information systems (HMIS) - Emergency preparedness and response systems - Public health and disease surveillance systems,4
+35d85ea6-d220-4fed-bcaa-ae7d28d8134f,c8a9668b-4aa6-453b-a2aa-0f164e8fb1a2,Understanding the value of: Designing how to: Knowing how to:,1
+46453452-165c-45b4-8ba1-9ea8dd90c964,c8a9668b-4aa6-453b-a2aa-0f164e8fb1a2,"- Notify, register and certify birth event - Notify, register and certify death event",2
+fbc5c2b1-c79e-4698-bdda-e39c8bbce716,c8a9668b-4aa6-453b-a2aa-0f164e8fb1a2,Know how to use the systems for this purpose:,3
+e83593c0-3b11-413d-b1f9-117588c37fe1,c8a9668b-4aa6-453b-a2aa-0f164e8fb1a2,- Census and population information systems - Civil registration and vital statistics (CRVS) systems - Identification registries and directories - Master patient index - Public Key directories - Data interchange and interoperability - Health Management Information systems (HMIS),4
+fc8a79d2-e96a-4943-b064-d94cd7b234f7,81c53df1-85f1-4907-af95-06290fe59e93,Understanding the value of: Designing how to: Knowing how to:,1
+9da2a31f-8c01-4e5f-93c8-472361ab40c4,81c53df1-85f1-4907-af95-06290fe59e93,"- Register and verify health coverage scheme membership of persons - Track and manage insurance billing and claims processes - Transmit and manage payments to health facilities - Transmit and manage routine payroll payment to healthcare provider(s) - Transmit or manage financial incentives to healthcare provider(s) - Manage and plan budget allocations, revenue and expenditures - Determine level of subsidies for health coverage schemes - Collect health insurance contributions",2
+f7f03c4f-649d-4dd8-976b-1f865d930131,81c53df1-85f1-4907-af95-06290fe59e93,Know how to use the systems for this purpose:,3
+c720c543-fa83-43bf-b933-3f4848b2d72c,81c53df1-85f1-4907-af95-06290fe59e93,- Health finance-related information systems --- Public financial management information systems --- Health coverage schemes information management systems --- Health insurance information system --- Claims management system --- Budget systems - Health worker registry - Terminology and classification systems - Analytics Systems - Data interchange and interoperability - Health Management Information systems (HMIS),4
+f5ca9f06-5a62-4548-a422-609664d06b3a,4dae03ca-605a-4f9b-9807-4a8f974774b2,Understanding the value of: Designing how to: Knowing how to:,1
+d10f5697-9390-48c0-b2b0-f492c2cb346f,4dae03ca-605a-4f9b-9807-4a8f974774b2,- Monitor status and maintenance of health equipment - Track regulation and licensing of medical equipment,2
+7e52851e-cf15-4b5f-a169-f2b4cb594a69,4dae03ca-605a-4f9b-9807-4a8f974774b2,Know how to use the systems for this purpose:,3
+286bde43-938d-4949-afa1-7690cda64034,4dae03ca-605a-4f9b-9807-4a8f974774b2,- Communication systems - Facility management information systems - (Health) Facility registries - Product catalogues - Terminology and classification systems - Analytics Systems - Geographic information systems (GIS) - Health Management Information systems (HMIS),4
+a44cf503-4384-4a5a-84b9-ff7bfb878e60,40872704-a3c7-4dd6-a9e7-6cc687649303,Understanding the value of: Designing how to: Knowing how to:,1
+adbdad85-2cdb-4604-b9f3-3cc88bee81ee,40872704-a3c7-4dd6-a9e7-6cc687649303,- List health facilities and related information - Assess health facilities,2
+0f00101d-57f6-4411-8450-46e147b721db,40872704-a3c7-4dd6-a9e7-6cc687649303,Know how to use the systems for this purpose:,3
+d1f2aedf-3f2c-4207-a902-2acfde4c8386,40872704-a3c7-4dd6-a9e7-6cc687649303,- Communication systems - Facility management information systems - (Health) Facility registries - Health worker registry - Terminology and classification systems - Analytics Systems - Geographic information systems (GIS) - Health Management Information systems (HMIS),4
+459533fa-f45e-4145-a735-84e587f28d57,bd6cc6f9-a725-44c4-a2f4-8d70a3df80b3,Understanding the value of: Designing how to: Knowing how to:,1
+a96b59c1-2d5f-40ea-a90d-18c3852d0809,bd6cc6f9-a725-44c4-a2f4-8d70a3df80b3,- Register and store current health certificate information - Retrieve and validate current health certificate information - Revoke and update health certificate,2
+534d8012-f665-4c8b-9abc-9189c713ab6f,bd6cc6f9-a725-44c4-a2f4-8d70a3df80b3,Know how to use the systems for this purpose:,3
+594eac86-baf5-4e15-a344-5bfc491dc8c5,bd6cc6f9-a725-44c4-a2f4-8d70a3df80b3,- Communication systems - Community-based information systems - Electronic medical record systems - Personal health records - Patient Administration systems - Census and population information systems - Civil registration and vital statistics (CRVS) systems - Identification registries and directories - Master patient index - Public Key directories - Terminology and classification systems - Analytics Systems - Data interchange and interoperability - Shared Health Record and Health Information Repository,4
+9c77e3a5-b2cb-474e-8476-ad5569c48ca2,e41d6c03-fa61-4bca-b968-c1489f25391d,Understanding the value of: Designing how to: Know how to use: Build:,1
+bee5ac50-d9ad-41a3-9e89-bedf1d5bc8c1,e41d6c03-fa61-4bca-b968-c1489f25391d,- Form creation for data acquisition - Data storage and aggregation - Data synthesis and visualizations - Automated analysis of data to generate new information or predictions on future events,2
+965b1420-5c15-47c4-80ac-38c9d63b251d,e41d6c03-fa61-4bca-b968-c1489f25391d,"Know how to use the systems for this purpose, for example:",3
+e792b8fb-38dd-43f7-a5d3-7b6000b5fda8,e41d6c03-fa61-4bca-b968-c1489f25391d,- C2: Civil registration and vital statistics (CRVS) systems - D1: Analytics Systems - D3: Data warehouses - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+d474d4a8-cd2e-4ae7-b962-d9f31de5b3b8,7a147870-4d90-4b84-8791-ed7e28ddd595,Understanding the value of: Designing how to: Know how to use: Build:,1
+8c051af6-c27a-4584-a7b5-f2a50b400922,7a147870-4d90-4b84-8791-ed7e28ddd595,"- Parse unstructured data into structured data - Merge, de-duplicate and curate coded datasets or terminologies - Classify disease codes or cause of mortality",2
+5eac33d6-4862-44d3-9568-c013389fc3e1,7a147870-4d90-4b84-8791-ed7e28ddd595,"Know how to use the systems for this purpose, for example:",3
+84f8d946-6da6-4956-b5a1-f50ac6f6c17d,7a147870-4d90-4b84-8791-ed7e28ddd595,- C11: Terminology and classification systems - D3: Data warehouses - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+6cdea350-c9ff-4b47-a822-f684e2eb0326,658766c9-d0ef-4fd3-8cb5-ce16c2974a0d,Understanding the value of: Designing how to: Know how to use: Build:,1
+b3310af4-faa0-4fe7-9458-96a22b1fba20,658766c9-d0ef-4fd3-8cb5-ce16c2974a0d,- Map location of health facilities/structures and households - Map location of health event - Map location of persons and settlements - Map location of healthcare provider(s) - Map health and health indicator data to geographic data,2
+d306c17c-cc68-40e3-b5a1-260afeb80527,658766c9-d0ef-4fd3-8cb5-ce16c2974a0d,"Know how to use the systems for this purpose, for example:",3
+2b9412f1-0e0f-4dcf-a70d-82d989bc2bf7,658766c9-d0ef-4fd3-8cb5-ce16c2974a0d,- D5: Geographic information systems (GIS) - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+05f628f6-1219-4d4d-b5ca-2c9c5507f56b,25676646-ce75-4600-a9b1-219d64414a18,Understanding the value of: Designing how to: Know how to use: Build:,1
+97f20223-a359-45e1-866c-7778c43cf734,25676646-ce75-4600-a9b1-219d64414a18,- Point-to-point data integration - Standards-compliant interoperability - Message routing,2
+cdfa212b-8ec6-470f-b8c6-b902c3e4b389,25676646-ce75-4600-a9b1-219d64414a18,"Know how to use the systems for this purpose, for example:",3
+bfc1b237-be1d-4265-8fe4-141ec97e336e,25676646-ce75-4600-a9b1-219d64414a18,- D2: Data interchange and interoperability - NEW: Health information exchanges - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+bd842a62-0b33-4012-b76d-bea60bea26df,9c4f2753-d779-494e-af8b-a974c7e68c3e,Understanding the value of: Designing how to: Know how to use: Build:,1
+87bc3354-8cf7-4a7c-b2f9-998d04beb45e,9c4f2753-d779-494e-af8b-a974c7e68c3e,- Authentication and authorisation - Data privacy protection - Data consent and provenance - Trust architecture,2
+d207c340-5afd-4260-ac54-8b426b403598,9c4f2753-d779-494e-af8b-a974c7e68c3e,"Know how to use the systems for this purpose, for example:",3
+7ce2705b-5487-4ee9-898e-40e456213256,9c4f2753-d779-494e-af8b-a974c7e68c3e,- C6: Identification registries and directories - C8: Master patient index - C10: Public Key directories - Electronic medical record systems - Personal health records - Health Management Information systems (HMIS),4
+c8c736c3-014f-4b74-8d03-c43c0e4cf345,dfa81988-7292-4561-a56c-249157aa7c1b,Create and tailor existing standards for different use cases,1
+6310f0c7-3c02-44ff-a443-155a93dccf31,dfa81988-7292-4561-a56c-249157aa7c1b,Ensure that data coding standards are inclusive and comprehensive.,2
+f6618a54-15b4-4293-aaff-c9e586f4bf46,386675b8-6d71-4d58-aea4-a362708b870f,Create and use codebooks to understand data sets,1
+8fe579e2-0eb9-4078-bbf7-5a7b629fe482,386675b8-6d71-4d58-aea4-a362708b870f,Create and use metadata to understand data sets,2
+d072a3b2-e484-4eae-a071-179155713fa0,386675b8-6d71-4d58-aea4-a362708b870f,"Understand how data should be encoded for interoperability (HL7/FHIR, LOINC, SNOMED)",3
+4859c4bf-eec0-4916-a00c-69e33117198f,386675b8-6d71-4d58-aea4-a362708b870f,Encode data so that it is interoperable,4
+90f6e11d-43ac-4938-b28d-3ad83033d81c,386675b8-6d71-4d58-aea4-a362708b870f,Create standard schemas for databases,5
+5ef2ddd3-4b50-4f25-9d1f-05bd57384ba4,386675b8-6d71-4d58-aea4-a362708b870f,Merge data across databases,6
+009e1e0b-f02d-42e3-9642-9a92dfd032e4,c6085939-c0e9-4e1b-b7b8-b35c574f9363,Write data privacy frameworks for governments,1
+503de3ed-7a8b-4088-98b1-be05fad30d97,c6085939-c0e9-4e1b-b7b8-b35c574f9363,Write data sharing policies and procedures,2
+7db3adb3-aa0f-4fd5-a9ca-f0ea42f0b381,c6085939-c0e9-4e1b-b7b8-b35c574f9363,Write data privacy standards for specific data sets,3
+d4d5ff9d-909a-4d9f-9aec-7c2c79fdd161,c6085939-c0e9-4e1b-b7b8-b35c574f9363,Develop policies to manage the risks of harm from data or information breaches,4
+c8e288f1-d4d1-4c78-b2bc-59ccc1dc42e7,daecbb43-055e-4a1d-b2f3-8e21da82cd83,Implement data privacy frameworks,1
+f3f98a39-22d6-4c4b-81e7-d991c69c863c,daecbb43-055e-4a1d-b2f3-8e21da82cd83,Implement data sharing policies and procedures,2
+43bbd331-911c-47ec-b8dc-a084d560c01d,daecbb43-055e-4a1d-b2f3-8e21da82cd83,Implement cloud security standards to govern data in the system,3
+eb207648-e4bf-4622-afe8-9685425f6a36,daecbb43-055e-4a1d-b2f3-8e21da82cd83,Ensure that data privacy is protected inside one system and when it is exchanged between systems.,4
+eea9d240-b028-45e2-a58f-6d4ef7f73b3a,daecbb43-055e-4a1d-b2f3-8e21da82cd83,Partition data so that users can only see what's in their scope of work,5
+6ee86bb8-847e-4846-98e4-14ed65457fe2,daecbb43-055e-4a1d-b2f3-8e21da82cd83,Protect data stored on physical servers,6
+d421e5c7-3f8e-478a-a709-66f6a3b1228c,daecbb43-055e-4a1d-b2f3-8e21da82cd83,Make sure data is safe and protected,7
+978c0153-440e-4caa-b140-a4f82d474ea8,daecbb43-055e-4a1d-b2f3-8e21da82cd83,Manage the risks of harm from data or information breaches,8
+b9a4a2d3-d258-4fdc-a78f-93064cf23fe1,c21f588b-27ca-4f61-908d-bb8ba829e7a4,Determine data needs,1
+7d547d2c-3e67-404a-aaa1-3bc29956fff2,c21f588b-27ca-4f61-908d-bb8ba829e7a4,Determine best approach to collect and analyse data,2
+e2627078-a637-48bb-a4af-e80a5cd77f9b,c21f588b-27ca-4f61-908d-bb8ba829e7a4,Recommend data elements for a given context/situation,3
+c5201743-c9c5-442f-a7b0-f1e706d0b839,3b281be3-b235-4efd-87b7-dde55e5cf924,Determine data needs,1
+1ba2558c-7259-4f86-bcbe-b6c39f2f2109,3b281be3-b235-4efd-87b7-dde55e5cf924,Develop data collection strategy,2
+20560a1c-1cb6-45cc-990d-e1d960cadb68,3b281be3-b235-4efd-87b7-dde55e5cf924,Document data collection flow/workflow,3
+0c5d2da3-5912-448d-9729-f4a07dae6840,3b281be3-b235-4efd-87b7-dde55e5cf924,Understand threats to data integrity and validity,4
+c7f18aeb-d6e4-4daf-ae3d-3d9c11841926,3b281be3-b235-4efd-87b7-dde55e5cf924,Recommend data elements needed,5
+5ee82385-73c6-4c09-b946-26cd503db249,cc2a38eb-3224-4a05-9b72-b37fedd2333e,Manipulate raw data,1
+71f45ab2-bb6b-4455-b85d-2e8bf59c7607,cc2a38eb-3224-4a05-9b72-b37fedd2333e,Assess data integrity,2
+8c0d0947-522b-41b3-925b-1f1313ea9630,cc2a38eb-3224-4a05-9b72-b37fedd2333e,Document data processing flow/workflow,3
+9e0fa13a-7756-4777-96fd-f11c058fb58e,cc2a38eb-3224-4a05-9b72-b37fedd2333e,Apply data extraction methodologies to report/content generation,4
+46648227-4884-4b08-95a2-8846fb52cd84,b78d3bcd-ae83-44a2-a42c-1d0b615ab63b,Apply statistical and epidemiological methodologies to utilize data to support decision-making,1
+e0702844-6d0f-4961-a3f0-5081dd2028fd,b78d3bcd-ae83-44a2-a42c-1d0b615ab63b,"Analyze and report data and statistics for the use of quality improvement, information governance and clinical management",2
+e66fae4b-21fa-4373-abcf-4e336214adcc,b78d3bcd-ae83-44a2-a42c-1d0b615ab63b,Demonstrate an understanding of health statistics,3
+9209968b-3035-4abf-9684-8d7eabe6b504,b78d3bcd-ae83-44a2-a42c-1d0b615ab63b,"Designs and executes approaches for identifying data quality issues and correction, including through the use of data visualization tools",4
+434da435-0b01-488a-b2f1-ccce4efb1708,18e877aa-5bdb-4db0-966e-45340e515db9,Create visualizations and reports using best practices,1
+031edb38-5694-4497-84e1-d9e079e43b0e,18e877aa-5bdb-4db0-966e-45340e515db9,Informatics,2
+63e7822b-f4c2-4eda-9e94-72b59a5969d3,6a5604f5-ccd9-49fe-9227-72dbf2091402,"Create quarterly, annual, end of project, and periodic reports to inform donors on an activity's progress against indicators.",1
+50ec0fcd-9186-4549-8b8a-9d0ef93a16f6,6a5604f5-ccd9-49fe-9227-72dbf2091402,Communicate the value of data to donors and speak to the indicators that donors care about.,2
+45eb927b-932e-4b5d-b3bd-454852d3c6e3,6a5604f5-ccd9-49fe-9227-72dbf2091402,Use data to persuade donors to prioritize different issues.,3
+ac4cf68c-f72f-4d70-887e-6bf4e0beb5b8,6a5604f5-ccd9-49fe-9227-72dbf2091402,Communicate to donors throughout the bid process to win funding.,4
+38143c1b-f896-48be-8900-043ea061c6b4,6a5604f5-ccd9-49fe-9227-72dbf2091402,Answer questions and address concerns on the data and analysis they present.,5
+abf90729-680f-49ee-adb0-013084d8e2e5,09ae7485-7680-4e15-a700-2cc7542c6835,"Create technical reports, dashboards, and emails sharing data with government stakeholders.",1
+28cb441c-16ba-48bd-90fa-a6fac7513b75,09ae7485-7680-4e15-a700-2cc7542c6835,Work with government stakeholders to present data findings in dashboards and reports that can help them make decisions on where to invest scarce resources,2
+11cb1ac7-927f-4547-ae36-6cf1e7fdf2b7,09ae7485-7680-4e15-a700-2cc7542c6835,Answer questions and address concerns on the data and analysis they present.,3
+b552613e-3b31-4e07-b40c-b9229bb41cc8,09ae7485-7680-4e15-a700-2cc7542c6835,Use data to influence advocacy and policy,4
+7cbe64ce-4ae6-4cb1-974e-e145a658a385,60f6aa55-e679-4848-ab83-6f56ce5ec36e,Create manuscripts and publications for peer review based on data findings and insights.,1
+6832714e-ac9e-4812-846a-eca04148a49e,60f6aa55-e679-4848-ab83-6f56ce5ec36e,Answer questions and address concerns on the data and analysis they present.,2
+9da7dd84-767b-45cd-a5ed-4e65fbf90d7f,213f34de-d320-471c-837f-59902828479b,Create publicly available analysis to communicate with people outside their organization about how decision are made using data.,1
+bd0bb2bd-eb17-47c9-a761-fd16617b3d5a,213f34de-d320-471c-837f-59902828479b,Answer questions and address concerns on the data and analysis they present.,2
+21d1ab5b-9637-4443-b281-b80c17dbc3ac,213f34de-d320-471c-837f-59902828479b,Communicate complex data findings in simple language.,3
+72109094-12fd-4353-8a1e-710a1c152922,3018cbac-a447-402e-b8d5-9425de4b8b62,Demonstrates deep sector understanding including identifying issues that are amenable to change through data insights.,1
+904b650e-c400-4413-bcda-cd267c7d193a,3018cbac-a447-402e-b8d5-9425de4b8b62,Design multi-staged data-driven solutions including collecting business requirements and determining if the issue is amenable to a data-driven solutions. .,2
+a2ed6094-60d2-4d18-82df-094a2eecdf8c,3018cbac-a447-402e-b8d5-9425de4b8b62,Set data science/analytics goals and deliverables for complex projects and to identify key success metric.,3
+731c8a40-cbe7-45d0-a8c9-a1ee445b4fcc,3018cbac-a447-402e-b8d5-9425de4b8b62,Identifies the need for additional data and information,4
+2fb38dcd-8b19-42c1-855f-31656ca92512,3018cbac-a447-402e-b8d5-9425de4b8b62,"Promotes access to data, information and evidence",5
+2771fd80-8206-49ec-a11e-9d73f59c7946,3018cbac-a447-402e-b8d5-9425de4b8b62,"Seeks data, information and evidence from a range of sources",6
+c7834ab5-d89e-4667-931b-4192609b0ce0,3018cbac-a447-402e-b8d5-9425de4b8b62,"Critically appraises the limitations, quality, relevance and significance of data, information and evidence",7
+fe49a3bd-104b-46b2-aa48-506a3a16b72d,49840a6e-2d5a-4f15-a490-1f9859d1a064,Demonstrate ability to translate data insights into practice through development of guidelines and other key frameworks.,1
+035ac0f6-9f2c-4f2e-a74b-f295ef18a14b,49840a6e-2d5a-4f15-a490-1f9859d1a064,Demonstrates effective translation of data findings and insights into policies,2
+51c8d639-af86-458f-8bac-bbc4968e3a37,49840a6e-2d5a-4f15-a490-1f9859d1a064,Leads formulation and implementation of policy and strategy using data to guide the general direction.,3
+dfd1923f-1538-4b33-b173-6c7d2fef84c1,49840a6e-2d5a-4f15-a490-1f9859d1a064,"Describe the impact of change management on processes, people, and systems",4
+2036908d-fa0c-4903-841c-4221774e6475,49840a6e-2d5a-4f15-a490-1f9859d1a064,"Interpret concepts of change management theories, techniques and leadership",5
+1537aa20-76ed-4ae4-b59c-3f51ea984ad9,5abd0e48-14cb-4c73-b8c2-6692bf9cf9a4,Maintain awareness of evidence-informed practice,1
+fe5680bf-e272-4360-9e44-dfd77ca37c99,5abd0e48-14cb-4c73-b8c2-6692bf9cf9a4,Integrate current best available evidence into practice,2
+ac3458f5-6a35-4c39-870b-020130ddd294,5abd0e48-14cb-4c73-b8c2-6692bf9cf9a4,Promote evidence-informed practice amongst colleagues,3
+caee873f-9a31-492e-9d69-404e49046b09,5abd0e48-14cb-4c73-b8c2-6692bf9cf9a4,Participate in the generation and application of evidence,4
+a2bfdf7d-0bb1-406d-b449-f3f6e30746bd,24c3b8ba-4cb4-47f8-8aa1-b98716c40253,Choose/select appropriate device for the intended task/use,1
+3e078353-2c33-46b9-89f0-c1da5d6fa496,24c3b8ba-4cb4-47f8-8aa1-b98716c40253,Operate device according to manufacturer's specifications and instructions,2
+93a82c5a-4556-4327-ab2f-4028aba18186,24c3b8ba-4cb4-47f8-8aa1-b98716c40253,Resolve routine technical challenges and problems (both individually and with others),3
+539f2234-1107-420b-8589-bf17af446482,24c3b8ba-4cb4-47f8-8aa1-b98716c40253,Use technical knowledge to problem solve and achieve expected outputs,4
+6610309f-0875-484a-baf5-2698de1dabe6,24c3b8ba-4cb4-47f8-8aa1-b98716c40253,Escalate non-routine technical challenges to tech support resources,5
+2005262c-8688-4151-a742-8792d5d88688,a078626a-8892-4e43-81d9-0ea323aa8583,Identify technical challenge and/or problem,1
+30c5b006-7777-4351-9203-725540a1a19f,a078626a-8892-4e43-81d9-0ea323aa8583,Clarify problem with user,2
+1386632d-3934-432e-830c-d1edbf168b83,a078626a-8892-4e43-81d9-0ea323aa8583,Identify potential solution(s),3
+42978229-6b93-40fa-b2cc-ad712d446f16,a078626a-8892-4e43-81d9-0ea323aa8583,Communicate solution to user and/or solve problem for end user,4
+33b4f25f-625e-49f3-ba1f-07b90787c296,6e0e94c1-dcf3-4c4a-8913-4b0d07ae29b6,Develop digital identity(-ies),1
+33925615-81d1-4d8f-a237-c94640f4d8ed,6e0e94c1-dcf3-4c4a-8913-4b0d07ae29b6,Promote and safeguard appropriate digital identity(-ies) that support a positive personal and organisational reputation,2
+0be8f359-aa2e-4867-a1b4-ddfb0876ba3f,6e0e94c1-dcf3-4c4a-8913-4b0d07ae29b6,Follow policies and regulations related to digital identities,3
+dc2bef7f-84a4-4da4-afbf-e5ff66e7bb66,6e0e94c1-dcf3-4c4a-8913-4b0d07ae29b6,"Recognise and act upon digital situations and events that might compromise personal, professional or organisational security",4
+9efb592b-71b7-412c-9649-b725ea920327,46ca9b4e-5b5d-48e8-b1e8-487354cf8a11,"Recognise and act upon digital situations and events that might compromise personal, professional or organisational security",1
+31f68478-fb1f-482c-8ce6-5a8af1bcec67,46ca9b4e-5b5d-48e8-b1e8-487354cf8a11,"Meet legal, ethical, cultural and security rules, requirements and expectations when working with personal, public, professional and/or confidential information, data and content",2
+cdfe87e3-6c54-4775-a3d7-2e77561774e5,e005587d-bbe5-4020-819f-6164176367da,Use a wide range of digital technologies to communicate with people,1
+57881e8a-d1fc-462d-a1f7-fb448258a93e,e005587d-bbe5-4020-819f-6164176367da,"Understand the different nature, purpose and function of different methods of digital communication, acting accordingly and appropriately.",2
+58dbe004-ddce-4dca-9bb4-fcf55e22db7e,bd8fb825-1690-4b85-a38c-54a6025f5db6,Use digital technologies to communicate respectfully and appropriately with all people,1
+2aa82528-b59e-422a-bb1c-f37d3381a9c5,bd8fb825-1690-4b85-a38c-54a6025f5db6,"Recognise one’s responsibility to not engage in or allow others to engage in inappropriate, irresponsible, offensive or harmful communication activities.",2
+fdb97f9b-4ccb-4b16-8de6-be1799e16265,bd8fb825-1690-4b85-a38c-54a6025f5db6,"Champion ethical, positive, sensitive and appropriate attitudes and behaviours in communicating, collaborating and participating with anybody and everybody.",3
+2418a4c5-8b43-40bb-a839-b8c89c0ea6d0,fa75f7ce-2f12-4f4a-9d8f-46c566db800a,Work collaboratively with others using digital technologies and tools to produce shared outcomes to meet shared goals.,1
+fe035a59-84e7-4259-a2d6-8a0cba1e9f72,fa75f7ce-2f12-4f4a-9d8f-46c566db800a,Participate actively in and across digital networks,2
+26874fdb-15a9-4f16-abd3-8f2272531ec9,dc1e3c4d-2ff2-4a01-84ba-cbb78fc7696d,Ability to identify the context and constraints in which content data are produced,1
+36e25a0e-33cc-445d-b9d6-f1b10cdcd862,dc1e3c4d-2ff2-4a01-84ba-cbb78fc7696d,Able to determine when content and data are needed,2
+0c5dd458-3110-480b-8784-feafd7da99c5,dc1e3c4d-2ff2-4a01-84ba-cbb78fc7696d,"Recognize source data value, types and formats",3
+d035f0d5-d145-4aca-82cf-6308f9dff5de,dc1e3c4d-2ff2-4a01-84ba-cbb78fc7696d,Recognize how data can be represented visually,4
+0770f32f-eb6a-4915-9dcd-e86e1aafdb27,e249f584-2c9f-4944-a4ff-c08b632ea8d5,Able to identify data sources,1
+641e28b6-b79e-4cff-bd11-72c210d92a04,e249f584-2c9f-4944-a4ff-c08b632ea8d5,Able to create a survey or questionnaire,2
+d77270e5-4077-4ece-8ecb-773c9f3c19e2,e249f584-2c9f-4944-a4ff-c08b632ea8d5,"Browse, search, compare and critically evaluate the credibility and reliability of sources of data, information and digital content.",3
+b19e80b6-7cc1-40f0-b5f8-97cd487b7fbf,6f505dd8-ef43-47ae-ba4a-7d02695221c8,Ability to assess data and their sources,1
+7fffeccd-6390-423e-bc29-01292fc61158,6f505dd8-ef43-47ae-ba4a-7d02695221c8,"""Browse, search, compare and critically evaluate the credibility and reliability of sources of data, information and digital content.",2
+ce98fcfe-f8bc-4333-86e0-ed8fbc48b93d,6f505dd8-ef43-47ae-ba4a-7d02695221c8,"Manage, organise, store and share digital information, data and content",3
+7c03c919-6732-4089-9f6b-64e96558992d,6f505dd8-ef43-47ae-ba4a-7d02695221c8,"Understand and act upon appropriate guidelines, protocols, regulations and safeguards in the use of differing media, information, data and content",4
+e9636ac4-b089-49e4-8ad3-95cbee65552b,6f505dd8-ef43-47ae-ba4a-7d02695221c8,"Recognize and manage misinformation and disinformation""",5
+38abaff3-dd21-4ffc-bcea-7401862be77b,fd37c234-c271-469e-aaf1-78ccb062b2d6,"Work with and champion the effective, secure, appropriate and innovative use of information, data and content",1
+c45b4a40-062d-4a9d-83ac-6f259405ec94,fd37c234-c271-469e-aaf1-78ccb062b2d6,"Use information, data and content to solve problems, make decisions and to achieve successful outcomes for specific goals and objectives.",2
+8a2c6cde-a035-4a44-b442-125eda15e4d5,fd37c234-c271-469e-aaf1-78ccb062b2d6,Control and combat misinformation and disinformation,3
+66c1b1fa-d0c7-4c4a-a06e-dc324d19abb9,ba036376-2405-4db5-9e28-9bd90299fc34,"Understand and adhere to digital copyright, intellectual property and privacy rules and regulations",1
+58f3dd31-9d86-4f7d-bb3b-46781068f1c9,cc10c892-b9e2-45f4-a179-d79343d51204,Identify the need for safety and well-being programs,1
+e2e40ecf-5244-40d4-b2c7-24183509cac6,cc10c892-b9e2-45f4-a179-d79343d51204,Ensure resources are available to support development and implementation,2
+34e0153d-19ec-4f98-aa88-d1a482cd66c5,cc10c892-b9e2-45f4-a179-d79343d51204,Communicate the importance of safety and well-being programs throughout the organization,3
+1bd6ad75-5946-46a7-bcbd-be76adb99dc7,cc10c892-b9e2-45f4-a179-d79343d51204,"Champion ethical, positive, healthy and appropriate attitudes and behaviours in relation to digital technologies, wellbeing and safety of self and others",4
+7294aaa0-4977-4e88-8ee0-f531de723d97,48195444-e7f2-49a3-9b9d-3e11393b421c,Plan evidence-based and targeted psychological staff safety and well-being programs,1
+bb2a3222-5637-4a46-975b-b97ee5e99d42,48195444-e7f2-49a3-9b9d-3e11393b421c,Monitor data related to Health-IT-related physiological and psychological overload.,2
+d6e00472-f514-4272-aae9-4630559bd8a6,48195444-e7f2-49a3-9b9d-3e11393b421c,Develop and teach coping and adapting strategies for Health-IT-related physiological and psychological overload,3
+e3928cb5-adf4-4229-af60-755db626c7a3,48195444-e7f2-49a3-9b9d-3e11393b421c,Understand the factors that cause digital health-related psychological staff safety and wellbeing issues,4
+c59787c5-1831-4da0-9a4d-ad5a66f0e687,48195444-e7f2-49a3-9b9d-3e11393b421c,Improve health work force skills related to information systems by giving them training in order to help lessening the stress that results from poorly functioning information systems and improve health care workers' comfort.,5
+99f331b1-9130-4f94-a34d-50a55058a681,48195444-e7f2-49a3-9b9d-3e11393b421c,"Demonstrate ethical, positive, healthy and appropriate attitudes and behaviours in relation to digital technologies, wellbeing and safety of self and others",6
+c5162bbb-5739-471a-b83a-8e77f01430ad,24c9eb64-e461-4736-b948-3bb5fa8c78c0,Use digital technologies in ways that support personal wellbeing and safety and the wellbeing and safety of others,1
+6b7a6725-26f8-4588-a321-04bbb04b2a55,24c9eb64-e461-4736-b948-3bb5fa8c78c0,Observe signs of Health-IT-related physiological and psychological overload.,2
+68a4b6e4-bad7-40cd-8de6-77ac2c730a28,24c9eb64-e461-4736-b948-3bb5fa8c78c0,Seeks help or support where needed for own health and well-being,3
+02b6ede0-d4be-49ae-bb47-cc8234c928d1,24c9eb64-e461-4736-b948-3bb5fa8c78c0,Follow psychological staff safety and well-being program requirements,4
+37605e85-9655-496e-8e2b-56afa65e5d3c,24c9eb64-e461-4736-b948-3bb5fa8c78c0,Apply coping and adapting strategies for Health-IT-related physiological and psychological overload.,5
+75970463-9652-4e94-8f53-e022eaa1e572,24c9eb64-e461-4736-b948-3bb5fa8c78c0,"Modified from UHC: Monitors own mental, physical and social health and well-being",6
+0de53072-0bb0-4a6b-abdd-9b8e13ce360f,24c9eb64-e461-4736-b948-3bb5fa8c78c0,"Uses a range of strategies to manage fatigue, ill-health, stress and the impact of exposure to overload and emergency situations",7
+439072b4-78c6-43b6-8dfa-bccb351ad867,24c9eb64-e461-4736-b948-3bb5fa8c78c0,"Engages in self-care practices that promote overall resilience, health and well-being",8
+bd9c5490-58f8-46a4-b5f6-ae05416588ac,bd71367e-2186-4bab-a9d8-01a1d4e0386a,Analyze workforce related information related to given context (Contextual analysis / Economic/sector / population trend analysis / Analysis of size and composition of the workforce (As-is/to-be),1
+52383856-5d31-4241-a5af-60084f1f2d29,bd71367e-2186-4bab-a9d8-01a1d4e0386a,"Plan evidence informed and equitable digital health workforce development strategies that consider the context and influencing factors (e.g. growth estimates, changes in technology, data privacy and secruity, etc)",2
+a01724b2-ae1b-49ad-a1bb-bcf01a301e98,bd71367e-2186-4bab-a9d8-01a1d4e0386a,Draft and validate evidence informed and equitable digital health workforce development strategies matching the needs of a given context/institution,3
+94de23e3-9203-4f4d-9c00-3bda0accf506,bd71367e-2186-4bab-a9d8-01a1d4e0386a,Develops recommendations for implementation of WD strategy and KPIs,4
+4940b186-5a54-4212-9118-b950674e6fd3,e36b55b4-4eb5-4ff6-b5dd-3a01d4f7b324,Plan implementation activities aligned with WD strategy,1
+48a29b61-870d-4cf2-bb33-4dc28501c748,e36b55b4-4eb5-4ff6-b5dd-3a01d4f7b324,Identify and allocate resources required for implementation activities,2
+cb9f3e5e-b90e-4d37-976c-f6cbc9e5a749,e36b55b4-4eb5-4ff6-b5dd-3a01d4f7b324,Lead and manage WD initatives according to implementation plan,3
+2610e188-815b-4d03-afcc-067f813558a8,e36b55b4-4eb5-4ff6-b5dd-3a01d4f7b324,Develop (inform /provide input into?) monitoring and evaluation lifecycle and KPIs,4
+334b6ad9-b66c-41dc-a76a-fce71dcca293,bff11b6b-7700-4c15-a125-02ead3b36163,Sensitize the WD strategies to the relevant stakeholders of the organization,1
+f9f0b1ef-7c2e-4bf6-b92f-b37b30bf3fe8,bff11b6b-7700-4c15-a125-02ead3b36163,"(Some keywords to use, communicate, identify the stakeholders, reflect in actions and policies)",2
+0f830ac0-53fe-4916-9392-8ef179c489a5,bff11b6b-7700-4c15-a125-02ead3b36163,Facilitate the change management process necessary to implement the WD strategies (Special note: Diffusion of the WD strategies from one entity to another should be part of the process) within the organization,3
+ec673471-1835-48cd-abbd-acd403e10235,240709a0-a8ed-4f26-83b0-7e7fcbdcd60f,Develop monitoring and evaluation lifecycle and KPIs (moved from competency 2),1
+a1e294cd-dc5f-42aa-8eca-2893c8b92587,240709a0-a8ed-4f26-83b0-7e7fcbdcd60f,Define the purpose and the scope of the WD strategy M/E mechanism,2
+1cb2cd23-97b9-4791-bb57-f57f22d63d89,240709a0-a8ed-4f26-83b0-7e7fcbdcd60f,Identify an appropriate framework to monitor and evaluate the WD strategy,3
+63299534-6a36-4c63-b4ef-4337895c6301,240709a0-a8ed-4f26-83b0-7e7fcbdcd60f,Develop a logic model for the WD strategy implementation,4
+53ed6c68-c42a-42b2-99d5-ba25122efae3,240709a0-a8ed-4f26-83b0-7e7fcbdcd60f,Determine what key performance indicators need to be monitored to evaluate the WD strategy,5
+27ae4608-1974-4253-bac4-90fa874316e0,240709a0-a8ed-4f26-83b0-7e7fcbdcd60f,Collect and analyze data keeping in mind the specific requirements for dissemination and reporting,6
+9bdc64d3-20fe-4d15-b2a6-161f8b70aa8b,240709a0-a8ed-4f26-83b0-7e7fcbdcd60f,Leverage the data to make course corrections and refinements.,7
+d665972e-51fb-418b-8816-2e7ac08df037,e3416901-6217-4445-8c2a-5754ba1cb095,"Create a digital health career pathway that affords adequate and equal opportunities for recruitment, deployment, and retention of the Digital Health Workforce based on requirements and needs analysis",1
+f7d67727-f25f-4da6-8edf-7d3a3e5e52c6,e8014347-f6a5-48a8-931e-18d086de7df1,"Perform research and analysis of data in view of identifying learning needs, resources and instructional practices",1
+1c3d5ecc-f7bd-4d34-99ad-20c54d2583dd,e8014347-f6a5-48a8-931e-18d086de7df1,Use data to inform design decisions and priorities related to learning development needs,2
+c000943c-f3e3-4025-ae07-27f280a042ba,e8014347-f6a5-48a8-931e-18d086de7df1,Communicate learning development needs to others as required,3
+e923e62d-347d-4bdc-8640-c6c83f7b7670,9dfc3800-355c-4b49-b3e5-0a1831da1dad,Interpret learning needs analyses to inform learning design,1
+53bca6f2-59ad-452d-be77-b5ac013009c5,9dfc3800-355c-4b49-b3e5-0a1831da1dad,Identify learning objectives and align with the activities and assessments according to learning design,2
+82b86bc3-a6be-4dcc-8fb9-4196000a3d2e,9dfc3800-355c-4b49-b3e5-0a1831da1dad,Collaborate with appropriate colleagues and stakeholders in developing learning experiences that meet the needs of learners and the workforce,3
+a7db0b01-d572-4ed7-881f-2d682fe4aac2,9dfc3800-355c-4b49-b3e5-0a1831da1dad,Apply basic principles of instructional designing and learning theories in the development of a curriculum and training material,4
+9ed610d2-a9b4-4c76-9f67-176a35d520cb,9dfc3800-355c-4b49-b3e5-0a1831da1dad,Integrate the use of technology into the learning experience when applicable,5
+f64a2730-a9b4-4ac4-9f13-6bdda24408e3,9dfc3800-355c-4b49-b3e5-0a1831da1dad,Ensure equity and access to technology and infrastucture are ingrated into to learning design,6
+5ee98241-3fbf-42e0-abff-438ed58703f1,9dfc3800-355c-4b49-b3e5-0a1831da1dad,Identify requirements for delivery and assessment according to learning design and method of delivery,7
+8b133b0f-feb2-44d3-8f15-81cecf2db089,0296750e-2491-4363-b089-0b7622727731,Coordinate timing and sequence of delivery according to optimal learning design,1
+d98b41a1-18ec-40e3-83da-3bed938df790,0296750e-2491-4363-b089-0b7622727731,"Use appropriate learning theories, technologies and tools fitting the contexual needs of the learning design and available resources",2
+477cae22-a20e-4471-931b-db658a31d6c2,0296750e-2491-4363-b089-0b7622727731,"Use technology to deliver interactive, engaging, and motivating learning experiences (e.g. immersive, gamification, etc)",3
+10b864bc-f7e7-4478-8169-38dcc555ea91,0296750e-2491-4363-b089-0b7622727731,Facilitate learning in a way that engages and supports learners and their specific needs,4
+408b5c19-5ffb-4a1c-934c-e1eec1c198dd,0296750e-2491-4363-b089-0b7622727731,Evaluate and assesses learners against defined learning objectives and outcomes,5
+d2627bd4-209c-48a0-9768-4b02192cd91b,0296750e-2491-4363-b089-0b7622727731,Maintain learner records according to organizational requirements,6
+99a00136-19b9-4a4d-be0a-9e8d2e161668,0296750e-2491-4363-b089-0b7622727731,"Effectively deliver the curriculum in digital health, facilitating learner engagement and understanding of key concepts and skills.",7
+7dd5b517-913b-4b26-948b-cb1efc893b03,68ac769b-6100-49fe-8927-1db3db5ac6d1,Apply appropriate theoretical models (e.g. Kirkpatrick model) in designing assessments,1
+3ce91e08-348c-4ad9-bba4-6739fb8dba82,68ac769b-6100-49fe-8927-1db3db5ac6d1,Select and integrate appropriate assessment methods aligned with the learning outcomes,2
+46d01aec-94f8-498a-b099-4f7a2bc739fb,68ac769b-6100-49fe-8927-1db3db5ac6d1,"Ensure assessment methods are valid, reliable and practical for the purpsoe and for the given context respectively",3
+46de2dc1-19d3-421c-9a4f-b21797b3d9b9,68ac769b-6100-49fe-8927-1db3db5ac6d1,Incorporate appropriate mix of formative and summative assessments,4
+0f92a73b-6f71-481b-ac95-4c11940910c2,68ac769b-6100-49fe-8927-1db3db5ac6d1,Develop methods of feedback to the learner based on the assessments,5
+dbed3a41-197c-49f3-8f74-3ebbfd44eabc,de8aba90-cc3a-434c-ac9c-6901fc8390a0,Establish review lifecycle and KPIs for training programmes and other learning experiences,1
+ede64987-4f07-4ed9-9b90-26eae80ec567,de8aba90-cc3a-434c-ac9c-6901fc8390a0,Collect feedback from current and former participants and stakeholders to advise program improvements,2
+318f4c27-1679-4f16-ad70-d4f2bb00a7ba,de8aba90-cc3a-434c-ac9c-6901fc8390a0,"Evaluate curricula and training programmes to ensure quality throughout the design, implementation and continuation of such programmes",3
+8453a6f0-7d11-4303-8acd-0809359233a5,de8aba90-cc3a-434c-ac9c-6901fc8390a0,Maintain currency of training programs and other learning experiences,4
+6fd96862-85d3-4d88-b933-cb9c57ef40a3,9eaed4fa-a2f1-49b0-895a-e218979bb32a,"Provide personalized guidance and support to learners to meet their unique needs, learning styles, and goals",1
+c83d8fb9-d1ab-44a5-b4cc-bfd9b51a306b,9eaed4fa-a2f1-49b0-895a-e218979bb32a,Offer timely and constructive feedback to promote their academic and personal growth.,2
+86fd71f8-8d31-42df-a193-58c70e639fd0,9eaed4fa-a2f1-49b0-895a-e218979bb32a,Foster learners' critical thinking abilities and problem-solving skills in digital health,3
+7039e8f5-9d8b-4d0c-82f2-31de168073e1,9eaed4fa-a2f1-49b0-895a-e218979bb32a,Instill a strong sense of ethics and professionalism in learners' practice of digital health,4
+df6dcdd4-efca-42f2-b20f-393507ec2818,4a2c1c41-7223-4fb9-97d5-2e7154b055b3,Use digital technologies and tools for personal learning and professional development,1
+4c6a27f6-a524-4186-9c81-c4788b3a24cf,4a2c1c41-7223-4fb9-97d5-2e7154b055b3,"Use a wide range of digital technologies and tools in teaching, coaching, mentoring others",2
+c23cc5e1-8905-402b-86de-39024253e03e,4a2c1c41-7223-4fb9-97d5-2e7154b055b3,Demonstrate and champion a positive attitude in seeking out appropriate and innovative digital technologies to enhance learning for self and others,3
+557a505e-4961-4ae3-aa73-8561b3574187,4a2c1c41-7223-4fb9-97d5-2e7154b055b3,Manage/monitor the learning and development of self and/or others through digital technologies and tools.,4
+595c0c2c-77ed-45f2-9632-0504ffe828f9,76a00b00-7175-457f-8cf9-aee4afcb4125,"Identify certification requirement (credit, etc)",1
+a2c27f92-60bd-4900-88b0-379a10199946,76a00b00-7175-457f-8cf9-aee4afcb4125,Designs and implements a process for awarding micro-credentials for competencies gained as recognized in a particular context,2
+5fdeea7c-48e6-44e6-ae10-f1e059a99309,2413d220-b8d6-417b-be27-66ab742dbe1c,"Develop accreditation standards for programs and institutions delivering digital health training algned with industry requirements, regulatory frameworks, and recognized professional competencies",1
+79743317-c4bb-4e72-a569-b834b6319a5b,2413d220-b8d6-417b-be27-66ab742dbe1c,Implement the accreditation standards in collaboration with relevant stakeholders,2
+42255a2c-250f-47e8-a6b4-a4ec6d2b79aa,2413d220-b8d6-417b-be27-66ab742dbe1c,Monitor and evaluate programmes and institutions for adherance to accreditation standards,3
+a8ebdd03-d958-47d9-a6d2-95bbaa3b27b7,2413d220-b8d6-417b-be27-66ab742dbe1c,Keep up to date on emerging trends and advancements in the field to inform the development of robust accreditation standards.,4
+6fd7af20-db16-40b7-ad42-b3950d12d470,33924e75-f4c0-491f-83e3-e20fe22ff9fb,"Design a credentialing process that aligns with the specific needs of digital health competencies taking into consideration the contexual requiremetns, industry standards and stakeholder expectations",1
+17435f6f-e36d-4085-87e5-8f1c023b1837,33924e75-f4c0-491f-83e3-e20fe22ff9fb,Develop a comprehensive and transparent credentialing process that effectively validates and legitimizes digital health competencies gained,2
+67419a14-0758-42f1-a4fa-134539a084e3,33924e75-f4c0-491f-83e3-e20fe22ff9fb,Implement and administer the credentialing process,3
+86aba8b5-07f7-4b41-9bd5-dfa2cb334f24,33924e75-f4c0-491f-83e3-e20fe22ff9fb,"Regularly review the process to ensure its effectiveness, relevance, and alignment with evolving digital health competencies and industry requirements.",4
+1ace8093-fc77-430e-b43b-54f594d4cd77,6c3aeb53-0b15-446d-a977-387d9fa6879d,"Participates in specific institute, college, university or other programs that are mapped to these competencies.",1
+d75b64bd-8a11-4982-bab0-b7d7435a5541,6c3aeb53-0b15-446d-a977-387d9fa6879d,Connect with mentors and lay out short and long term goals.,2
+0c6dbe26-bb03-4e67-afaf-f9241bb8988a,afa9011c-0d84-49f3-9a5c-0e886652abe6,"Identify current and potential opprtunities to build a personal and professional network aligned with job role/responsiblities, and career goals",1
+6d6cc5e4-724e-40cb-b355-fa2f60cf8b71,afa9011c-0d84-49f3-9a5c-0e886652abe6,"Engage in ongoing interactions within the community to ensure consistent and regular communication and sharing of best practices, case studies, and data.",2
+8fd67b24-b0e8-44e2-b765-d97ae8cdfa2a,d26120da-74ac-4fe9-b9cb-a19549255be6,Seek and engage in continuous formal and informal learning linked to current and emerging practice responsibilities,1
+02cbe833-4e20-49ed-bd50-10819d3b7e88,d26120da-74ac-4fe9-b9cb-a19549255be6,Engage in self-learning and reflective practice,2
+680e3f77-62c5-4563-8796-848643fde966,d26120da-74ac-4fe9-b9cb-a19549255be6,"Seek to address any negative impact of own attitudes, behaviours and gaps in competence or practice",3
+4fedbfd1-6169-4092-865f-b71f6dca90f7,7266ae7c-e202-43e1-ac83-2d13d612524c,Maintain awareness of own competence and scope of practice,1
+c023df57-4d80-492e-beed-4292be686c8b,7266ae7c-e202-43e1-ac83-2d13d612524c,"Adhere to the duties, obligations and codes of conduct defined by occupational standards, legal regulations and organizational procedures",2
+94ef7dda-ee7f-42b6-8d5e-8c48eef79eba,7266ae7c-e202-43e1-ac83-2d13d612524c,Seek guidance when encountering situations beyond competence or scope of practice,3
+fe76bad6-9900-4c43-a4ee-af0b6bfdbe56,2dd44b49-d62a-417c-a27a-db98487a915e,"Identify current and emerging technologies (e.g., LMS systems, VR, AR, ...)",1
+a3c0e7b7-2ef4-4b12-8ba1-95db62b95187,2dd44b49-d62a-417c-a27a-db98487a915e,"Address the legal, ethical, and socially responsible use of technology in education",2
+e6021df6-f7d2-4fb3-98e3-f95514503a03,2dd44b49-d62a-417c-a27a-db98487a915e,"Ensure equitable access to technology, digital content and learning opportunities to meet the diverse needs of all learners",3
+e6a8fed6-34fe-4f92-b70e-191e51f92027,3fe25d92-3ea7-41ab-97af-09422a817be5,Incorporate pedagogical approaches to effectively use technology,1
+64326e94-2531-4425-9e98-f9ae35a7f641,3fe25d92-3ea7-41ab-97af-09422a817be5,Identify infrastructure limitations and access constraints (eg high speed internet) that need to be considered in learning design,2
+25db0339-9fd0-418a-968d-e163ee45bc56,3fe25d92-3ea7-41ab-97af-09422a817be5,Use appropriate technology tools to prepare and conduct formative and summative assessment,3
+3d65d862-0933-45e4-9506-c22a3a69e098,e4c0d7c6-e651-4cd8-8e29-be981aae1416,"Identify and collect relevant data (eg assessment results, achievements, time spent learning) to track learner progression and competency attainment",1
+984b41eb-b244-40be-93c2-75672905478b,e4c0d7c6-e651-4cd8-8e29-be981aae1416,Analyse data in order to measure and track learning outcomes and ensure knowledge transfer was achieved,2
+2900f125-8ead-4fed-a222-cbc6f0e271f6,e4c0d7c6-e651-4cd8-8e29-be981aae1416,"Use data to inform and improve learning experiences, such as instruction and timely feedback to learners",3
+82655a6f-9507-4130-9b3f-7bd4121885b0,a86f0d8c-b12f-411b-ba31-91345af562ba,"Use technical devices, software, applications, information technologies that enhances the learners personal digital literacy but also can apply these digital skills professionally",1
+0cfcc25c-201a-4fa4-ac2f-57ef1c8e0a70,a86f0d8c-b12f-411b-ba31-91345af562ba,Create awareness of the importance of and how to use technology ethically and safely,2
+f2f3a4e6-7394-4279-9aff-9438f5f07dac,a86f0d8c-b12f-411b-ba31-91345af562ba,"Equip learners with information and data literacy skills in order to source, evaluate and analyze high quality vetted information and data",3
+cdf2d93e-0fa0-4ecd-bb3d-9809daf8e414,a86f0d8c-b12f-411b-ba31-91345af562ba,Maintain awareness of the importance of using technology in a healthy way to prevent digital overload and burnout,4
+90816d94-b2eb-4581-b711-7b908e14fcd3,c9daf45a-4365-49e2-a5b2-d1753ad193b3,Clearly articulate evidence needs and ask pertinent questions to verify needs and gaps,1
+d22a6f5b-7f8e-4ea0-9983-2b6d5e879fa7,c9daf45a-4365-49e2-a5b2-d1753ad193b3,"Perform a literature review (systematic, scoping etc)",2
+b9f53271-36f2-45e9-9c3c-26ced7201c30,c9daf45a-4365-49e2-a5b2-d1753ad193b3,"Map key stakeholders, experts and networks in the relevant area of work",3
+c6e0ba82-66e7-4e64-a985-88e9360531fb,c9daf45a-4365-49e2-a5b2-d1753ad193b3,"Conduct key informant interviews with local stakeholders (policymakers, private sector, NGO, civil society etc)",4
+4502be4a-0007-49ea-93c1-8c7f9d80083b,c9daf45a-4365-49e2-a5b2-d1753ad193b3,Assess the reliability of evidence and data sources,5
+d0d644f8-2f07-4176-8c62-100af4f9c1fa,18c62709-17fc-44b3-8485-7a94f0049d94,Identify the research question/hypothesis,1
+a48f2a82-320b-410f-a4e6-6d0cb907909c,18c62709-17fc-44b3-8485-7a94f0049d94,Appreciate the applicability and feasibility of the different types of traditional study designs (non-experimental observational studies vs experimental/interventional studies),2
+10e70212-1eb8-44d3-a57e-9b3354f0fefe,18c62709-17fc-44b3-8485-7a94f0049d94,"Able to apply mixed methodologies (quantitative, qualitative) during the data collection stage",3
+cae7aaa9-2b08-4050-8e01-e32b561892bb,18c62709-17fc-44b3-8485-7a94f0049d94,"Familiar with the principles and concepts that are relevant for digital health research (human-centered design, participatory approaches, hybrid/pragmatic trials)",4
+529c8461-a18d-4bf2-b483-7ff4fe04a371,5ed5bb44-e6c5-4002-99b1-17d029ba1f0e,Identify key grant opportunities,1
+1d130dc8-ed16-40e9-b632-c23481ef4311,5ed5bb44-e6c5-4002-99b1-17d029ba1f0e,"Put together a strategic team reflecting diversity in disciplines, gender, and geographies through communication and engagement with potential collaborators",2
+901e9fc1-7dfc-43fc-87e2-69785b3291aa,5ed5bb44-e6c5-4002-99b1-17d029ba1f0e,Active in regional and international global health research networks,3
+4282c808-c8c6-4483-8a75-f15d4fe0a37c,5ed5bb44-e6c5-4002-99b1-17d029ba1f0e,Aware of global digital health research trends and funders’ areas of interest,4
+fa50b25d-0b30-418a-b59e-68762a0cd263,5ed5bb44-e6c5-4002-99b1-17d029ba1f0e,Making sure that the research proposal can lead to policy translation,5
+065a449a-6fc1-44a9-bfdf-20e904073353,75cad2b4-cce6-40d3-ac17-77a00e79fc99,Define the outputs/outcomes and select appropriate indicators for the research,1
+5f770e25-c0d9-4292-bf2a-f73fd3376eca,75cad2b4-cce6-40d3-ac17-77a00e79fc99,Set a realistic project timeline and budget with available resources,2
+a6bb0b10-3fab-41b0-bb4e-61a715abcd10,75cad2b4-cce6-40d3-ac17-77a00e79fc99,Put together and train a transdisciplinary research team to execute the research,3
+226fe9c0-c4b3-431d-b473-08c691287e3d,75cad2b4-cce6-40d3-ac17-77a00e79fc99,Get buy-in from local stakeholders,4
+52500c74-9aa4-4143-b6ec-2a07188eba69,75cad2b4-cce6-40d3-ac17-77a00e79fc99,Reflect and react to practical and ethical implications,5
+7011b4fb-7194-4841-83d3-e7a378fbfc48,75cad2b4-cce6-40d3-ac17-77a00e79fc99,"Understand internal review board (IRB) procedures, prepare IRB application and obtain IRB approval",6
+691c0af3-3190-4b89-ba02-9608fc44764c,91496053-e52a-48da-a2dc-18f2e5efd5f7,Data identification and selection,1
+bd9b2a7f-1f95-4344-be54-683596a678a2,91496053-e52a-48da-a2dc-18f2e5efd5f7,Data generation from identified sources,2
+654bd0f0-8e3f-4a12-bdfa-e1e3c4ca47ad,91496053-e52a-48da-a2dc-18f2e5efd5f7,Data qualification,3
+7429b43d-1353-4fee-a4d9-b36337120cc3,91496053-e52a-48da-a2dc-18f2e5efd5f7,Data cleaning,4
+0b46c31b-c14f-4f8a-afe7-200ff8c736b8,91496053-e52a-48da-a2dc-18f2e5efd5f7,Descriptive analytics,5
+5eee7daa-7254-4c4d-900f-0c78b2912fd9,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Assembles the appropriate data management toolkit,1
+828ae408-1be7-4530-8041-787e1fb3bb6b,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Ensures the data quality,2
+d20479c8-558b-4a77-8792-d2e1f3208586,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Organizes and prepares the data,3
+7f5797be-6355-4695-997d-4335b386d1ef,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Determines the optimal way to get the highest value from the data,4
+4182116f-fd66-4d6f-b9f4-133ceab89015,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Controls how the data has been processed - data quality management,5
+21fb4d9a-19ce-4f9d-9372-bfb57e88b116,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Controls the data integration and interoperability,6
+b54aee70-2a68-4184-bf60-0c57f3d52985,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Finds the correct data repository,7
+652ea331-2d63-4771-a51e-0fb44deadc2f,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Data storage,8
+8bda011f-1f02-47a2-a9d3-9b3517b74b28,92641a6a-15c0-4d91-a0b0-f921a80fc0a3,Data security,9
+5e54dd8d-8393-45aa-9c57-03c89f17d72c,2bc8b816-b507-46f3-8e90-8f8ac4cbd3c6,Descriptive analytics,1
+0b7507a9-ba2a-4769-a24c-f19cfcc3648a,2bc8b816-b507-46f3-8e90-8f8ac4cbd3c6,Diagnostic analytics,2
+8cb021b3-b1d4-4705-9339-a05d44a9ada2,2bc8b816-b507-46f3-8e90-8f8ac4cbd3c6,Data interpretation and visualization,3
+2fec26dd-e92d-4324-a39e-3c16dbf9181d,2bc8b816-b507-46f3-8e90-8f8ac4cbd3c6,Predictive analytics,4
+ff7fa842-28ab-48c9-bd61-4663bae2d9c8,2bc8b816-b507-46f3-8e90-8f8ac4cbd3c6,Patterns and trends identification,5
+27648143-3178-48c9-871e-ea54174ef17d,2bc8b816-b507-46f3-8e90-8f8ac4cbd3c6,Provides insights for effective operations and clinical decisions,6
+ceccdc6c-a8b5-410f-956f-42bfbfdba48a,3b21e6fa-4c4f-49b6-93a6-5d47d3ca2580,Prescriptive analytics,1
+48ad30c0-06d1-4de1-9c7c-24fc3e212ff3,3b21e6fa-4c4f-49b6-93a6-5d47d3ca2580,Set expectations,2
+b3a32aec-fb43-418e-b898-67db652ae0d7,3b21e6fa-4c4f-49b6-93a6-5d47d3ca2580,Assesses the risk,3
+550e8af9-708b-4b72-880c-dd5089b4c8c6,3b21e6fa-4c4f-49b6-93a6-5d47d3ca2580,Incorporate the model into the healthcare system,4
+32a909fe-d28b-4c73-a3a3-69579b49464a,ed761f8f-a97e-4f22-9717-2c272ae261cf,Recognise the importance of and purpose of evaluation and validation of a research process,1
+cd1180f1-9c4b-4a0b-aae2-cd696b9876ff,ed761f8f-a97e-4f22-9717-2c272ae261cf,Assess technical capacity,2
+71154906-5355-49db-b75c-749aaf274a0e,ed761f8f-a97e-4f22-9717-2c272ae261cf,Apply the principles of evaluation and validation,3
+e90146e0-712c-4de2-bd75-fbd506f11b8d,d8fe5652-dbb1-479d-8fbc-d69225a61db4,Has a holistic/systemic perspective of evaluation and validation a research process and implementation,1
+7b83cb16-4177-4141-a7ea-da87e8f8c5b6,d8fe5652-dbb1-479d-8fbc-d69225a61db4,"Able to choose the right evaluation methods (technical/programmatic assessments, user experience, process and health outcome evaluation etc)",2
+2365f564-3380-43c4-b8aa-6ef10ec6a924,d8fe5652-dbb1-479d-8fbc-d69225a61db4,Identify and form teams,3
+e5b3c006-f7e3-4f12-9e43-863b5aa0b3d0,d8fe5652-dbb1-479d-8fbc-d69225a61db4,Work in a diverse team implementing evaluation and validation of a research process.,4
+4aae5e8c-71e2-4638-a140-313e08ab9ac8,208cde46-5d5e-47d9-b638-9e33098c3aad,"Innovative in the planning, designing and execution of an evaluation and validation of a research process",1
+272fd9c2-e26d-4e4f-8bcc-3c5d7eb609e6,208cde46-5d5e-47d9-b638-9e33098c3aad,"Plan, design and execute evaluation and validation of a research process",2
+3466ee88-c423-4062-b594-7d11333c4f4a,217c2d66-d83b-41a4-a715-6d5864af7b99,Develop and establish a sound strategy that can inform evaluation and validation of a research process,1
+0d990776-8bf6-46e4-a4f8-93615ee11326,217c2d66-d83b-41a4-a715-6d5864af7b99,Lead evaluation and validation of a research process,2
+38d14720-0f7f-4f64-9236-b24ff742d0b3,6ae2fe98-9375-4b65-9a5f-2c7c67f558ac,Identify and assess the intervention source,1
+8b6e7f30-13cc-44a0-b1cb-7fe590031c28,6ae2fe98-9375-4b65-9a5f-2c7c67f558ac,"Assess the evidence strength and quality by determining the acceptability, adaptability, trialability, complexity, feasibility and sustainability of the intervention",2
+fb97af3d-8e5f-4a13-9c49-b999256a0179,6ae2fe98-9375-4b65-9a5f-2c7c67f558ac,"Understand the design quality, packaging and cost",3
+6d08aa24-349b-4ea5-8f13-48523bf4dbf6,993f51b9-29c4-4875-ab61-02b16b4d7c07,Plan the process using relevant implementation science frameworks and conceptual models through engagement with diverse relevant stakeholders,1
+bc1cba57-5144-4795-a464-a78f2753b036,993f51b9-29c4-4875-ab61-02b16b4d7c07,Understand the execution process of a particular intervention and recruit the appropriate team to execute it,2
+e884cd32-e0bd-4424-8e55-9fc2149e2b18,993f51b9-29c4-4875-ab61-02b16b4d7c07,Reflect and evaluate the processes with the appropriate study designs so as to distinguish between effectiveness of the digital intervention versus the implementation process,3
+a69ce76e-78f9-4e08-b30e-a1c51c698a19,4ee88a16-d86b-4d91-a9da-64f5ab2e08f3,"Apply learning health systems knowledge and methods to translate, implement, and scale research innovations to advance equity and justice in health and healthcare delivery.",1
+d5756293-1bda-40d6-b8f5-28d537282f7b,4ee88a16-d86b-4d91-a9da-64f5ab2e08f3,Use systems theories to understand how the interactions of the parts of health systems operate to produce value for stakeholders.,2
+f843eebe-e377-4334-89bd-7d42c86e3458,4ee88a16-d86b-4d91-a9da-64f5ab2e08f3,Recognize the implementation climate and readiness for implementation,3
+ee153349-e7ed-49d2-ac09-fb759486b93d,4ee88a16-d86b-4d91-a9da-64f5ab2e08f3,Understand policies and incentives that would help with the implementation,4
+0ca15a4f-6f8e-454f-8980-1daf21b8b158,4ee88a16-d86b-4d91-a9da-64f5ab2e08f3,Understand end-users' needs and resources,5
+5c035688-130b-40be-9562-ab35a047c052,4693b273-19a5-45e5-b898-d7de03a85e26,Search for the availability of evidence,1
+700d6241-e2f9-46c9-a53c-159b97e1f266,4693b273-19a5-45e5-b898-d7de03a85e26,Define the criteria/framework to determine meaningful data and measure the relevance of evidence,2
+2ace98ad-6b5e-413a-be15-ed6b28293e5d,4693b273-19a5-45e5-b898-d7de03a85e26,Understand the different evidence types and selecting the ones that answer the research question,3
+2e90d600-28d9-4422-9615-437c04f79b58,e5840fce-579b-4069-a47e-66cfccedc240,Understand the forms or methods of evidence synthesis,1
+e16a89b0-748e-4831-b5b7-4a715422fd2e,e5840fce-579b-4069-a47e-66cfccedc240,Able to present evidence synthesis results in a format tailored to each stakeholder group,2
+3cd913ae-47d7-4b38-a4a2-68d45f4a14a1,e5840fce-579b-4069-a47e-66cfccedc240,Knowing the current landscape of evidence and where the new evidence fits in,3
+f1d16795-2f19-43b7-8aed-943bf9f18c6d,504e94e7-6948-4a06-8647-c0200606e882,"Ability to appraise information for quality, validity, generalisability & relevance",1
+e7ef4bfa-17db-43f6-be67-a35d1528b240,504e94e7-6948-4a06-8647-c0200606e882,Ability to determine the quality of the findings (internal validity),2
+6ca9ee32-02fa-4656-9093-d3063ff82f5b,504e94e7-6948-4a06-8647-c0200606e882,Ability to relate the findings to existing evidence,3
+c22d334b-1092-425e-b817-84da0cb18404,504e94e7-6948-4a06-8647-c0200606e882,Summarizing evidence through systematic review,4
+80285a7e-0027-4f8d-996d-fa6165ac9109,373f8004-b4b5-40f3-a5fe-a04afa803b72,Understand and follow instructions for engaging with implementation partners to scale up digital health interventions.,1
+71f0b08c-ff19-4a0d-934b-2a2eede9a87d,373f8004-b4b5-40f3-a5fe-a04afa803b72,Communicate with implementation partners to address concerns and highlight the benefits of scaling up digital health interventions.,2
+b02d18f0-da08-41e6-9192-e5b44d2e04de,373f8004-b4b5-40f3-a5fe-a04afa803b72,Develop strategies to anticipate barriers and gain buy-in from implementation partners for digital health scale-up.,3
+384036c2-e208-41e2-b2a0-632b1d4c23f3,373f8004-b4b5-40f3-a5fe-a04afa803b72,"Direct the development and execution of strategic plans for gaining buy-in from implementation partners, aligning with organizational goals.",4
+2f8faa12-3a96-49ab-949a-c600a7594f72,64940d9b-d463-4067-9b29-ab1551614859,Use provided templates and guidelines to communicate research findings and evidence to target audiences.,1
+d06ff7b0-1319-47dc-ae75-9257b167f04c,64940d9b-d463-4067-9b29-ab1551614859,Create and adapt communication materials to effectively share research findings and evidence with diverse stakeholders.,2
+17d8582f-d724-49d0-8aae-b402df2e02a9,64940d9b-d463-4067-9b29-ab1551614859,Design communication strategies for clear and concise dissemination of research findings to a diverse range of stakeholders.,3
+1b208e63-5fa8-44fe-aded-87c45851fe3b,64940d9b-d463-4067-9b29-ab1551614859,Oversee the creation and execution of comprehensive communication strategies for disseminating research findings and evidence.,4
+2228b5f6-2255-4167-9bef-038164af0037,44247628-4a06-4d48-b6d1-7cc45f394311,Support the translation of research findings into public health policies under the guidance of senior researchers.,1
+7e80f6b4-d357-467e-a05a-8e40e2329e88,44247628-4a06-4d48-b6d1-7cc45f394311,Utilize research findings to inform public health policies and bridge the gap between research and real-world applications.,2
+f65db85a-12f0-4eba-8783-b6565d3965fa,44247628-4a06-4d48-b6d1-7cc45f394311,Work closely with policymakers to initiate the translation of research findings into public health policies.,3
+9beb4cd2-5f69-4e04-b3d5-6dee25c62932,44247628-4a06-4d48-b6d1-7cc45f394311,Collaborate with policymakers and advocate for evidence-based decision-making to translate research findings into public health policies.,4
+a71d845f-d12f-4ee3-9dd1-fe168a5c1676,71aac7a8-3784-4b87-9492-d00bfdd981b7,Participate in stakeholder engagement activities by following a provided plan and attending relevant meetings.,1
+46ef4dc4-43bf-4e50-8b84-2a977a37cde6,71aac7a8-3784-4b87-9492-d00bfdd981b7,Engage with clinical leaders and frontline users to establish relationships and ensure project success throughout the research lifecycle.,2
+03dbc007-db75-4601-b26d-8342c999faa3,71aac7a8-3784-4b87-9492-d00bfdd981b7,"Develop and implement comprehensive engagement plans, mentoring junior researchers in effective stakeholder engagement practices.",3
+c8021c18-62c5-4fbe-b909-7d696ba3daee,71aac7a8-3784-4b87-9492-d00bfdd981b7,"Foster strong relationships with clinical leaders and frontline users, championing a culture of collaboration and knowledge sharing throughout the research lifecycle.",4
+7fbad3c4-753b-45fa-8c39-b01179c8d916,71aac7a8-3784-4b87-9492-d00bfdd981b7,Incorporate values and communication mechanisms used by stakeholder groups involved in research in health systems.,5
+32b672b7-0623-44af-9a22-01bff706e7fc,71aac7a8-3784-4b87-9492-d00bfdd981b7,"Translate, disseminate, and communicate the value proposition and business case for research to diverse health system stakeholders.",6
+05185bda-9c97-4271-a915-d40be26d8d94,71aac7a8-3784-4b87-9492-d00bfdd981b7,"Apply methods to optimally engage diverse stakeholders in health system initiatives, from priority-setting to design to implementation through evaluation.",7
