@@ -1,8 +1,9 @@
 /**
  * Database Seeding Script
- * Version: 1.0.0
- * 
+ * Version: 1.1.0
+ *
  * Imports CSV data into SQLite database
+ * Updated to use new DHLF-data folder with BOM handling
  */
 
 import fs from 'fs';
@@ -18,7 +19,7 @@ import {
   role_competencies
 } from './schema';
 
-const CSV_DATA_PATH = '../../../DHLF-data';
+const CSV_DATA_PATH = '../../../new DHLF-data';
 
 interface CSVRow {
   [key: string]: string;
@@ -28,9 +29,13 @@ function readCSV(filename: string): Promise<CSVRow[]> {
   return new Promise((resolve, reject) => {
     const results: CSVRow[] = [];
     const filePath = path.join(__dirname, CSV_DATA_PATH, filename);
-    
+
     fs.createReadStream(filePath)
-      .pipe(csv())
+      .pipe(csv({
+        // Handle BOM (Byte Order Mark) in CSV files
+        skipLines: 0,
+        mapHeaders: ({ header }) => header.replace(/^\ufeff/, '').trim()
+      }))
       .on('data', (data) => results.push(data))
       .on('end', () => resolve(results))
       .on('error', (error) => reject(error));
