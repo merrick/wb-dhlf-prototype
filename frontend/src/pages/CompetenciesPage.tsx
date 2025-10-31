@@ -4,7 +4,8 @@
  */
 
 import { useState, useEffect } from 'react';
-import { apiClient, Domain, CompetencyWithContext } from '@/api/client';
+import { apiClient } from '@/api/client';
+import type { Domain, CompetencyWithContext } from '@/api/client';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
@@ -103,10 +104,10 @@ export function CompetenciesPage() {
   }
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-8 p-6">
       <div className="flex flex-col space-y-4">
-        <h1 className="text-3xl font-bold">Digital Health Competency Framework</h1>
-        <p className="text-muted-foreground">
+        <h1 className="text-4xl font-bold gradient-text">Digital Health Competency Framework</h1>
+        <p className="text-lg text-slate-600">
           Explore competencies organized by domains and subdomains. Use search to find specific competencies.
         </p>
       </div>
@@ -156,22 +157,22 @@ export function CompetenciesPage() {
             .reduce((sum, subdomainCompetencies) => sum + subdomainCompetencies.length, 0);
 
           return (
-            <Card key={domain.domain_id} className="overflow-hidden">
+            <Card key={domain.domain_id} className="overflow-hidden glass-effect shadow-lg border-l-4 border-blue-500 hover:shadow-xl transition-shadow">
               <CardHeader
-                className="cursor-pointer hover:bg-muted/50 transition-colors"
+                className="cursor-pointer hover:bg-blue-50/50 transition-colors"
                 onClick={() => toggleDomainExpansion(domain.domain_id)}
               >
                 <div className="flex items-center justify-between">
                   <div>
-                    <CardTitle className="flex items-center gap-2">
+                    <CardTitle className="flex items-center gap-2 text-xl">
                       {isExpanded ? (
-                        <ChevronDown className="w-4 h-4" />
+                        <ChevronDown className="w-5 h-5 text-blue-600" />
                       ) : (
-                        <ChevronRight className="w-4 h-4" />
+                        <ChevronRight className="w-5 h-5 text-blue-600" />
                       )}
-                      {domain.domain_title}
+                      <span className="gradient-text">{domain.domain_title}</span>
                     </CardTitle>
-                    <CardDescription>
+                    <CardDescription className="mt-1 text-base">
                       {competencyCount} competencies across {Object.keys(domainCompetencies).length} subdomains
                     </CardDescription>
                   </div>
@@ -185,26 +186,26 @@ export function CompetenciesPage() {
                       const subdomain = subdomainCompetencies[0]; // Get subdomain info from first competency
                       
                       return (
-                        <div key={subdomainId} className="border-l-2 border-primary/20 pl-4">
-                          <h4 className="font-semibold text-primary mb-2">
+                        <div key={subdomainId} className="border-l-4 border-indigo-300 pl-4 py-2">
+                          <h4 className="font-bold text-indigo-700 mb-3 text-lg">
                             {subdomain.subdomain_title}
                           </h4>
-                          <div className="space-y-2">
+                          <div className="space-y-3">
                             {subdomainCompetencies.map((competency) => (
                               <div
                                 key={competency.competency_id}
-                                className="p-3 border rounded-lg hover:bg-muted/50 transition-colors cursor-pointer"
+                                className="p-4 bg-white/90 border border-blue-200 rounded-xl hover:shadow-md hover:border-blue-400 transition-all cursor-pointer"
                               >
                                 <div className="flex items-start justify-between">
                                   <div className="flex-1">
-                                    <div className="font-medium text-sm text-primary">
+                                    <div className="inline-block px-2 py-1 bg-blue-100 text-blue-700 font-semibold text-xs rounded-md mb-2">
                                       {competency.competency_code}
                                     </div>
-                                    <div className="font-semibold mt-1">
+                                    <div className="font-bold text-slate-800 mt-1">
                                       {competency.competency_title}
                                     </div>
                                     {competency.competency_statement && (
-                                      <div className="text-sm text-muted-foreground mt-1">
+                                      <div className="text-sm text-slate-600 mt-2 leading-relaxed">
                                         {competency.competency_statement}
                                       </div>
                                     )}

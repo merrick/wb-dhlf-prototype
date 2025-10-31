@@ -6,6 +6,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { Layout } from '@/components/layout/Layout';
+import { HomePage } from '@/pages/HomePage';
 import { CompetenciesPage } from '@/pages/CompetenciesPage';
 import { RolesPage } from '@/pages/RolesPage';
 import { CoursesPage } from '@/pages/CoursesPage';
@@ -27,7 +28,8 @@ function App() {
       <Router>
         <Layout>
           <Routes>
-            <Route path="/" element={<CompetenciesPage />} />
+            <Route path="/" element={<HomePage />} />
+            <Route path="/competencies" element={<CompetenciesPage />} />
             <Route path="/roles" element={<RolesPage />} />
             <Route path="/courses" element={<CoursesPage />} />
             <Route path="/mappings" element={<MappingsPage />} />
