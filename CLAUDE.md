@@ -43,3 +43,12 @@ All code files must include version numbers using semantic versioning:
 - Major versions (e.g., 1.0.0) for new features or significant changes
 - Minor versions (e.g., 1.1.0) for enhancements and minor additions
 - Patch versions (e.g., 1.1.1) for bug fixes and small corrections
+
+### Development Workflow
+When updating frontend or backend features:
+1. Make the code changes
+2. Stop the running servers (kill existing node/tsx/vite processes)
+3. Restart the servers using `./start-app.sh` in the background
+4. Inform the user to refresh their browser to see the changes
+
+This ensures hot-reload issues don't prevent the user from testing changes immediately.

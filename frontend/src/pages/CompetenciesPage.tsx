@@ -1,6 +1,6 @@
 /**
  * Competencies Page
- * Version: 1.0.0
+ * Version: 1.1.0
  */
 
 import { useState, useEffect } from 'react';
@@ -113,25 +113,30 @@ export function CompetenciesPage() {
       </div>
 
       {/* Search and Filters */}
-      <div className="flex flex-col sm:flex-row gap-4">
-        <div className="relative flex-1">
-          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-4 h-4" />
-          <Input
-            placeholder="Search competencies..."
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            className="pl-10"
-          />
-        </div>
-        <div className="flex gap-2 flex-wrap">
+      <div className="flex flex-col gap-4">
+        {/* First row: Search box and All Domains button */}
+        <div className="flex gap-4">
+          <div className="relative flex-1">
+            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-4 h-4" />
+            <Input
+              placeholder="Search competencies..."
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              className="pl-10"
+            />
+          </div>
           <Button
             variant={selectedDomain === null ? "default" : "outline"}
-            size="sm"
             onClick={() => handleDomainFilter(null)}
+            className="whitespace-nowrap"
           >
             All Domains
           </Button>
-          {domains.slice(0, 3).map((domain) => (
+        </div>
+
+        {/* Second row: Individual domain buttons */}
+        <div className="flex gap-2 flex-wrap">
+          {domains.map((domain) => (
             <Button
               key={domain.domain_id}
               variant={selectedDomain === domain.domain_id ? "default" : "outline"}
