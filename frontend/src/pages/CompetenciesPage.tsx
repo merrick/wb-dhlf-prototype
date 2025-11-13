@@ -1,14 +1,15 @@
 /**
  * Competencies Page
- * Version: 1.1.0
+ * Version: 1.3.0
  */
 
 import { useState, useEffect } from 'react';
 import { apiClient } from '@/api/client';
-import type { Domain, CompetencyWithContext } from '@/api/client';
+import type { Domain, CompetencyWithContext, CompetencyWithDetails } from '@/api/client';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog';
 import { Search, ChevronRight, ChevronDown } from 'lucide-react';
 
 export function CompetenciesPage() {
@@ -19,6 +20,8 @@ export function CompetenciesPage() {
   const [expandedDomains, setExpandedDomains] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [selectedCompetency, setSelectedCompetency] = useState<CompetencyWithDetails | null>(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   useEffect(() => {
     loadData();
@@ -70,6 +73,25 @@ export function CompetenciesPage() {
 
   const handleDomainFilter = (domainId: string | null) => {
     setSelectedDomain(domainId);
+
+    // When filtering by domain button, update expanded domains
+    if (domainId === null) {
+      // "All Domains" clicked - close all domains
+      setExpandedDomains(new Set());
+    } else {
+      // Specific domain clicked - open only that domain
+      setExpandedDomains(new Set([domainId]));
+    }
+  };
+
+  const handleCompetencyClick = async (competencyId: string) => {
+    try {
+      const details = await apiClient.getCompetency(competencyId);
+      setSelectedCompetency(details);
+      setIsModalOpen(true);
+    } catch (err) {
+      console.error('Failed to load competency details:', err);
+    }
   };
 
   const groupedCompetencies = competencies.reduce((acc, competency) => {
@@ -200,6 +222,7 @@ export function CompetenciesPage() {
                               <div
                                 key={competency.competency_id}
                                 className="p-4 bg-white/90 border border-blue-200 rounded-xl hover:shadow-md hover:border-blue-400 transition-all cursor-pointer"
+                                onClick={() => handleCompetencyClick(competency.competency_id)}
                               >
                                 <div className="flex items-start justify-between">
                                   <div className="flex-1">
@@ -237,6 +260,52 @@ export function CompetenciesPage() {
           </div>
         </div>
       )}
+
+      {/* Competency Details Modal */}
+      <Dialog open={isModalOpen} onOpenChange={setIsModalOpen}>
+        <DialogContent className="max-w-3xl max-h-[80vh] overflow-y-auto">
+          {selectedCompetency && (
+            <>
+              <DialogHeader>
+                <div className="inline-block px-3 py-1 bg-blue-100 text-blue-700 font-bold text-sm rounded-md mb-3 w-fit">
+                  {selectedCompetency.competency_code}
+                </div>
+                <DialogTitle className="text-2xl font-bold text-slate-800">
+                  {selectedCompetency.competency_title}
+                </DialogTitle>
+                {selectedCompetency.competency_statement && (
+                  <DialogDescription className="text-base text-slate-600 mt-2">
+                    {selectedCompetency.competency_statement}
+                  </DialogDescription>
+                )}
+              </DialogHeader>
+
+              {selectedCompetency.performance_criteria && selectedCompetency.performance_criteria.length > 0 && (
+                <div className="mt-6">
+                  <h3 className="text-lg font-bold text-slate-800 mb-4">Performance Criteria</h3>
+                  <ul className="space-y-3">
+                    {selectedCompetency.performance_criteria
+                      .sort((a, b) => a.sort_order - b.sort_order)
+                      .map((criteria, index) => (
+                        <li
+                          key={criteria.criteria_id}
+                          className="flex items-start gap-3 p-3 bg-slate-50 rounded-lg border border-slate-200"
+                        >
+                          <span className="flex-shrink-0 w-6 h-6 bg-blue-500 text-white rounded-full flex items-center justify-center text-xs font-bold">
+                            {index + 1}
+                          </span>
+                          <span className="text-slate-700 leading-relaxed">
+                            {criteria.criteria_text}
+                          </span>
+                        </li>
+                      ))}
+                  </ul>
+                </div>
+              )}
+            </>
+          )}
+        </DialogContent>
+      </Dialog>
     </div>
   );
 }
