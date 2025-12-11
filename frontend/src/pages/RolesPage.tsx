@@ -1,132 +1,227 @@
 /**
  * Roles Page
- * Version: 2.0.0
+ * Version: 3.1.0
  */
 
+import { useState, useEffect } from 'react';
+import { apiClient } from '@/api/client';
+import type { Role } from '@/api/client';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { Users, Building2, GraduationCap, Briefcase, Info } from 'lucide-react';
+import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
+import { Search, ChevronRight, ChevronDown } from 'lucide-react';
 
 export function RolesPage() {
+  const [roles, setRoles] = useState<Role[]>([]);
+  const [searchTerm, setSearchTerm] = useState('');
+  const [selectedType, setSelectedType] = useState<string | null>(null);
+  const [expandedRoles, setExpandedRoles] = useState<Set<string>>(new Set());
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  const roleTypes = ['Government', 'World Bank', 'Additional Stakeholders'];
+
+  // Map display names to database values
+  const typeMapping: Record<string, string> = {
+    'Government': 'Government',
+    'World Bank': 'World Bank',
+    'Additional Stakeholders': 'Other'
+  };
+
+  useEffect(() => {
+    loadRoles();
+  }, []);
+
+  useEffect(() => {
+    searchRoles();
+  }, [searchTerm, selectedType]);
+
+  const loadRoles = async () => {
+    try {
+      setLoading(true);
+      const data = await apiClient.getRoles();
+      setRoles(data);
+    } catch (err) {
+      setError('Failed to load roles');
+      console.error(err);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const searchRoles = async () => {
+    try {
+      const params: any = {};
+      if (searchTerm) params.search = searchTerm;
+      if (selectedType) params.type = typeMapping[selectedType];
+
+      const data = await apiClient.getRoles(params);
+      setRoles(data);
+    } catch (err) {
+      console.error('Search failed:', err);
+    }
+  };
+
+  const toggleRoleExpansion = (roleId: string) => {
+    const newExpanded = new Set(expandedRoles);
+    if (newExpanded.has(roleId)) {
+      newExpanded.delete(roleId);
+    } else {
+      newExpanded.add(roleId);
+    }
+    setExpandedRoles(newExpanded);
+  };
+
+  const handleTypeFilter = (type: string | null) => {
+    setSelectedType(type);
+
+    // When filtering by type button, update expanded roles
+    if (type === null) {
+      // "All Types" clicked - close all roles
+      setExpandedRoles(new Set());
+    } else {
+      // Specific type clicked - open only roles of that type
+      const dbType = typeMapping[type];
+      const typeRoles = roles.filter(role => role.role_type === dbType).map(role => role.role_id);
+      setExpandedRoles(new Set(typeRoles));
+    }
+  };
+
+  const groupedRoles = roles.reduce((acc, role) => {
+    // Map database type to display name
+    const displayType = role.role_type === 'Other' ? 'Additional Stakeholders' : role.role_type;
+    if (!acc[displayType]) {
+      acc[displayType] = [];
+    }
+    acc[displayType].push(role);
+    return acc;
+  }, {} as Record<string, Role[]>);
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <div className="text-lg">Loading roles...</div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <div className="text-lg text-destructive">Error: {error}</div>
+      </div>
+    );
+  }
+
   return (
     <div className="space-y-8 p-6">
       <div className="flex flex-col space-y-4">
         <h1 className="text-4xl font-bold gradient-text">Professional Roles</h1>
         <p className="text-lg text-slate-600">
-          Explore 17 professional roles in digital health and their competency requirements.
+          Explore 17 professional roles in digital health. Click on any role to see its detailed description.
         </p>
       </div>
 
-      {/* Info Card */}
-      <Card className="glass-effect border-l-4 border-indigo-500 shadow-lg">
-        <CardHeader>
-          <div className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-br from-indigo-500 to-indigo-600">
-              <Info className="h-5 w-5 text-white" />
-            </div>
-            <div>
-              <CardTitle className="text-xl">About Roles</CardTitle>
-              <CardDescription className="text-base">
-                Understanding professional role classifications
-              </CardDescription>
-            </div>
+      {/* Search and Filters */}
+      <div className="flex flex-col gap-4">
+        {/* First row: Search box and All Types button */}
+        <div className="flex gap-4">
+          <div className="relative flex-1">
+            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-4 h-4" />
+            <Input
+              placeholder="Search roles..."
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              className="pl-10"
+            />
           </div>
-        </CardHeader>
-        <CardContent className="space-y-4 text-slate-600 leading-relaxed">
-          <p>
-            The Digital Health Competency Framework identifies 17 distinct professional roles,
-            each with specific competency requirements mapped to domains and subdomains.
-          </p>
-          <p>
-            Roles are categorized into two main types: Government sector roles and Other sector roles
-            (including private sector, academia, and international organizations).
-          </p>
-        </CardContent>
-      </Card>
+          <Button
+            variant={selectedType === null ? "default" : "outline"}
+            onClick={() => handleTypeFilter(null)}
+            className="whitespace-nowrap"
+          >
+            All Types
+          </Button>
+        </div>
 
-      {/* Role Categories Grid */}
-      <div className="grid md:grid-cols-2 gap-6">
-        <Card className="glass-effect hover:shadow-xl transition-all border-l-4 border-blue-500">
-          <CardHeader>
-            <div className="flex items-center gap-3">
-              <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-blue-500 to-blue-600">
-                <Building2 className="h-6 w-6 text-white" />
-              </div>
-              <div>
-                <CardTitle className="text-xl gradient-text">Government Roles</CardTitle>
-                <CardDescription className="text-base">Public sector positions</CardDescription>
-              </div>
-            </div>
-          </CardHeader>
-          <CardContent className="space-y-3">
-            <p className="text-slate-600">
-              Roles within government health systems and public health organizations, focused on
-              policy development, implementation, and digital health program management.
-            </p>
-            <div className="pt-2">
-              <span className="inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-semibold">
-                Role competency mappings available
-              </span>
-            </div>
-          </CardContent>
-        </Card>
-
-        <Card className="glass-effect hover:shadow-xl transition-all border-l-4 border-purple-500">
-          <CardHeader>
-            <div className="flex items-center gap-3">
-              <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-purple-500 to-purple-600">
-                <Briefcase className="h-6 w-6 text-white" />
-              </div>
-              <div>
-                <CardTitle className="text-xl gradient-text">Other Sector Roles</CardTitle>
-                <CardDescription className="text-base">Private, academic & international</CardDescription>
-              </div>
-            </div>
-          </CardHeader>
-          <CardContent className="space-y-3">
-            <p className="text-slate-600">
-              Positions in private sector organizations, academic institutions, NGOs, and international
-              health organizations driving digital health innovation and research.
-            </p>
-            <div className="pt-2">
-              <span className="inline-block px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-sm font-semibold">
-                Role competency mappings available
-              </span>
-            </div>
-          </CardContent>
-        </Card>
+        {/* Second row: Role type buttons */}
+        <div className="flex gap-2 flex-wrap">
+          {roleTypes.map((type) => (
+            <Button
+              key={type}
+              variant={selectedType === type ? "default" : "outline"}
+              size="sm"
+              onClick={() => handleTypeFilter(type)}
+            >
+              {type}
+            </Button>
+          ))}
+        </div>
       </div>
 
-      {/* Coming Soon Card */}
-      <Card className="glass-effect shadow-lg">
-        <CardHeader>
-          <div className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-br from-green-500 to-green-600">
-              <Users className="h-5 w-5 text-white" />
+      {/* Roles Display */}
+      <div className="space-y-4">
+        {roleTypes.map((type) => {
+          const typeRoles = groupedRoles[type];
+          if (!typeRoles || typeRoles.length === 0) {
+            return null;
+          }
+
+          return (
+            <div key={type} className="space-y-3">
+              <h2 className="text-2xl font-bold text-slate-800 border-b-2 border-blue-300 pb-2">
+                {type} Roles ({typeRoles.length})
+              </h2>
+              {typeRoles.map((role) => {
+                const isExpanded = expandedRoles.has(role.role_id);
+
+                return (
+                  <Card
+                    key={role.role_id}
+                    className="overflow-hidden glass-effect shadow-lg border-l-4 border-blue-500 hover:shadow-xl transition-shadow"
+                  >
+                    <CardHeader
+                      className="cursor-pointer hover:bg-blue-50/50 transition-colors"
+                      onClick={() => toggleRoleExpansion(role.role_id)}
+                    >
+                      <div className="flex items-center justify-between">
+                        <div className="flex-1">
+                          <CardTitle className="flex items-center gap-2 text-xl">
+                            {isExpanded ? (
+                              <ChevronDown className="w-5 h-5 text-blue-600" />
+                            ) : (
+                              <ChevronRight className="w-5 h-5 text-blue-600" />
+                            )}
+                            <span className="gradient-text">{role.role_title}</span>
+                          </CardTitle>
+                        </div>
+                      </div>
+                    </CardHeader>
+
+                    {isExpanded && role.role_description && (
+                      <CardContent className="pt-0">
+                        <div className="pl-7 pr-4 pb-2">
+                          <p className="text-slate-700 leading-relaxed">
+                            {role.role_description}
+                          </p>
+                        </div>
+                      </CardContent>
+                    )}
+                  </Card>
+                );
+              })}
             </div>
-            <div>
-              <CardTitle>Role Management Features</CardTitle>
-              <CardDescription>Coming Soon</CardDescription>
-            </div>
+          );
+        })}
+      </div>
+
+      {roles.length === 0 && !loading && (
+        <div className="text-center py-8">
+          <div className="text-muted-foreground">
+            No roles found matching your search criteria.
           </div>
-        </CardHeader>
-        <CardContent>
-          <div className="space-y-3 text-slate-600">
-            <p>We're developing comprehensive role management features including:</p>
-            <ul className="space-y-2 ml-4 list-disc">
-              <li>Browse all 17 professional roles with detailed descriptions</li>
-              <li>View competency requirements for each role</li>
-              <li>Explore role-specific competency mappings</li>
-              <li>Compare competency requirements across roles</li>
-              <li>Export role profiles and competency matrices</li>
-            </ul>
-            <div className="pt-4">
-              <div className="inline-block px-4 py-2 bg-yellow-100 text-yellow-800 rounded-lg text-sm font-semibold">
-                ⏳ Features under active development
-              </div>
-            </div>
-          </div>
-        </CardContent>
-      </Card>
+        </div>
+      )}
     </div>
   );
 }
