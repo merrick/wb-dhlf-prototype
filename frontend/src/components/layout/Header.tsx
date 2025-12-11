@@ -1,6 +1,6 @@
 /**
  * Header Component
- * Version: 2.0.0
+ * Version: 2.1.0
  */
 
 import { Link, useLocation } from 'react-router-dom';
@@ -32,7 +32,7 @@ export function Header() {
                   Digital Health Competency Framework
                 </div>
                 <div className="text-xs text-blue-100 font-medium">
-                  World Bank Draft
+                  World Bank Prototype
                 </div>
               </div>
             </Link>
