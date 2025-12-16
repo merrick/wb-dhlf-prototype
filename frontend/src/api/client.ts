@@ -144,6 +144,32 @@ class ApiClient {
       method: 'DELETE',
     });
   }
+
+  // Mappings
+  async parseMapping(file: File) {
+    const formData = new FormData();
+    formData.append('file', file);
+
+    const url = `${API_BASE_URL}/mappings/parse`;
+    const response = await fetch(url, {
+      method: 'POST',
+      body: formData,
+    });
+
+    if (!response.ok) {
+      const error = await response.json();
+      throw new Error(error.error || 'Failed to parse file');
+    }
+
+    return response.json() as Promise<MappingParseResponse>;
+  }
+
+  async saveMapping(data: SaveMappingRequest) {
+    return this.request<SaveMappingResponse>('/mappings/save', {
+      method: 'POST',
+      body: JSON.stringify(data),
+    });
+  }
 }
 
 export const apiClient = new ApiClient();
@@ -264,4 +290,37 @@ export interface UpdateCourseRequest {
   provider?: string;
   duration?: string;
   url?: string;
+}
+
+export interface MappingPreview {
+  excelRoleName: string;
+  role: {
+    roleId: string;
+    roleCode: string;
+    roleTitle: string;
+    roleType: string;
+  };
+  competencyCount: number;
+  validCompetencies: number;
+  invalidCompetencies: number;
+  invalidCodes: string[];
+  validCodes: string[];
+  existingMappingsCount: number;
+  sheetName: string;
+}
+
+export interface MappingParseResponse {
+  success: boolean;
+  preview: MappingPreview;
+}
+
+export interface SaveMappingRequest {
+  roleCode: string;
+  competencyCodes: string[];
+}
+
+export interface SaveMappingResponse {
+  success: boolean;
+  message: string;
+  mappingsCreated: number;
 }

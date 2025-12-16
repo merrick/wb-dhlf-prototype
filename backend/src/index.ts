@@ -9,6 +9,7 @@ import { domainsRouter } from './routes/domains';
 import { competenciesRouter } from './routes/competencies';
 import { rolesRouter } from './routes/roles';
 import { coursesRouter } from './routes/courses';
+import mappingsRouter from './routes/mappings';
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -27,6 +28,7 @@ app.use('/api/domains', domainsRouter);
 app.use('/api/competencies', competenciesRouter);
 app.use('/api/roles', rolesRouter);
 app.use('/api/courses', coursesRouter);
+app.use('/api/mappings', mappingsRouter);
 
 // 404 handler
 app.use('*', (req, res) => {
