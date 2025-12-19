@@ -9,7 +9,7 @@ import { Layout } from '@/components/layout/Layout';
 import { HomePage } from '@/pages/HomePage';
 import { CompetenciesPage } from '@/pages/CompetenciesPage';
 import { RolesPage } from '@/pages/RolesPage';
-import { CoursesPage } from '@/pages/CoursesPage';
+import { LearningModulesPage } from '@/pages/LearningModulesPage';
 import { MappingsPage } from '@/pages/MappingsPage';
 
 // Create a client for React Query
@@ -31,7 +31,7 @@ function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/competencies" element={<CompetenciesPage />} />
             <Route path="/roles" element={<RolesPage />} />
-            <Route path="/courses" element={<CoursesPage />} />
+            <Route path="/learning-modules" element={<LearningModulesPage />} />
             <Route path="/mappings" element={<MappingsPage />} />
           </Routes>
         </Layout>

@@ -1,6 +1,6 @@
 /**
  * Header Component
- * Version: 2.1.0
+ * Version: 2.2.0
  */
 
 import { Link, useLocation } from 'react-router-dom';
@@ -11,7 +11,7 @@ const navigation = [
   { name: 'Home', href: '/', icon: Home },
   { name: 'Competencies', href: '/competencies', icon: Globe },
   { name: 'Roles', href: '/roles', icon: Users },
-  { name: 'Courses', href: '/courses', icon: BookOpen },
+  { name: 'Learning Modules', href: '/learning-modules', icon: BookOpen },
   { name: 'Mappings', href: '/mappings', icon: Network },
 ];
 

@@ -8,7 +8,7 @@ import cors from 'cors';
 import { domainsRouter } from './routes/domains';
 import { competenciesRouter } from './routes/competencies';
 import { rolesRouter } from './routes/roles';
-import { coursesRouter } from './routes/courses';
+import { learningModulesRouter } from './routes/learning-modules';
 import mappingsRouter from './routes/mappings';
 
 const app = express();
@@ -27,7 +27,7 @@ app.get('/health', (req, res) => {
 app.use('/api/domains', domainsRouter);
 app.use('/api/competencies', competenciesRouter);
 app.use('/api/roles', rolesRouter);
-app.use('/api/courses', coursesRouter);
+app.use('/api/learning-modules', learningModulesRouter);
 app.use('/api/mappings', mappingsRouter);
 
 // 404 handler

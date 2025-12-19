@@ -26,9 +26,9 @@ export function HomePage() {
     },
     {
       icon: BookOpen,
-      title: 'Courses',
-      description: 'Access training materials and courses aligned with competency requirements.',
-      href: '/courses',
+      title: 'Learning Modules',
+      description: 'Access training materials, courses, videos, case studies, and briefs aligned with competency requirements.',
+      href: '/learning-modules',
       color: 'from-purple-500 to-purple-600'
     },
     {

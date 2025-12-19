@@ -1,18 +1,18 @@
 /**
- * Courses Page
- * Version: 2.0.0
+ * Learning Modules Page
+ * Version: 3.0.0
  */
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { BookOpen, GraduationCap, Video, FileText, Award, Info } from 'lucide-react';
 
-export function CoursesPage() {
+export function LearningModulesPage() {
   return (
     <div className="space-y-8 p-6">
       <div className="flex flex-col space-y-4">
-        <h1 className="text-4xl font-bold gradient-text">Training & Courses</h1>
+        <h1 className="text-4xl font-bold gradient-text">Learning Modules</h1>
         <p className="text-lg text-slate-600">
-          Access training materials and courses aligned with digital health competency requirements.
+          Access training materials, courses, videos, case studies, and other learning resources aligned with digital health competency requirements.
         </p>
       </div>
 
@@ -24,7 +24,7 @@ export function CoursesPage() {
               <Info className="h-5 w-5 text-white" />
             </div>
             <div>
-              <CardTitle className="text-xl">About Training Resources</CardTitle>
+              <CardTitle className="text-xl">About Learning Resources</CardTitle>
               <CardDescription className="text-base">
                 Competency-aligned learning pathways
               </CardDescription>
@@ -33,17 +33,17 @@ export function CoursesPage() {
         </CardHeader>
         <CardContent className="space-y-4 text-slate-600 leading-relaxed">
           <p>
-            Our training resources are carefully mapped to specific competencies and performance
+            Our learning resources are carefully mapped to specific competencies and performance
             criteria, ensuring targeted skill development for digital health professionals.
           </p>
           <p>
-            Courses cover topics across all 9 domains and 45 subdomains, providing comprehensive
+            Learning modules cover topics across all 9 domains and 45 subdomains, providing comprehensive
             learning pathways for various professional roles in digital health.
           </p>
         </CardContent>
       </Card>
 
-      {/* Course Types Grid */}
+      {/* Learning Module Types Grid */}
       <div className="grid md:grid-cols-3 gap-6">
         <Card className="glass-effect hover:shadow-xl transition-all border-t-4 border-blue-500">
           <CardHeader className="text-center">
@@ -87,11 +87,11 @@ export function CoursesPage() {
               </div>
             </div>
             <CardTitle className="gradient-text">Resources</CardTitle>
-            <CardDescription>Reference materials</CardDescription>
+            <CardDescription>Videos, case studies & briefs</CardDescription>
           </CardHeader>
           <CardContent>
             <p className="text-slate-600 text-center text-sm">
-              Documentation, guides, and supplementary learning materials.
+              Videos, case studies, briefs, guides, and supplementary learning materials.
             </p>
           </CardContent>
         </Card>
@@ -106,24 +106,24 @@ export function CoursesPage() {
             </div>
             <div>
               <CardTitle>Planned Features</CardTitle>
-              <CardDescription>Course management and tracking system</CardDescription>
+              <CardDescription>Learning module management and tracking system</CardDescription>
             </div>
           </div>
         </CardHeader>
         <CardContent>
           <div className="space-y-3 text-slate-600">
-            <p>Upcoming course management features will include:</p>
+            <p>Upcoming learning module management features will include:</p>
             <div className="grid md:grid-cols-2 gap-4 mt-4">
               <ul className="space-y-2 list-disc ml-4">
-                <li>Browse courses by competency domain</li>
+                <li>Browse learning modules by competency domain</li>
                 <li>Filter by delivery format and duration</li>
-                <li>View competency-course mappings</li>
-                <li>Track course completion progress</li>
+                <li>View competency-module mappings</li>
+                <li>Track module completion progress</li>
               </ul>
               <ul className="space-y-2 list-disc ml-4">
                 <li>Certificate generation</li>
                 <li>Role-specific learning pathways</li>
-                <li>Recommended courses by role</li>
+                <li>Recommended modules by role</li>
                 <li>Training needs gap analysis</li>
               </ul>
             </div>
@@ -144,7 +144,7 @@ export function CoursesPage() {
             Building Capacity Worldwide
           </h3>
           <p className="text-slate-600 max-w-2xl mx-auto">
-            Our training ecosystem is designed to support continuous professional development
+            Our learning ecosystem is designed to support continuous professional development
             and build digital health capacity across governments, organizations, and communities worldwide.
           </p>
         </CardContent>

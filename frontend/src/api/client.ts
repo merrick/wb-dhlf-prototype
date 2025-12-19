@@ -111,36 +111,36 @@ class ApiClient {
     });
   }
 
-  // Courses
-  async getCourses(params?: { search?: string; provider?: string }) {
+  // Learning Modules
+  async getLearningModules(params?: { search?: string; provider?: string }) {
     const searchParams = new URLSearchParams();
     if (params?.search) searchParams.append('search', params.search);
     if (params?.provider) searchParams.append('provider', params.provider);
-    
+
     const query = searchParams.toString();
-    return this.request<Course[]>(`/courses${query ? `?${query}` : ''}`);
+    return this.request<LearningModule[]>(`/learning-modules${query ? `?${query}` : ''}`);
   }
 
-  async getCourse(id: string) {
-    return this.request<Course>(`/courses/${id}`);
+  async getLearningModule(id: string) {
+    return this.request<LearningModule>(`/learning-modules/${id}`);
   }
 
-  async createCourse(course: CreateCourseRequest) {
-    return this.request<Course>('/courses', {
+  async createLearningModule(learningModule: CreateLearningModuleRequest) {
+    return this.request<LearningModule>('/learning-modules', {
       method: 'POST',
-      body: JSON.stringify(course),
+      body: JSON.stringify(learningModule),
     });
   }
 
-  async updateCourse(id: string, course: UpdateCourseRequest) {
-    return this.request<Course>(`/courses/${id}`, {
+  async updateLearningModule(id: string, learningModule: UpdateLearningModuleRequest) {
+    return this.request<LearningModule>(`/learning-modules/${id}`, {
       method: 'PUT',
-      body: JSON.stringify(course),
+      body: JSON.stringify(learningModule),
     });
   }
 
-  async deleteCourse(id: string) {
-    return this.request<void>(`/courses/${id}`, {
+  async deleteLearningModule(id: string) {
+    return this.request<void>(`/learning-modules/${id}`, {
       method: 'DELETE',
     });
   }
@@ -251,8 +251,8 @@ export interface RoleCompetencyWithDetails {
   domain_name: string;
 }
 
-export interface Course {
-  course_id: string;
+export interface LearningModule {
+  learning_module_id: string;
   title: string;
   description?: string;
   provider?: string;
@@ -276,7 +276,7 @@ export interface UpdateRoleRequest {
   role_description?: string;
 }
 
-export interface CreateCourseRequest {
+export interface CreateLearningModuleRequest {
   title: string;
   description?: string;
   provider?: string;
@@ -284,7 +284,7 @@ export interface CreateCourseRequest {
   url?: string;
 }
 
-export interface UpdateCourseRequest {
+export interface UpdateLearningModuleRequest {
   title?: string;
   description?: string;
   provider?: string;

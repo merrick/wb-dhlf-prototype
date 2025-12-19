@@ -76,9 +76,9 @@ export const role_competencies = sqliteTable('role_competencies', {
   updated_at: text('updated_at').default(sql`CURRENT_TIMESTAMP`)
 });
 
-// Courses table (for future use)
-export const courses = sqliteTable('courses', {
-  course_id: text('course_id').primaryKey(),
+// Learning Modules table (for future use)
+export const learning_modules = sqliteTable('learning_modules', {
+  learning_module_id: text('learning_module_id').primaryKey(),
   title: text('title').notNull(),
   description: text('description'),
   provider: text('provider'),
@@ -88,10 +88,10 @@ export const courses = sqliteTable('courses', {
   updated_at: text('updated_at').default(sql`CURRENT_TIMESTAMP`)
 });
 
-// Course-Competency mappings table (for future use)
-export const course_competencies = sqliteTable('course_competencies', {
-  course_competency_id: text('course_competency_id').primaryKey(),
-  course_id: text('course_id').notNull().references(() => courses.course_id),
+// Learning Module-Competency mappings table (for future use)
+export const learning_module_competencies = sqliteTable('learning_module_competencies', {
+  learning_module_competency_id: text('learning_module_competency_id').primaryKey(),
+  learning_module_id: text('learning_module_id').notNull().references(() => learning_modules.learning_module_id),
   competency_id: text('competency_id').notNull().references(() => competencies.competency_id),
   coverage_level: text('coverage_level'), // Full, Partial, Introduction
   notes: text('notes'),
@@ -118,8 +118,8 @@ export type NewRole = typeof roles.$inferInsert;
 export type RoleCompetency = typeof role_competencies.$inferSelect;
 export type NewRoleCompetency = typeof role_competencies.$inferInsert;
 
-export type Course = typeof courses.$inferSelect;
-export type NewCourse = typeof courses.$inferInsert;
+export type LearningModule = typeof learning_modules.$inferSelect;
+export type NewLearningModule = typeof learning_modules.$inferInsert;
 
-export type CourseCompetency = typeof course_competencies.$inferSelect;
-export type NewCourseCompetency = typeof course_competencies.$inferInsert;
+export type LearningModuleCompetency = typeof learning_module_competencies.$inferSelect;
+export type NewLearningModuleCompetency = typeof learning_module_competencies.$inferInsert;

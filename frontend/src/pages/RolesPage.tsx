@@ -1,8 +1,8 @@
 /**
  * Roles Page
- * Version: 4.0.0
+ * Version: 4.1.0
  *
- * Now includes competency mapping display and modal functionality
+ * Now includes competency mapping display with collapsible domains
  */
 
 import { useState, useEffect } from 'react';
@@ -19,6 +19,7 @@ export function RolesPage() {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedType, setSelectedType] = useState<string | null>(null);
   const [expandedRoles, setExpandedRoles] = useState<Set<string>>(new Set());
+  const [expandedDomains, setExpandedDomains] = useState<Record<string, Set<string>>>({});
   const [roleCompetencies, setRoleCompetencies] = useState<Record<string, RoleCompetencyWithDetails[]>>({});
   const [loadingCompetencies, setLoadingCompetencies] = useState<Set<string>>(new Set());
   const [selectedCompetency, setSelectedCompetency] = useState<CompetencyWithDetails | null>(null);
@@ -102,6 +103,19 @@ export function RolesPage() {
       newExpanded.add(roleId);
     }
     setExpandedRoles(newExpanded);
+  };
+
+  const toggleDomainExpansion = (roleId: string, domainName: string) => {
+    setExpandedDomains(prev => {
+      const roleDomains = prev[roleId] || new Set();
+      const newDomains = new Set(roleDomains);
+      if (newDomains.has(domainName)) {
+        newDomains.delete(domainName);
+      } else {
+        newDomains.add(domainName);
+      }
+      return { ...prev, [roleId]: newDomains };
+    });
   };
 
   const handleTypeFilter = (type: string | null) => {
@@ -282,38 +296,55 @@ export function RolesPage() {
 
                             {!isLoadingComp && competencies.length > 0 && (
                               <div className="space-y-4">
-                                {Object.entries(groupedCompetencies).map(([domainName, domainComps]) => (
-                                  <div key={domainName} className="border-l-4 border-indigo-300 pl-4 py-2">
-                                    <h5 className="font-bold text-indigo-700 mb-3 text-base">
-                                      {domainName}
-                                    </h5>
-                                    <div className="space-y-2">
-                                      {domainComps.map((comp) => (
-                                        <div
-                                          key={comp.role_competency_id}
-                                          className="p-3 bg-white/90 border border-blue-200 rounded-lg hover:shadow-md hover:border-blue-400 transition-all cursor-pointer"
-                                          onClick={() => handleCompetencyClick(comp.competency_id)}
-                                        >
-                                          <div className="flex items-start justify-between">
-                                            <div className="flex-1">
-                                              <div className="inline-block px-2 py-1 bg-blue-100 text-blue-700 font-semibold text-xs rounded-md mb-1">
-                                                {comp.competency_code}
-                                              </div>
-                                              <div className="font-semibold text-slate-800 text-sm">
-                                                {comp.competency_title}
-                                              </div>
-                                              {comp.competency_statement && (
-                                                <div className="text-xs text-slate-600 mt-1 leading-relaxed">
-                                                  {comp.competency_statement}
+                                {Object.entries(groupedCompetencies).map(([domainName, domainComps]) => {
+                                  const isDomainExpanded = expandedDomains[role.role_id]?.has(domainName) || false;
+
+                                  return (
+                                    <div key={domainName} className="border-l-4 border-indigo-300 pl-4 py-2">
+                                      <div
+                                        className="flex items-center gap-2 cursor-pointer hover:bg-indigo-50/50 rounded px-2 py-1 -ml-2 transition-colors"
+                                        onClick={() => toggleDomainExpansion(role.role_id, domainName)}
+                                      >
+                                        {isDomainExpanded ? (
+                                          <ChevronDown className="w-4 h-4 text-indigo-600 flex-shrink-0" />
+                                        ) : (
+                                          <ChevronRight className="w-4 h-4 text-indigo-600 flex-shrink-0" />
+                                        )}
+                                        <h5 className="font-bold text-indigo-700 text-base">
+                                          {domainName} ({domainComps.length})
+                                        </h5>
+                                      </div>
+
+                                      {isDomainExpanded && (
+                                        <div className="space-y-2 mt-3">
+                                          {domainComps.map((comp) => (
+                                            <div
+                                              key={comp.role_competency_id}
+                                              className="p-3 bg-white/90 border border-blue-200 rounded-lg hover:shadow-md hover:border-blue-400 transition-all cursor-pointer"
+                                              onClick={() => handleCompetencyClick(comp.competency_id)}
+                                            >
+                                              <div className="flex items-start justify-between">
+                                                <div className="flex-1">
+                                                  <div className="inline-block px-2 py-1 bg-blue-100 text-blue-700 font-semibold text-xs rounded-md mb-1">
+                                                    {comp.competency_code}
+                                                  </div>
+                                                  <div className="font-semibold text-slate-800 text-sm">
+                                                    {comp.competency_title}
+                                                  </div>
+                                                  {comp.competency_statement && (
+                                                    <div className="text-xs text-slate-600 mt-1 leading-relaxed">
+                                                      {comp.competency_statement}
+                                                    </div>
+                                                  )}
                                                 </div>
-                                              )}
+                                              </div>
                                             </div>
-                                          </div>
+                                          ))}
                                         </div>
-                                      ))}
+                                      )}
                                     </div>
-                                  </div>
-                                ))}
+                                  );
+                                })}
                               </div>
                             )}
                           </div>
